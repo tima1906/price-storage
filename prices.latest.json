@@ -1,0 +1,18 @@
+{
+  "Charm | Lil' SAS": [
+    {
+      "color": "RED",
+      "range": [
+        1,
+        1999
+      ]
+    },
+    {
+      "color": "ORANGE",
+      "range": [
+        2000,
+        11999
+      ]
+    }
+  ]
+}
