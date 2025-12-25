@@ -1,1 +1,8052 @@
-{}
+{
+  "Glock-18 | Fade (Factory New)": {},
+  "AUG | Hot Rod (Factory New)": {},
+  "Negev | Anodized Navy (Factory New)": {},
+  "MP9 | Bulldozer (Factory New)": {},
+  "Five-SeveN | Candy Apple (Factory New)": {},
+  "UMP-45 | Caramel (Factory New)": {},
+  "SG 553 | Tornado (Factory New)": {},
+  "SSG 08 | Blood in the Water (Factory New)": {},
+  "P90 | Cold Blooded (Factory New)": {},
+  "USP-S | Serum (Factory New)": {},
+  "MP9 | Hypnotic (Factory New)": {},
+  "Dual Berettas | Hemoglobin (Factory New)": {
+    "0.002": [
+      24.0
+    ]
+  },
+  "Five-SeveN | Case Hardened (Factory New)": {
+    "0.18": [
+      11.67
+    ],
+    "0.01": [
+      28.3
+    ]
+  },
+  "Nova | Graphite (Factory New)": {
+    "0.0012": [
+      22.22
+    ]
+  },
+  "M4A1-S | Blood Tiger (Factory New)": {},
+  "Tec-9 | Blue Titanium (Factory New)": {},
+  "P250 | Hive (Factory New)": {
+    "0.003": [
+      4.77
+    ]
+  },
+  "FAMAS | Hexane (Factory New)": {},
+  "SCAR-20 | Crimson Web (Factory New)": {},
+  "M4A4 | Tornado (Factory New)": {},
+  "Dual Berettas | Anodized Navy (Factory New)": {},
+  "Tec-9 | Brass (Factory New)": {},
+  "P250 | Gunsmoke (Factory New)": {},
+  "Nova | Walnut (Factory New)": {},
+  "MAG-7 | Sand Dune (Factory New)": {},
+  "CZ75-Auto | Victoria (Factory New)": {},
+  "P250 | Undertow (Factory New)": {},
+  "CZ75-Auto | The Fuschia Is Now (Factory New)": {},
+  "Five-SeveN | Copper Galaxy (Factory New)": {},
+  "Tec-9 | Titanium Bit (Factory New)": {},
+  "USP-S | Stainless (Factory New)": {
+    "0.18": [
+      7.35
+    ],
+    "0.08": [
+      15.28
+    ],
+    "0.008": [
+      54.4
+    ]
+  },
+  "Desert Eagle | Heirloom (Factory New)": {},
+  "CZ75-Auto | Tread Plate (Factory New)": {},
+  "Glock-18 | Blue Fissure (Factory New)": {
+    "0.18": [
+      2.67
+    ]
+  },
+  "Dual Berettas | Panther (Factory New)": {
+    "0.08": [
+      2.98
+    ]
+  },
+  "CZ75-Auto | Crimson Web (Factory New)": {
+    "0.18": [
+      1.66
+    ]
+  },
+  "P2000 | Red FragCam (Factory New)": {
+    "0.007": [
+      5.6
+    ]
+  },
+  "AK-47 | Fire Serpent (Factory New)": {
+    "0.18": [
+      1058.37
+    ],
+    "0.08": [
+      1684.57
+    ]
+  },
+  "Desert Eagle | Golden Koi (Factory New)": {},
+  "AWP | Graphite (Factory New)": {},
+  "P2000 | Ocean Foam (Factory New)": {},
+  "P90 | Emerald Dragon (Factory New)": {},
+  "M4A1-S | Bright Water (Factory New)": {},
+  "M4A4 | Zirka (Factory New)": {},
+  "USP-S | Overgrowth (Factory New)": {},
+  "MAC-10 | Graven (Factory New)": {},
+  "Nova | Tempest (Factory New)": {},
+  "G3SG1 | Demeter (Factory New)": {},
+  "Galil AR | Shattered (Factory New)": {},
+  "UMP-45 | Bone Pile (Factory New)": {},
+  "Dual Berettas | Black Limba (Factory New)": {},
+  "SG 553 | Wave Spray (Factory New)": {},
+  "AWP | Lightning Strike (Factory New)": {},
+  "AK-47 | Case Hardened (Factory New)": {
+    "0.18": [
+      239.99
+    ],
+    "0.08": [
+      305.0
+    ],
+    "0.01": [
+      1198.03
+    ]
+  },
+  "Desert Eagle | Hypnotic (Factory New)": {},
+  "Glock-18 | Dragon Tattoo (Factory New)": {
+    "0.0008": [
+      227.03
+    ]
+  },
+  "M4A1-S | Dark Water (Factory New)": {},
+  "USP-S | Dark Water (Factory New)": {},
+  "MP7 | Skulls (Factory New)": {},
+  "AUG | Wings (Factory New)": {},
+  "SG 553 | Ultraviolet (Factory New)": {
+    "0.18": [
+      15.0
+    ]
+  },
+  "Desert Eagle | Blaze (Factory New)": {},
+  "Sawed-Off | Copper (Factory New)": {},
+  "AUG | Copperhead (Factory New)": {},
+  "AWP | Snake Camo (Factory New)": {},
+  "P2000 | Scorpion (Factory New)": {},
+  "Glock-18 | Brass (Factory New)": {
+    "0.18": [
+      143.07
+    ]
+  },
+  "AK-47 | Predator (Factory New)": {
+    "0.18": [
+      17.54
+    ]
+  },
+  "M4A4 | Desert Storm (Factory New)": {},
+  "SCAR-20 | Palm (Factory New)": {},
+  "M4A4 | Modern Hunter (Factory New)": {},
+  "XM1014 | Blaze Orange (Factory New)": {},
+  "P250 | Modern Hunter (Factory New)": {},
+  "PP-Bizon | Modern Hunter (Factory New)": {},
+  "Nova | Modern Hunter (Factory New)": {},
+  "Nova | Blaze Orange (Factory New)": {},
+  "SCAR-20 | Splash Jam (Factory New)": {},
+  "P2000 | Grassland Leaves (Factory New)": {},
+  "MAC-10 | Tornado (Factory New)": {},
+  "XM1014 | Grassland (Factory New)": {},
+  "PP-Bizon | Forest Leaves (Factory New)": {},
+  "Tec-9 | Nuclear Threat (Factory New)": {},
+  "P250 | Nuclear Threat (Factory New)": {},
+  "M4A4 | Radiation Hazard (Factory New)": {
+    "0.18": [
+      66.22
+    ]
+  },
+  "P90 | Fallout Warning (Factory New)": {
+    "0.18": [
+      16.83
+    ]
+  },
+  "XM1014 | Fallout Warning (Factory New)": {},
+  "UMP-45 | Fallout Warning (Factory New)": {
+    "0.18": [
+      14.99
+    ]
+  },
+  "PP-Bizon | Irradiated Alert (Factory New)": {},
+  "MAG-7 | Irradiated Alert (Factory New)": {},
+  "Sawed-Off | Irradiated Alert (Factory New)": {},
+  "AWP | BOOM (Factory New)": {},
+  "P90 | Death by Kitty (Factory New)": {},
+  "AK-47 | Red Laminate (Factory New)": {
+    "0.18": [
+      68.0
+    ]
+  },
+  "P250 | Splash (Factory New)": {},
+  "Galil AR | Orange DDPAT (Factory New)": {},
+  "Sawed-Off | Orange DDPAT (Factory New)": {},
+  "M4A4 | Faded Zebra (Factory New)": {},
+  "MAG-7 | Memento (Factory New)": {},
+  "FAMAS | Doomkitty (Factory New)": {},
+  "Tec-9 | Ossified (Factory New)": {},
+  "M4A4 | Jungle Tiger (Factory New)": {},
+  "AK-47 | Jungle Spray (Factory New)": {
+    "0.18": [
+      7.33
+    ]
+  },
+  "Five-SeveN | Jungle (Factory New)": {},
+  "Nova | Forest Leaves (Factory New)": {},
+  "SSG 08 | Lichen Dashed (Factory New)": {},
+  "AK-47 | Black Laminate (Factory New)": {
+    "0.18": [
+      38.48
+    ],
+    "0.08": [
+      70.0
+    ]
+  },
+  "Dual Berettas | Demolition (Factory New)": {},
+  "P90 | Glacier Mesh (Factory New)": {},
+  "PP-Bizon | Carbon Fiber (Factory New)": {},
+  "MAC-10 | Urban DDPAT (Factory New)": {},
+  "XM1014 | Urban Perforated (Factory New)": {},
+  "P2000 | Silver (Factory New)": {},
+  "MP7 | Whiteout (Factory New)": {
+    "0.18": [
+      40.0
+    ]
+  },
+  "M249 | Blizzard Marbleized (Factory New)": {},
+  "Galil AR | Winter Forest (Factory New)": {},
+  "G3SG1 | Arctic Camo (Factory New)": {},
+  "FAMAS | Contrast Spray (Factory New)": {},
+  "AWP | Asiimov (Factory New)": {},
+  "AUG | Chameleon (Factory New)": {
+    "0.18": [
+      76.11
+    ]
+  },
+  "AK-47 | Redline (Factory New)": {
+    "0.18": [
+      59.8
+    ]
+  },
+  "Nova | Antique (Factory New)": {},
+  "P90 | Trigon (Factory New)": {},
+  "USP-S | Guardian (Factory New)": {
+    "0.0038": [
+      15.99
+    ],
+    "0.00038": [
+      42.0
+    ]
+  },
+  "SG 553 | Pulse (Factory New)": {
+    "0.18": [
+      3.17
+    ]
+  },
+  "MAC-10 | Heat (Factory New)": {
+    "0.18": [
+      4.84
+    ],
+    "0.01": [
+      22.72
+    ]
+  },
+  "FAMAS | Sergeant (Factory New)": {
+    "0.18": [
+      8.99
+    ]
+  },
+  "Negev | Terrain (Factory New)": {},
+  "MAG-7 | Heaven Guard (Factory New)": {
+    "0.004": [
+      2.4
+    ],
+    "0.0004": [
+      4.32
+    ]
+  },
+  "Tec-9 | Sandstorm (Factory New)": {
+    "0.18": [
+      1.1
+    ]
+  },
+  "UMP-45 | Corporal (Factory New)": {},
+  "P2000 | Fire Elemental (Factory New)": {
+    "0.18": [
+      74.65
+    ],
+    "0.08": [
+      80.67
+    ]
+  },
+  "AK-47 | Wasteland Rebel (Factory New)": {
+    "0.18": [
+      83.87
+    ]
+  },
+  "XM1014 | Tranquility (Factory New)": {
+    "0.18": [
+      9.45
+    ],
+    "0.08": [
+      15.25
+    ]
+  },
+  "P250 | Cartel (Factory New)": {},
+  "SCAR-20 | Cardiac (Factory New)": {},
+  "M4A1-S | Basilisk (Factory New)": {
+    "0.18": [
+      7.54
+    ],
+    "0.08": [
+      10.25
+    ],
+    "0.0068": [
+      41.5
+    ]
+  },
+  "Glock-18 | Grinder (Factory New)": {},
+  "M4A4 | Griffin (Factory New)": {
+    "0.18": [
+      4.2
+    ],
+    "0.08": [
+      7.48
+    ],
+    "0.008": [
+      55.69
+    ]
+  },
+  "Five-SeveN | Urban Hazard (Factory New)": {
+    "0.0025": [
+      6.09
+    ]
+  },
+  "Sawed-Off | Highwayman (Factory New)": {},
+  "G3SG1 | Murky (Factory New)": {
+    "0.0025": [
+      3.48
+    ]
+  },
+  "MP9 | Dart (Factory New)": {},
+  "MAG-7 | Firestarter (Factory New)": {},
+  "UMP-45 | Delusion (Factory New)": {},
+  "M4A4 | Asiimov (Factory New)": {},
+  "Sawed-Off | The Kraken (Factory New)": {},
+  "AWP | Redline (Factory New)": {},
+  "M4A1-S | Guardian (Factory New)": {
+    "0.18": [
+      32.1
+    ],
+    "0.08": [
+      36.73
+    ],
+    "0.005": [
+      99.64
+    ]
+  },
+  "P250 | Mehndi (Factory New)": {},
+  "MP9 | Rose Iron (Factory New)": {},
+  "FAMAS | Pulse (Factory New)": {},
+  "Dual Berettas | Marina (Factory New)": {},
+  "Nova | Rising Skull (Factory New)": {},
+  "Five-SeveN | Kami (Factory New)": {
+    "0.003": [
+      8.0
+    ]
+  },
+  "Galil AR | Sandstorm (Factory New)": {
+    "0.18": [
+      1.5
+    ]
+  },
+  "M249 | Magma (Factory New)": {},
+  "PP-Bizon | Cobalt Halftone (Factory New)": {},
+  "M4A4 | Royal Paladin (Factory New)": {
+    "0.18": [
+      81.55
+    ],
+    "0.08": [
+      178.95
+    ]
+  },
+  "R8 Revolver | Fade (Factory New)": {},
+  "AK-47 | Point Disarray (Factory New)": {
+    "0.18": [
+      15.83
+    ],
+    "0.08": [
+      27.48
+    ],
+    "0.0067": [
+      122.04
+    ]
+  },
+  "G3SG1 | The Executioner (Factory New)": {},
+  "P90 | Shapewood (Factory New)": {},
+  "Tec-9 | Avalanche (Factory New)": {
+    "0.01": [
+      15.89
+    ]
+  },
+  "XM1014 | Teclu Burner (Factory New)": {
+    "0.0065": [
+      14.76
+    ]
+  },
+  "Five-SeveN | Retrobution (Factory New)": {
+    "0.01": [
+      13.88
+    ]
+  },
+  "Negev | Power Loader (Factory New)": {
+    "0.01": [
+      19.22
+    ]
+  },
+  "SG 553 | Tiger Moth (Factory New)": {
+    "0.01": [
+      14.99
+    ]
+  },
+  "PP-Bizon | Fuel Rod (Factory New)": {
+    "0.01": [
+      15.55
+    ]
+  },
+  "Desert Eagle | Corinthian (Factory New)": {
+    "0.0044": [
+      2.18
+    ],
+    "0.00044": [
+      5.0
+    ]
+  },
+  "P2000 | Imperial (Factory New)": {
+    "0.002": [
+      2.96
+    ]
+  },
+  "SCAR-20 | Outbreak (Factory New)": {},
+  "R8 Revolver | Crimson Web (Factory New)": {},
+  "AUG | Ricochet (Factory New)": {
+    "0.008": [
+      2.59
+    ]
+  },
+  "Sawed-Off | Yorick (Factory New)": {
+    "0.01": [
+      2.95
+    ]
+  },
+  "M4A4 | Bullet Rain (Factory New)": {},
+  "AK-47 | Jaguar (Factory New)": {
+    "0.18": [
+      109.67
+    ]
+  },
+  "AWP | Corticera (Factory New)": {},
+  "P2000 | Corticera (Factory New)": {},
+  "Nova | Bloomstick (Factory New)": {},
+  "AUG | Bengal Tiger (Factory New)": {},
+  "Desert Eagle | Crimson Web (Factory New)": {
+    "0.18": [
+      16.93
+    ]
+  },
+  "MP7 | Ocean Foam (Factory New)": {},
+  "Glock-18 | Steel Disruption (Factory New)": {},
+  "PP-Bizon | Blue Streak (Factory New)": {},
+  "USP-S | Blood Tiger (Factory New)": {
+    "0.003": [
+      14.23
+    ]
+  },
+  "P90 | Virus (Factory New)": {},
+  "MAC-10 | Ultraviolet (Factory New)": {},
+  "SSG 08 | Dark Water (Factory New)": {},
+  "CZ75-Auto | Hexane (Factory New)": {},
+  "XM1014 | Red Python (Factory New)": {},
+  "Negev | Bratatat (Factory New)": {
+    "0.01": [
+      10.5
+    ]
+  },
+  "Desert Eagle | Cobalt Disruption (Factory New)": {},
+  "M4A4 | X-Ray (Factory New)": {},
+  "AWP | Electric Hive (Factory New)": {
+    "0.004": [
+      157.17
+    ]
+  },
+  "FAMAS | Afterimage (Factory New)": {},
+  "AK-47 | Blue Laminate (Factory New)": {},
+  "P90 | Blind Spot (Factory New)": {},
+  "Galil AR | Blue Titanium (Factory New)": {
+    "0.0004": [
+      12.0
+    ]
+  },
+  "P250 | Steel Disruption (Factory New)": {},
+  "Five-SeveN | Nightshade (Factory New)": {},
+  "G3SG1 | Azure Zebra (Factory New)": {
+    "0.0028": [
+      6.62
+    ]
+  },
+  "PP-Bizon | Water Sigil (Factory New)": {},
+  "Nova | Ghost Camo (Factory New)": {},
+  "SCAR-20 | Emerald (Factory New)": {},
+  "AUG | Anodized Navy (Factory New)": {},
+  "FAMAS | Spitfire (Factory New)": {
+    "0.18": [
+      38.02
+    ]
+  },
+  "MAG-7 | Hazard (Factory New)": {},
+  "Five-SeveN | Anodized Gunmetal (Factory New)": {},
+  "PP-Bizon | Rust Coat (Factory New)": {},
+  "Glock-18 | Sand Dune (Factory New)": {},
+  "Negev | Palm (Factory New)": {},
+  "Tec-9 | Tornado (Factory New)": {},
+  "SSG 08 | Mayan Dreams (Factory New)": {},
+  "P250 | Facets (Factory New)": {},
+  "Sawed-Off | Mosaico (Factory New)": {},
+  "MP9 | Dry Season (Factory New)": {},
+  "XM1014 | Jungle (Factory New)": {},
+  "M249 | Jungle DDPAT (Factory New)": {},
+  "MP7 | Groundwater (Factory New)": {},
+  "R8 Revolver | Amber Fade (Factory New)": {
+    "0.004": [
+      5.62
+    ],
+    "0.0004": [
+      10.45
+    ]
+  },
+  "P2000 | Amber Fade (Factory New)": {
+    "0.004": [
+      9.49
+    ],
+    "0.0004": [
+      19.91
+    ]
+  },
+  "M4A1-S | VariCamo (Factory New)": {
+    "0.18": [
+      0.35
+    ],
+    "0.08": [
+      0.47
+    ],
+    "0.006": [
+      2.17
+    ],
+    "0.0006": [
+      4.58
+    ],
+    "6e-05": [
+      30.0
+    ]
+  },
+  "SG 553 | Damascus Steel (Factory New)": {
+    "0.01": [
+      1.81
+    ],
+    "0.001": [
+      3.56
+    ]
+  },
+  "PP-Bizon | Brass (Factory New)": {
+    "0.18": [
+      0.4
+    ],
+    "0.01": [
+      2.59
+    ],
+    "0.001": [
+      5.89
+    ]
+  },
+  "AK-47 | Safari Mesh (Factory New)": {
+    "0.18": [
+      0.08
+    ],
+    "0.08": [
+      0.31
+    ]
+  },
+  "Five-SeveN | Orange Peel (Factory New)": {},
+  "G3SG1 | Desert Storm (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "MAC-10 | Palm (Factory New)": {
+    "0.18": [
+      0.15
+    ]
+  },
+  "P90 | Sand Spray (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Sawed-Off | Snake Camo (Factory New)": {
+    "0.18": [
+      0.04
+    ]
+  },
+  "Tec-9 | VariCamo (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.006": [
+      0.6
+    ],
+    "0.0006": [
+      1.8
+    ],
+    "6e-05": [
+      8.77
+    ]
+  },
+  "MP9 | Sand Dashed (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Nova | Predator (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "P250 | Sand Dune (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "SCAR-20 | Sand Mesh (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "MP9 | Hot Rod (Factory New)": {},
+  "UMP-45 | Blaze (Factory New)": {},
+  "MAC-10 | Amber Fade (Factory New)": {},
+  "MAG-7 | Bulldozer (Factory New)": {
+    "0.18": [
+      20.83
+    ]
+  },
+  "Glock-18 | Groundwater (Factory New)": {},
+  "SSG 08 | Tropical Storm (Factory New)": {},
+  "SG 553 | Gator Mesh (Factory New)": {},
+  "MP7 | Orange Peel (Factory New)": {},
+  "Negev | CaliCamo (Factory New)": {},
+  "Galil AR | Hunting Blind (Factory New)": {},
+  "Five-SeveN | Contractor (Factory New)": {},
+  "P250 | Bone Mask (Factory New)": {},
+  "AUG | Colony (Factory New)": {},
+  "G3SG1 | Safari Mesh (Factory New)": {},
+  "P90 | Scorched (Factory New)": {},
+  "SSG 08 | Acid Fade (Factory New)": {
+    "0.0003": [
+      2.85
+    ],
+    "3e-05": [
+      13.0
+    ]
+  },
+  "M4A1-S | Nitro (Factory New)": {
+    "0.18": [
+      0.51
+    ],
+    "0.08": [
+      2.5
+    ]
+  },
+  "Five-SeveN | Silver Quartz (Factory New)": {
+    "0.004": [
+      2.0
+    ],
+    "0.0004": [
+      3.0
+    ]
+  },
+  "FAMAS | Teardown (Factory New)": {
+    "0.18": [
+      0.83
+    ],
+    "0.08": [
+      0.4
+    ],
+    "0.006": [
+      1.76
+    ],
+    "0.0006": [
+      8.0
+    ]
+  },
+  "AUG | Condemned (Factory New)": {
+    "0.18": [
+      0.06
+    ]
+  },
+  "G3SG1 | VariCamo (Factory New)": {
+    "0.18": [
+      0.04
+    ],
+    "0.006": [
+      0.6
+    ],
+    "0.0006": [
+      1.4
+    ]
+  },
+  "Galil AR | VariCamo (Factory New)": {
+    "0.18": [
+      0.04
+    ],
+    "0.006": [
+      0.46
+    ],
+    "0.0006": [
+      1.5
+    ]
+  },
+  "M249 | Gator Mesh (Factory New)": {
+    "0.006": [
+      0.54
+    ],
+    "0.0006": [
+      1.2
+    ]
+  },
+  "MP9 | Orange Peel (Factory New)": {
+    "0.18": [
+      0.06
+    ]
+  },
+  "USP-S | Forest Leaves (Factory New)": {
+    "0.18": [
+      0.05
+    ]
+  },
+  "Dual Berettas | Contractor (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Tec-9 | Army Mesh (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.12
+    ],
+    "0.0006": [
+      0.42
+    ],
+    "6e-05": [
+      3.14
+    ]
+  },
+  "MP7 | Army Recon (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "SCAR-20 | Contractor (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "SSG 08 | Blue Spruce (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Glock-18 | Candy Apple (Factory New)": {
+    "0.003": [
+      4.5
+    ],
+    "0.0003": [
+      22.99
+    ]
+  },
+  "AWP | Pit Viper (Factory New)": {},
+  "MP7 | Anodized Navy (Factory New)": {
+    "0.0008": [
+      3.45
+    ],
+    "8e-05": [
+      13.97
+    ]
+  },
+  "Sawed-Off | Full Stop (Factory New)": {
+    "0.18": [
+      0.17
+    ],
+    "0.08": [
+      0.26
+    ],
+    "0.006": [
+      1.4
+    ]
+  },
+  "M4A1-S | Boreal Forest (Factory New)": {
+    "0.18": [
+      0.13
+    ]
+  },
+  "Nova | Candy Apple (Factory New)": {
+    "0.003": [
+      0.49
+    ],
+    "0.0003": [
+      12.15
+    ]
+  },
+  "Dual Berettas | Stained (Factory New)": {
+    "0.01": [
+      1.0
+    ],
+    "0.001": [
+      3.6
+    ]
+  },
+  "P2000 | Granite Marbleized (Factory New)": {},
+  "XM1014 | CaliCamo (Factory New)": {
+    "0.006": [
+      0.55
+    ],
+    "0.0006": [
+      1.94
+    ]
+  },
+  "UMP-45 | Gunsmoke (Factory New)": {},
+  "AUG | Contractor (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "FAMAS | Colony (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "PP-Bizon | Sand Dashed (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Tec-9 | Groundwater (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Nova | Sand Dune (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "AK-47 | Emerald Pinstripe (Factory New)": {
+    "0.18": [
+      3.33
+    ],
+    "0.08": [
+      7.04
+    ],
+    "0.01": [
+      17.32
+    ]
+  },
+  "P250 | Franklin (Factory New)": {
+    "0.004": [
+      10.52
+    ]
+  },
+  "Desert Eagle | Meteorite (Factory New)": {
+    "0.0018": [
+      2.65
+    ],
+    "0.00018": [
+      19.0
+    ]
+  },
+  "Galil AR | Tuxedo (Factory New)": {
+    "0.18": [
+      1.0
+    ],
+    "0.08": [
+      2.05
+    ],
+    "0.008": [
+      4.51
+    ]
+  },
+  "CZ75-Auto | Tuxedo (Factory New)": {
+    "0.18": [
+      0.45
+    ],
+    "0.08": [
+      0.75
+    ],
+    "0.008": [
+      2.5
+    ],
+    "0.0008": [
+      7.99
+    ]
+  },
+  "MAC-10 | Silver (Factory New)": {
+    "0.0008": [
+      1.48
+    ],
+    "8e-05": [
+      16.52
+    ]
+  },
+  "UMP-45 | Carbon Fiber (Factory New)": {
+    "0.0012": [
+      0.58
+    ],
+    "0.00012": [
+      4.99
+    ]
+  },
+  "Glock-18 | Death Rattle (Factory New)": {},
+  "Nova | Caged Steel (Factory New)": {
+    "0.002": [
+      0.48
+    ],
+    "0.0002": [
+      2.99
+    ]
+  },
+  "G3SG1 | Green Apple (Factory New)": {
+    "0.003": [
+      0.43
+    ],
+    "0.0003": [
+      2.0
+    ]
+  },
+  "Sawed-Off | Forest DDPAT (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Negev | Army Sheen (Factory New)": {
+    "0.003": [
+      0.3
+    ],
+    "0.0003": [
+      0.57
+    ],
+    "3e-05": [
+      4.93
+    ]
+  },
+  "Tec-9 | Urban DDPAT (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.42
+    ]
+  },
+  "MP7 | Forest DDPAT (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "SG 553 | Army Sheen (Factory New)": {
+    "0.003": [
+      0.17
+    ],
+    "0.0003": [
+      0.53
+    ],
+    "3e-05": [
+      4.99
+    ]
+  },
+  "R8 Revolver | Bone Mask (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Tec-9 | Red Quartz (Factory New)": {
+    "0.004": [
+      0.72
+    ],
+    "0.0004": [
+      6.0
+    ]
+  },
+  "Desert Eagle | Urban Rubble (Factory New)": {
+    "0.18": [
+      0.2
+    ],
+    "0.08": [
+      0.57
+    ],
+    "0.005": [
+      1.37
+    ]
+  },
+  "MAC-10 | Candy Apple (Factory New)": {
+    "0.003": [
+      1.25
+    ]
+  },
+  "Sawed-Off | Amber Fade (Factory New)": {
+    "0.004": [
+      1.4
+    ]
+  },
+  "P250 | Metallic DDPAT (Factory New)": {
+    "0.0008": [
+      1.08
+    ],
+    "8e-05": [
+      11.23
+    ],
+    "1e-05": [
+      22.5
+    ]
+  },
+  "M4A4 | Urban DDPAT (Factory New)": {
+    "0.18": [
+      0.23
+    ]
+  },
+  "MAG-7 | Metallic DDPAT (Factory New)": {
+    "0.0008": [
+      1.12
+    ],
+    "8e-05": [
+      9.99
+    ]
+  },
+  "SCAR-20 | Carbon Fiber (Factory New)": {
+    "0.0012": [
+      0.75
+    ],
+    "0.00012": [
+      4.5
+    ],
+    "1e-05": [
+      49.15
+    ]
+  },
+  "P90 | Ash Wood (Factory New)": {
+    "0.18": [
+      0.05
+    ],
+    "0.0045": [
+      0.96
+    ],
+    "0.00045": [
+      6.3
+    ],
+    "5e-05": [
+      12.65
+    ]
+  },
+  "Dual Berettas | Colony (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Five-SeveN | Forest Night (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "G3SG1 | Polar Camo (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.28
+    ]
+  },
+  "UMP-45 | Urban DDPAT (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "PP-Bizon | Urban Dashed (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "Nova | Polar Mesh (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "SG 553 | Anodized Navy (Factory New)": {
+    "0.0008": [
+      1.85
+    ],
+    "8e-05": [
+      12.0
+    ]
+  },
+  "Dual Berettas | Cobalt Quartz (Factory New)": {
+    "0.004": [
+      1.0
+    ],
+    "0.0004": [
+      6.0
+    ]
+  },
+  "USP-S | Night Ops (Factory New)": {
+    "0.18": [
+      0.35
+    ],
+    "0.08": [
+      1.55
+    ],
+    "0.006": [
+      3.0
+    ],
+    "0.0006": [
+      9.5
+    ]
+  },
+  "P90 | Teardown (Factory New)": {
+    "0.18": [
+      0.15
+    ],
+    "0.08": [
+      0.45
+    ],
+    "0.006": [
+      1.85
+    ]
+  },
+  "Desert Eagle | Mudder (Factory New)": {
+    "0.18": [
+      0.07
+    ]
+  },
+  "AWP | Safari Mesh (Factory New)": {
+    "0.18": [
+      0.1
+    ],
+    "0.08": [
+      0.36
+    ]
+  },
+  "FAMAS | Cyanospatter (Factory New)": {},
+  "XM1014 | Blue Steel (Factory New)": {
+    "0.01": [
+      1.1
+    ],
+    "0.001": [
+      3.67
+    ]
+  },
+  "PP-Bizon | Night Ops (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.006": [
+      0.9
+    ],
+    "0.0006": [
+      3.87
+    ]
+  },
+  "AUG | Storm (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "G3SG1 | Jungle Dashed (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.28
+    ]
+  },
+  "Galil AR | Sage Spray (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "XM1014 | Blue Spruce (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "P250 | Boreal Forest (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "SG 553 | Waves Perforated (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "AK-47 | Vulcan (Factory New)": {
+    "0.18": [
+      265.0
+    ],
+    "0.08": [
+      509.99
+    ],
+    "0.009": [
+      1408.0
+    ]
+  },
+  "USP-S | Orion (Factory New)": {
+    "0.18": [
+      82.72
+    ],
+    "0.08": [
+      99.43
+    ]
+  },
+  "USP-S | Caiman (Factory New)": {},
+  "M4A4 | Desert-Strike (Factory New)": {
+    "0.18": [
+      37.53
+    ],
+    "0.08": [
+      54.8
+    ]
+  },
+  "M4A1-S | Atomic Alloy (Factory New)": {
+    "0.18": [
+      37.01
+    ],
+    "0.08": [
+      86.94
+    ],
+    "0.009": [
+      300.0
+    ]
+  },
+  "SCAR-20 | Cyrex (Factory New)": {},
+  "MAC-10 | Curse (Factory New)": {},
+  "XM1014 | Heaven Guard (Factory New)": {},
+  "MAC-10 | Tatter (Factory New)": {},
+  "AUG | Torque (Factory New)": {},
+  "PP-Bizon | Antique (Factory New)": {},
+  "Dual Berettas | Retribution (Factory New)": {},
+  "CZ75-Auto | Poison Dart (Factory New)": {},
+  "P90 | Desert Warfare (Factory New)": {},
+  "Tec-9 | Isaac (Factory New)": {
+    "0.01": [
+      21.74
+    ],
+    "0.001": [
+      29.16
+    ]
+  },
+  "P90 | Module (Factory New)": {
+    "0.0035": [
+      5.86
+    ]
+  },
+  "Galil AR | Kami (Factory New)": {
+    "0.18": [
+      2.47
+    ],
+    "0.08": [
+      2.87
+    ]
+  },
+  "SSG 08 | Slashed (Factory New)": {},
+  "P2000 | Pulse (Factory New)": {
+    "0.08": [
+      1.52
+    ],
+    "0.006": [
+      5.12
+    ]
+  },
+  "CZ75-Auto | Twist (Factory New)": {
+    "0.01": [
+      4.35
+    ]
+  },
+  "M4A1-S | Cyrex (Factory New)": {
+    "0.18": [
+      205.0
+    ],
+    "0.08": [
+      218.0
+    ],
+    "0.005": [
+      370.0
+    ]
+  },
+  "Desert Eagle | Conspiracy (Factory New)": {
+    "0.003": [
+      49.97
+    ]
+  },
+  "Glock-18 | Water Elemental (Factory New)": {
+    "0.18": [
+      20.81
+    ],
+    "0.08": [
+      24.75
+    ],
+    "0.007": [
+      57.98
+    ]
+  },
+  "Five-SeveN | Fowl Play (Factory New)": {},
+  "P90 | Asiimov (Factory New)": {
+    "0.18": [
+      215.71
+    ]
+  },
+  "P250 | Supernova (Factory New)": {
+    "0.004": [
+      12.97
+    ]
+  },
+  "CZ75-Auto | Tigris (Factory New)": {
+    "0.01": [
+      13.92
+    ]
+  },
+  "Nova | Koi (Factory New)": {},
+  "PP-Bizon | Osiris (Factory New)": {
+    "0.18": [
+      2.01
+    ],
+    "0.005": [
+      12.08
+    ]
+  },
+  "SSG 08 | Abyss (Factory New)": {
+    "0.01": [
+      6.0
+    ],
+    "0.001": [
+      7.95
+    ]
+  },
+  "UMP-45 | Labyrinth (Factory New)": {
+    "0.004": [
+      1.8
+    ],
+    "0.0004": [
+      2.79
+    ]
+  },
+  "MP7 | Urban Hazard (Factory New)": {
+    "0.005": [
+      1.76
+    ]
+  },
+  "Negev | Desert-Strike (Factory New)": {
+    "0.005": [
+      2.24
+    ]
+  },
+  "P2000 | Ivory (Factory New)": {
+    "0.01": [
+      2.74
+    ]
+  },
+  "AK-47 | Jet Set (Factory New)": {},
+  "AK-47 | First Class (Factory New)": {},
+  "Desert Eagle | Pilot (Factory New)": {},
+  "USP-S | Business Class (Factory New)": {},
+  "XM1014 | Red Leather (Factory New)": {},
+  "Sawed-Off | First Class (Factory New)": {},
+  "MAC-10 | Commuter (Factory New)": {},
+  "P90 | Leather (Factory New)": {},
+  "P2000 | Coach Class (Factory New)": {},
+  "SG 553 | Traveler (Factory New)": {},
+  "SSG 08 | Sand Dune (Factory New)": {},
+  "CZ75-Auto | Green Plaid (Factory New)": {},
+  "MP7 | Olive Plaid (Factory New)": {},
+  "MP9 | Green Plaid (Factory New)": {},
+  "G3SG1 | Contractor (Factory New)": {},
+  "AWP | Dragon Lore (Factory New)": {
+    "0.18": [
+      7688.5
+    ]
+  },
+  "M4A1-S | Knight (Factory New)": {},
+  "Desert Eagle | Hand Cannon (Factory New)": {},
+  "CZ75-Auto | Chalice (Factory New)": {},
+  "P2000 | Chainmail (Factory New)": {},
+  "MP9 | Dark Age (Factory New)": {},
+  "MAG-7 | Silver (Factory New)": {},
+  "USP-S | Royal Blue (Factory New)": {
+    "0.18": [
+      16.14
+    ],
+    "0.08": [
+      30.73
+    ]
+  },
+  "Nova | Green Apple (Factory New)": {},
+  "Sawed-Off | Rust Coat (Factory New)": {},
+  "MAC-10 | Indigo (Factory New)": {},
+  "Dual Berettas | Briar (Factory New)": {
+    "0.0022": [
+      9.0
+    ]
+  },
+  "UMP-45 | Indigo (Factory New)": {
+    "0.18": [
+      2.56
+    ],
+    "0.08": [
+      6.1
+    ]
+  },
+  "SCAR-20 | Storm (Factory New)": {},
+  "P90 | Storm (Factory New)": {},
+  "M4A1-S | Master Piece (Factory New)": {},
+  "AWP | Pink DDPAT (Factory New)": {
+    "0.18": [
+      71.42
+    ]
+  },
+  "USP-S | Road Rash (Factory New)": {},
+  "SSG 08 | Detour (Factory New)": {},
+  "XM1014 | VariCamo Blue (Factory New)": {},
+  "Desert Eagle | Urban DDPAT (Factory New)": {
+    "0.18": [
+      2.24
+    ]
+  },
+  "CZ75-Auto | Nitro (Factory New)": {},
+  "Glock-18 | Night (Factory New)": {
+    "0.08": [
+      14.8
+    ]
+  },
+  "MP9 | Storm (Factory New)": {},
+  "MP7 | Gunsmoke (Factory New)": {},
+  "P2000 | Grassland (Factory New)": {},
+  "MAG-7 | Storm (Factory New)": {},
+  "UMP-45 | Scorched (Factory New)": {},
+  "M249 | Contrast Spray (Factory New)": {},
+  "Sawed-Off | Sage Spray (Factory New)": {},
+  "Galil AR | Cerberus (Factory New)": {
+    "0.18": [
+      82.0
+    ],
+    "0.009": [
+      499.92
+    ]
+  },
+  "FAMAS | Styx (Factory New)": {},
+  "Tec-9 | Toxic (Factory New)": {},
+  "Glock-18 | Reactor (Factory New)": {
+    "0.01": [
+      138.07
+    ]
+  },
+  "MAC-10 | Nuclear Garden (Factory New)": {},
+  "MP9 | Setting Sun (Factory New)": {},
+  "XM1014 | Bone Machine (Factory New)": {},
+  "Five-SeveN | Hot Shot (Factory New)": {
+    "0.01": [
+      44.9
+    ]
+  },
+  "AUG | Radiation Hazard (Factory New)": {
+    "0.08": [
+      5.11
+    ],
+    "0.0055": [
+      9.78
+    ]
+  },
+  "PP-Bizon | Chemical Green (Factory New)": {
+    "0.009": [
+      13.33
+    ]
+  },
+  "SG 553 | Fallout Warning (Factory New)": {
+    "0.008": [
+      17.61
+    ]
+  },
+  "Negev | Nuclear Waste (Factory New)": {},
+  "P250 | Contamination (Factory New)": {
+    "0.0083": [
+      16.75
+    ]
+  },
+  "M4A1-S | Chantico's Fire (Factory New)": {
+    "0.18": [
+      122.0
+    ],
+    "0.0099": [
+      503.0
+    ]
+  },
+  "PP-Bizon | Judgement of Anubis (Factory New)": {
+    "0.18": [
+      114.87
+    ]
+  },
+  "AUG | Fleet Flock (Factory New)": {},
+  "P250 | Asiimov (Factory New)": {
+    "0.18": [
+      19.77
+    ]
+  },
+  "UMP-45 | Primal Saber (Factory New)": {
+    "0.18": [
+      12.7
+    ],
+    "0.08": [
+      17.92
+    ]
+  },
+  "Tec-9 | Re-Entry (Factory New)": {},
+  "XM1014 | Black Tie (Factory New)": {
+    "0.18": [
+      1.47
+    ],
+    "0.0075": [
+      13.95
+    ]
+  },
+  "Galil AR | Firefight (Factory New)": {
+    "0.01": [
+      16.63
+    ]
+  },
+  "CZ75-Auto | Red Astor (Factory New)": {},
+  "SSG 08 | Ghost Crusader (Factory New)": {
+    "0.01": [
+      22.59
+    ],
+    "0.001": [
+      43.2
+    ]
+  },
+  "MP9 | Bioleak (Factory New)": {
+    "0.005": [
+      2.3
+    ]
+  },
+  "Dual Berettas | Ventilators (Factory New)": {
+    "0.0045": [
+      1.42
+    ]
+  },
+  "G3SG1 | Orange Crash (Factory New)": {
+    "0.0052": [
+      1.8
+    ]
+  },
+  "M249 | Spectre (Factory New)": {},
+  "P2000 | Oceanic (Factory New)": {
+    "0.006": [
+      2.55
+    ]
+  },
+  "Sawed-Off | Fubar (Factory New)": {},
+  "SG 553 | Atlas (Factory New)": {
+    "0.0081": [
+      1.9
+    ]
+  },
+  "M4A1-S | Hyper Beast (Factory New)": {
+    "0.18": [
+      125.0
+    ],
+    "0.01": [
+      710.17
+    ]
+  },
+  "MAC-10 | Neon Rider (Factory New)": {
+    "0.18": [
+      114.27
+    ]
+  },
+  "Galil AR | Eco (Factory New)": {
+    "0.18": [
+      25.0
+    ]
+  },
+  "FAMAS | Djinn (Factory New)": {
+    "0.18": [
+      14.49
+    ]
+  },
+  "Five-SeveN | Monkey Business (Factory New)": {
+    "0.18": [
+      24.4
+    ]
+  },
+  "AWP | Worm God (Factory New)": {
+    "0.18": [
+      2.28
+    ],
+    "0.08": [
+      3.04
+    ],
+    "0.0045": [
+      14.0
+    ]
+  },
+  "UMP-45 | Grand Prix (Factory New)": {},
+  "AK-47 | Elite Build (Factory New)": {
+    "0.18": [
+      1.93
+    ],
+    "0.01": [
+      10.47
+    ],
+    "0.001": [
+      14.54
+    ]
+  },
+  "CZ75-Auto | Pole Position (Factory New)": {
+    "0.18": [
+      1.4
+    ],
+    "0.007": [
+      14.6
+    ]
+  },
+  "MAG-7 | Heat (Factory New)": {
+    "0.01": [
+      20.0
+    ]
+  },
+  "Desert Eagle | Bronze Deco (Factory New)": {
+    "0.18": [
+      0.41
+    ],
+    "0.08": [
+      0.9
+    ],
+    "0.0046": [
+      2.55
+    ]
+  },
+  "Negev | Man-o'-war (Factory New)": {},
+  "Sawed-Off | Origami (Factory New)": {
+    "0.0055": [
+      1.69
+    ],
+    "0.00055": [
+      4.41
+    ]
+  },
+  "MP7 | Armor Core (Factory New)": {},
+  "P250 | Valence (Factory New)": {
+    "0.18": [
+      0.8
+    ],
+    "0.08": [
+      0.52
+    ],
+    "0.008": [
+      2.06
+    ]
+  },
+  "AWP | Man-o'-war (Factory New)": {},
+  "Galil AR | Chatterbox (Factory New)": {},
+  "AK-47 | Cartel (Factory New)": {
+    "0.18": [
+      20.33
+    ],
+    "0.08": [
+      26.48
+    ],
+    "0.0075": [
+      115.85
+    ]
+  },
+  "M4A4 | 龍王 (Dragon King) (Factory New)": {
+    "0.18": [
+      19.42
+    ],
+    "0.08": [
+      38.25
+    ]
+  },
+  "P250 | Muertos (Factory New)": {
+    "0.18": [
+      11.89
+    ],
+    "0.08": [
+      14.49
+    ]
+  },
+  "Dual Berettas | Urban Shock (Factory New)": {},
+  "Desert Eagle | Naga (Factory New)": {
+    "0.01": [
+      23.81
+    ]
+  },
+  "MAC-10 | Malachite (Factory New)": {},
+  "Sawed-Off | Serenity (Factory New)": {},
+  "Glock-18 | Catacombs (Factory New)": {
+    "0.08": [
+      1.42
+    ],
+    "0.005": [
+      2.84
+    ]
+  },
+  "MP9 | Deadly Poison (Factory New)": {
+    "0.01": [
+      3.96
+    ]
+  },
+  "SCAR-20 | Grotto (Factory New)": {
+    "0.18": [
+      0.39
+    ],
+    "0.005": [
+      2.15
+    ]
+  },
+  "M249 | System Lock (Factory New)": {},
+  "XM1014 | Quicksilver (Factory New)": {},
+  "AWP | Hyper Beast (Factory New)": {
+    "0.18": [
+      43.0
+    ],
+    "0.08": [
+      83.2
+    ],
+    "0.01": [
+      240.0
+    ]
+  },
+  "AK-47 | Aquamarine Revenge (Factory New)": {
+    "0.18": [
+      57.0
+    ],
+    "0.01": [
+      339.99
+    ]
+  },
+  "MP7 | Nemesis (Factory New)": {},
+  "CZ75-Auto | Yellow Jacket (Factory New)": {},
+  "SG 553 | Cyrex (Factory New)": {},
+  "M4A4 | Evil Daimyo (Factory New)": {
+    "0.18": [
+      3.25
+    ],
+    "0.08": [
+      5.25
+    ],
+    "0.0052": [
+      17.95
+    ],
+    "0.00052": [
+      50.0
+    ]
+  },
+  "MP9 | Ruby Poison Dart (Factory New)": {
+    "0.08": [
+      2.58
+    ]
+  },
+  "FAMAS | Neural Net (Factory New)": {
+    "0.08": [
+      2.98
+    ],
+    "0.006": [
+      19.41
+    ]
+  },
+  "USP-S | Torque (Factory New)": {
+    "0.18": [
+      0.67
+    ],
+    "0.08": [
+      1.39
+    ],
+    "0.0046": [
+      3.3
+    ]
+  },
+  "Negev | Loudmouth (Factory New)": {},
+  "P2000 | Handgun (Factory New)": {
+    "0.01": [
+      12.56
+    ],
+    "0.001": [
+      21.65
+    ]
+  },
+  "Galil AR | Rocket Pop (Factory New)": {
+    "0.01": [
+      13.95
+    ],
+    "0.001": [
+      17.82
+    ]
+  },
+  "Glock-18 | Bunsen Burner (Factory New)": {
+    "0.18": [
+      0.72
+    ],
+    "0.08": [
+      1.26
+    ],
+    "0.008": [
+      3.47
+    ]
+  },
+  "P90 | Elite Build (Factory New)": {
+    "0.01": [
+      2.23
+    ]
+  },
+  "Nova | Ranger (Factory New)": {
+    "0.01": [
+      1.9
+    ],
+    "0.001": [
+      3.95
+    ]
+  },
+  "UMP-45 | Riot (Factory New)": {
+    "0.08": [
+      0.68
+    ],
+    "0.007": [
+      2.01
+    ]
+  },
+  "AWP | Medusa (Factory New)": {},
+  "M4A4 | Poseidon (Factory New)": {},
+  "M4A1-S | Icarus Fell (Factory New)": {
+    "0.001": [
+      1197.0
+    ]
+  },
+  "G3SG1 | Chronos (Factory New)": {},
+  "MP9 | Pandora's Box (Factory New)": {},
+  "UMP-45 | Minotaur's Labyrinth (Factory New)": {},
+  "AWP | Sun in Leo (Factory New)": {
+    "0.18": [
+      25.0
+    ],
+    "0.08": [
+      39.72
+    ],
+    "0.005": [
+      124.0
+    ]
+  },
+  "P2000 | Pathfinder (Factory New)": {},
+  "M249 | Shipping Forecast (Factory New)": {},
+  "Tec-9 | Hades (Factory New)": {},
+  "Nova | Moon in Libra (Factory New)": {
+    "0.005": [
+      13.98
+    ]
+  },
+  "AUG | Daedalus (Factory New)": {
+    "0.0055": [
+      12.14
+    ]
+  },
+  "MP7 | Asterion (Factory New)": {
+    "0.0055": [
+      12.38
+    ]
+  },
+  "Dual Berettas | Moon in Libra (Factory New)": {
+    "0.005": [
+      14.63
+    ]
+  },
+  "AK-47 | Hydroponic (Factory New)": {
+    "0.008": [
+      7102.47
+    ]
+  },
+  "M4A4 | Daybreak (Factory New)": {},
+  "Desert Eagle | Sunset Storm 弐 (Factory New)": {},
+  "Five-SeveN | Neon Kimono (Factory New)": {},
+  "Desert Eagle | Sunset Storm 壱 (Factory New)": {},
+  "AUG | Akihabara Accept (Factory New)": {},
+  "Tec-9 | Terrace (Factory New)": {},
+  "MAG-7 | Counter Terrace (Factory New)": {},
+  "Galil AR | Aqua Terrace (Factory New)": {},
+  "Desert Eagle | Midnight Storm (Factory New)": {
+    "0.18": [
+      25.67
+    ],
+    "0.08": [
+      43.81
+    ],
+    "0.0075": [
+      131.33
+    ]
+  },
+  "P250 | Crimson Kimono (Factory New)": {
+    "0.08": [
+      26.77
+    ]
+  },
+  "Sawed-Off | Bamboo Shadow (Factory New)": {
+    "0.006": [
+      17.99
+    ]
+  },
+  "PP-Bizon | Bamboo Print (Factory New)": {},
+  "G3SG1 | Orange Kimono (Factory New)": {
+    "0.008": [
+      13.61
+    ]
+  },
+  "Tec-9 | Bamboo Forest (Factory New)": {
+    "0.08": [
+      9.5
+    ],
+    "0.006": [
+      53.67
+    ]
+  },
+  "P250 | Mint Kimono (Factory New)": {
+    "0.08": [
+      7.33
+    ],
+    "0.008": [
+      21.31
+    ]
+  },
+  "M4A1-S | Hot Rod (Factory New)": {},
+  "Glock-18 | Twilight Galaxy (Factory New)": {},
+  "Dual Berettas | Duelist (Factory New)": {},
+  "SG 553 | Bulldozer (Factory New)": {},
+  "MAC-10 | Fade (Factory New)": {},
+  "CZ75-Auto | Emerald (Factory New)": {},
+  "P250 | Whiteout (Factory New)": {},
+  "MP7 | Full Stop (Factory New)": {},
+  "Five-SeveN | Nitro (Factory New)": {},
+  "Desert Eagle | Night (Factory New)": {
+    "0.18": [
+      14.75
+    ],
+    "0.08": [
+      36.03
+    ]
+  },
+  "USP-S | Para Green (Factory New)": {
+    "0.008": [
+      65.0
+    ]
+  },
+  "Galil AR | Urban Rubble (Factory New)": {},
+  "CZ75-Auto | Army Sheen (Factory New)": {
+    "0.003": [
+      14.5
+    ]
+  },
+  "SCAR-20 | Army Sheen (Factory New)": {},
+  "M249 | Impact Drill (Factory New)": {
+    "0.01": [
+      10.0
+    ]
+  },
+  "MAG-7 | Seabird (Factory New)": {
+    "0.01": [
+      12.97
+    ]
+  },
+  "USP-S | Kill Confirmed (Factory New)": {
+    "0.01": [
+      507.15
+    ]
+  },
+  "M4A1-S | Golden Coil (Factory New)": {
+    "0.01": [
+      443.03
+    ]
+  },
+  "AK-47 | Frontside Misty (Factory New)": {
+    "0.18": [
+      22.57
+    ],
+    "0.08": [
+      49.0
+    ]
+  },
+  "SSG 08 | Big Iron (Factory New)": {
+    "0.18": [
+      13.62
+    ],
+    "0.08": [
+      27.0
+    ]
+  },
+  "G3SG1 | Flux (Factory New)": {
+    "0.18": [
+      12.62
+    ],
+    "0.009": [
+      75.0
+    ]
+  },
+  "Galil AR | Stone Cold (Factory New)": {
+    "0.08": [
+      7.27
+    ],
+    "0.009": [
+      24.46
+    ]
+  },
+  "P250 | Wingshot (Factory New)": {
+    "0.18": [
+      2.39
+    ],
+    "0.08": [
+      4.7
+    ],
+    "0.009": [
+      14.39
+    ]
+  },
+  "MP7 | Special Delivery (Factory New)": {
+    "0.08": [
+      3.62
+    ]
+  },
+  "M249 | Nebula Crusader (Factory New)": {},
+  "Glock-18 | Wraiths (Factory New)": {
+    "0.18": [
+      0.69
+    ],
+    "0.08": [
+      0.9
+    ],
+    "0.008": [
+      3.23
+    ]
+  },
+  "FAMAS | Survivor Z (Factory New)": {},
+  "MAC-10 | Rangeen (Factory New)": {},
+  "Dual Berettas | Dualing Dragons (Factory New)": {
+    "0.01": [
+      3.39
+    ]
+  },
+  "XM1014 | Scumbria (Factory New)": {
+    "0.01": [
+      2.74
+    ]
+  },
+  "MAG-7 | Cobalt Core (Factory New)": {},
+  "SCAR-20 | Green Marine (Factory New)": {},
+  "AK-47 | Fuel Injector (Factory New)": {
+    "0.18": [
+      223.84
+    ]
+  },
+  "M4A4 | The Battlestar (Factory New)": {
+    "0.18": [
+      43.98
+    ],
+    "0.08": [
+      97.5
+    ],
+    "0.0064": [
+      320.97
+    ]
+  },
+  "Desert Eagle | Kumicho Dragon (Factory New)": {
+    "0.18": [
+      25.68
+    ],
+    "0.08": [
+      35.07
+    ],
+    "0.0076": [
+      106.21
+    ]
+  },
+  "AWP | Elite Build (Factory New)": {
+    "0.18": [
+      33.5
+    ],
+    "0.01": [
+      280.0
+    ]
+  },
+  "Nova | Hyper Beast (Factory New)": {
+    "0.18": [
+      16.0
+    ]
+  },
+  "FAMAS | Valence (Factory New)": {
+    "0.08": [
+      9.09
+    ],
+    "0.008": [
+      24.85
+    ]
+  },
+  "Glock-18 | Royal Legion (Factory New)": {
+    "0.01": [
+      45.0
+    ]
+  },
+  "MP7 | Impire (Factory New)": {
+    "0.004": [
+      24.71
+    ]
+  },
+  "Five-SeveN | Triumvirate (Factory New)": {
+    "0.08": [
+      4.29
+    ]
+  },
+  "MAG-7 | Praetorian (Factory New)": {
+    "0.08": [
+      4.4
+    ]
+  },
+  "USP-S | Lead Conduit (Factory New)": {
+    "0.01": [
+      19.09
+    ],
+    "0.001": [
+      30.73
+    ]
+  },
+  "MAC-10 | Lapis Gator (Factory New)": {
+    "0.005": [
+      6.5
+    ]
+  },
+  "SSG 08 | Necropos (Factory New)": {
+    "0.01": [
+      2.84
+    ]
+  },
+  "Dual Berettas | Cartel (Factory New)": {
+    "0.01": [
+      5.19
+    ],
+    "0.001": [
+      11.52
+    ]
+  },
+  "Tec-9 | Jambiya (Factory New)": {},
+  "PP-Bizon | Photic Zone (Factory New)": {
+    "0.01": [
+      3.5
+    ],
+    "0.001": [
+      5.45
+    ]
+  },
+  "Glock-18 | Wasteland Rebel (Factory New)": {
+    "0.18": [
+      112.0
+    ],
+    "0.08": [
+      125.91
+    ]
+  },
+  "M4A1-S | Mecha Industries (Factory New)": {
+    "0.18": [
+      118.19
+    ],
+    "0.08": [
+      198.51
+    ],
+    "0.008": [
+      408.84
+    ]
+  },
+  "M4A4 | Desolate Space (Factory New)": {
+    "0.18": [
+      21.89
+    ],
+    "0.01": [
+      175.0
+    ]
+  },
+  "P2000 | Imperial Dragon (Factory New)": {
+    "0.18": [
+      11.1
+    ]
+  },
+  "SCAR-20 | Bloodsport (Factory New)": {
+    "0.18": [
+      11.3
+    ]
+  },
+  "AWP | Phobos (Factory New)": {
+    "0.004": [
+      30.0
+    ]
+  },
+  "R8 Revolver | Reboot (Factory New)": {},
+  "AUG | Aristocrat (Factory New)": {
+    "0.18": [
+      1.8
+    ]
+  },
+  "P90 | Chopper (Factory New)": {
+    "0.18": [
+      1.78
+    ]
+  },
+  "Sawed-Off | Limelight (Factory New)": {},
+  "Tec-9 | Ice Cap (Factory New)": {
+    "0.18": [
+      0.37
+    ],
+    "0.08": [
+      1.8
+    ],
+    "0.005": [
+      3.5
+    ]
+  },
+  "Five-SeveN | Violent Daimyo (Factory New)": {
+    "0.08": [
+      0.95
+    ],
+    "0.007": [
+      3.8
+    ]
+  },
+  "P250 | Iron Clad (Factory New)": {},
+  "Nova | Exo (Factory New)": {
+    "0.005": [
+      2.11
+    ]
+  },
+  "MAC-10 | Carnivore (Factory New)": {
+    "0.01": [
+      3.18
+    ]
+  },
+  "PP-Bizon | Harvester (Factory New)": {
+    "0.01": [
+      2.99
+    ]
+  },
+  "SG 553 | Aerial (Factory New)": {
+    "0.006": [
+      2.44
+    ]
+  },
+  "AK-47 | Neon Revolution (Factory New)": {
+    "0.18": [
+      112.59
+    ],
+    "0.08": [
+      186.12
+    ]
+  },
+  "FAMAS | Roll Cage (Factory New)": {
+    "0.18": [
+      119.42
+    ],
+    "0.01": [
+      250.0
+    ]
+  },
+  "AUG | Syd Mead (Factory New)": {
+    "0.18": [
+      12.6
+    ],
+    "0.08": [
+      19.75
+    ]
+  },
+  "MP9 | Airlock (Factory New)": {},
+  "Tec-9 | Fuel Injector (Factory New)": {
+    "0.01": [
+      63.91
+    ]
+  },
+  "Desert Eagle | Directive (Factory New)": {
+    "0.18": [
+      1.9
+    ]
+  },
+  "Glock-18 | Weasel (Factory New)": {
+    "0.01": [
+      13.0
+    ]
+  },
+  "MAG-7 | Petroglyph (Factory New)": {},
+  "SG 553 | Triarch (Factory New)": {},
+  "SCAR-20 | Powercore (Factory New)": {},
+  "G3SG1 | Ventilator (Factory New)": {
+    "0.18": [
+      0.23
+    ],
+    "0.0045": [
+      1.68
+    ],
+    "0.00045": [
+      3.46
+    ]
+  },
+  "Five-SeveN | Scumbria (Factory New)": {},
+  "P90 | Grim (Factory New)": {
+    "0.008": [
+      2.37
+    ]
+  },
+  "XM1014 | Slipstream (Factory New)": {},
+  "Negev | Dazzle (Factory New)": {
+    "0.18": [
+      0.22
+    ]
+  },
+  "CZ75-Auto | Imprint (Factory New)": {
+    "0.01": [
+      2.49
+    ]
+  },
+  "UMP-45 | Briefing (Factory New)": {
+    "0.01": [
+      2.0
+    ],
+    "0.001": [
+      3.0
+    ]
+  },
+  "AWP | Oni Taiji (Factory New)": {
+    "0.18": [
+      549.99
+    ],
+    "0.08": [
+      742.5
+    ]
+  },
+  "Five-SeveN | Hyper Beast (Factory New)": {},
+  "M4A4 | Hellfire (Factory New)": {
+    "0.18": [
+      410.06
+    ],
+    "0.08": [
+      483.27
+    ]
+  },
+  "Galil AR | Sugar Rush (Factory New)": {},
+  "Dual Berettas | Cobra Strike (Factory New)": {
+    "0.006": [
+      164.59
+    ]
+  },
+  "AK-47 | Orbit Mk01 (Factory New)": {
+    "0.18": [
+      33.0
+    ],
+    "0.08": [
+      46.02
+    ],
+    "0.0055": [
+      130.0
+    ]
+  },
+  "SSG 08 | Death's Head (Factory New)": {},
+  "P90 | Death Grip (Factory New)": {},
+  "P2000 | Woodsman (Factory New)": {},
+  "P250 | Red Rock (Factory New)": {},
+  "USP-S | Blueprint (Factory New)": {
+    "0.18": [
+      7.12
+    ],
+    "0.08": [
+      12.8
+    ],
+    "0.0086": [
+      62.06
+    ]
+  },
+  "M4A1-S | Briefing (Factory New)": {
+    "0.008": [
+      54.99
+    ]
+  },
+  "Tec-9 | Cut Out (Factory New)": {},
+  "MAG-7 | Hard Water (Factory New)": {},
+  "FAMAS | Macabre (Factory New)": {},
+  "MAC-10 | Aloha (Factory New)": {},
+  "UMP-45 | Metal Flowers (Factory New)": {},
+  "SSG 08 | Dragonfire (Factory New)": {
+    "0.18": [
+      455.0
+    ],
+    "0.08": [
+      523.43
+    ],
+    "0.005": [
+      1194.99
+    ]
+  },
+  "M4A4 | Buzz Kill (Factory New)": {
+    "0.18": [
+      467.0
+    ],
+    "0.08": [
+      547.85
+    ],
+    "0.007": [
+      1210.04
+    ]
+  },
+  "FAMAS | Mecha Industries (Factory New)": {
+    "0.18": [
+      50.04
+    ],
+    "0.08": [
+      58.75
+    ]
+  },
+  "Sawed-Off | Wasteland Princess (Factory New)": {
+    "0.18": [
+      53.0
+    ]
+  },
+  "P90 | Shallow Grave (Factory New)": {
+    "0.18": [
+      55.0
+    ]
+  },
+  "USP-S | Cyrex (Factory New)": {
+    "0.18": [
+      5.81
+    ],
+    "0.08": [
+      6.49
+    ],
+    "0.0055": [
+      18.1
+    ],
+    "0.00055": [
+      37.0
+    ]
+  },
+  "M4A1-S | Flashback (Factory New)": {
+    "0.01": [
+      32.97
+    ],
+    "0.001": [
+      49.82
+    ]
+  },
+  "Nova | Gila (Factory New)": {
+    "0.003": [
+      23.44
+    ]
+  },
+  "Dual Berettas | Royal Consorts (Factory New)": {
+    "0.01": [
+      24.0
+    ]
+  },
+  "G3SG1 | Stinger (Factory New)": {
+    "0.18": [
+      6.12
+    ]
+  },
+  "MP7 | Cirrus (Factory New)": {
+    "0.18": [
+      0.99
+    ],
+    "0.08": [
+      1.25
+    ],
+    "0.0075": [
+      3.4
+    ]
+  },
+  "Glock-18 | Ironwork (Factory New)": {
+    "0.01": [
+      7.53
+    ],
+    "0.001": [
+      12.85
+    ]
+  },
+  "MAG-7 | Sonar (Factory New)": {
+    "0.0045": [
+      2.6
+    ],
+    "0.00045": [
+      4.9
+    ]
+  },
+  "MP9 | Sand Scale (Factory New)": {
+    "0.0045": [
+      3.72
+    ],
+    "0.00045": [
+      6.89
+    ]
+  },
+  "CZ75-Auto | Polymer (Factory New)": {
+    "0.005": [
+      3.69
+    ]
+  },
+  "P2000 | Turf (Factory New)": {
+    "0.01": [
+      3.53
+    ],
+    "0.001": [
+      8.99
+    ]
+  },
+  "Galil AR | Black Sand (Factory New)": {
+    "0.01": [
+      5.03
+    ],
+    "0.001": [
+      9.31
+    ]
+  },
+  "P250 | See Ya Later (Factory New)": {
+    "0.18": [
+      87.47
+    ],
+    "0.08": [
+      102.05
+    ],
+    "0.007": [
+      213.76
+    ]
+  },
+  "AK-47 | The Empress (Factory New)": {
+    "0.18": [
+      89.53
+    ],
+    "0.01": [
+      385.0
+    ]
+  },
+  "PP-Bizon | High Roller (Factory New)": {
+    "0.18": [
+      9.71
+    ]
+  },
+  "M4A1-S | Leaded Glass (Factory New)": {
+    "0.18": [
+      8.45
+    ],
+    "0.08": [
+      11.8
+    ],
+    "0.007": [
+      68.33
+    ],
+    "0.0007": [
+      146.48
+    ]
+  },
+  "R8 Revolver | Llama Cannon (Factory New)": {
+    "0.18": [
+      8.98
+    ]
+  },
+  "CZ75-Auto | Tacticat (Factory New)": {
+    "0.007": [
+      12.68
+    ]
+  },
+  "MP9 | Goo (Factory New)": {
+    "0.18": [
+      1.7
+    ]
+  },
+  "XM1014 | Ziggy (Factory New)": {
+    "0.08": [
+      1.94
+    ]
+  },
+  "SG 553 | Phantom (Factory New)": {
+    "0.08": [
+      1.65
+    ]
+  },
+  "UMP-45 | Exposure (Factory New)": {
+    "0.18": [
+      0.84
+    ],
+    "0.08": [
+      1.45
+    ],
+    "0.0055": [
+      11.73
+    ]
+  },
+  "MAC-10 | Oceanic (Factory New)": {
+    "0.08": [
+      0.85
+    ],
+    "0.006": [
+      1.54
+    ],
+    "0.0006": [
+      2.47
+    ]
+  },
+  "Tec-9 | Cracked Opal (Factory New)": {
+    "0.01": [
+      2.81
+    ],
+    "0.001": [
+      2.81
+    ]
+  },
+  "AUG | Triqua (Factory New)": {
+    "0.01": [
+      2.13
+    ],
+    "0.001": [
+      2.55
+    ]
+  },
+  "G3SG1 | Hunter (Factory New)": {
+    "0.01": [
+      1.8
+    ]
+  },
+  "Glock-18 | Off World (Factory New)": {
+    "0.18": [
+      0.27
+    ],
+    "0.01": [
+      1.69
+    ],
+    "0.001": [
+      3.5
+    ]
+  },
+  "Sawed-Off | Morris (Factory New)": {
+    "0.01": [
+      2.95
+    ],
+    "0.001": [
+      2.99
+    ]
+  },
+  "SCAR-20 | Jungle Slipstream (Factory New)": {
+    "0.18": [
+      0.6
+    ],
+    "0.005": [
+      1.68
+    ]
+  },
+  "AK-47 | Bloodsport (Factory New)": {
+    "0.18": [
+      149.17
+    ],
+    "0.08": [
+      177.0
+    ],
+    "0.0045": [
+      349.44
+    ]
+  },
+  "USP-S | Neo-Noir (Factory New)": {
+    "0.18": [
+      94.22
+    ],
+    "0.08": [
+      99.0
+    ],
+    "0.007": [
+      205.0
+    ]
+  },
+  "AWP | Fever Dream (Factory New)": {
+    "0.18": [
+      14.47
+    ],
+    "0.08": [
+      19.42
+    ],
+    "0.0055": [
+      56.23
+    ]
+  },
+  "M4A1-S | Decimator (Factory New)": {
+    "0.18": [
+      15.9
+    ],
+    "0.08": [
+      26.0
+    ],
+    "0.0085": [
+      88.17
+    ]
+  },
+  "CZ75-Auto | Xiangliu (Factory New)": {
+    "0.18": [
+      13.11
+    ]
+  },
+  "Galil AR | Crimson Tsunami (Factory New)": {
+    "0.18": [
+      2.7
+    ],
+    "0.0055": [
+      18.77
+    ]
+  },
+  "XM1014 | Seasons (Factory New)": {
+    "0.18": [
+      1.57
+    ],
+    "0.08": [
+      2.3
+    ]
+  },
+  "MAC-10 | Last Dive (Factory New)": {
+    "0.18": [
+      1.54
+    ],
+    "0.08": [
+      2.35
+    ]
+  },
+  "M249 | Emerald Poison Dart (Factory New)": {},
+  "UMP-45 | Scaffold (Factory New)": {},
+  "Desert Eagle | Oxide Blaze (Factory New)": {
+    "0.18": [
+      0.4
+    ],
+    "0.08": [
+      0.58
+    ],
+    "0.005": [
+      1.76
+    ]
+  },
+  "P250 | Ripple (Factory New)": {},
+  "Five-SeveN | Capillary (Factory New)": {
+    "0.08": [
+      0.45
+    ],
+    "0.007": [
+      1.85
+    ],
+    "0.0007": [
+      3.68
+    ]
+  },
+  "Sawed-Off | Zander (Factory New)": {},
+  "PP-Bizon | Jungle Slipstream (Factory New)": {
+    "0.005": [
+      1.74
+    ]
+  },
+  "MP7 | Akoben (Factory New)": {
+    "0.007": [
+      2.06
+    ]
+  },
+  "SCAR-20 | Blueprint (Factory New)": {
+    "0.08": [
+      0.6
+    ],
+    "0.0075": [
+      2.41
+    ],
+    "0.00075": [
+      5.79
+    ]
+  },
+  "AK-47 | Head Shot (Factory New)": {
+    "0.01": [
+      304.99
+    ]
+  },
+  "M4A4 | Temukau (Factory New)": {
+    "0.18": [
+      46.32
+    ],
+    "0.08": [
+      111.29
+    ],
+    "0.008": [
+      297.07
+    ],
+    "0.0008": [
+      427.44
+    ]
+  },
+  "AWP | Duality (Factory New)": {
+    "0.18": [
+      5.2
+    ],
+    "0.08": [
+      9.94
+    ],
+    "0.008": [
+      48.0
+    ],
+    "0.0008": [
+      53.29
+    ]
+  },
+  "P2000 | Wicked Sick (Factory New)": {
+    "0.18": [
+      5.9
+    ],
+    "0.01": [
+      50.14
+    ]
+  },
+  "UMP-45 | Wild Child (Factory New)": {
+    "0.18": [
+      5.84
+    ],
+    "0.01": [
+      52.74
+    ],
+    "0.001": [
+      70.0
+    ]
+  },
+  "Glock-18 | Umbral Rabbit (Factory New)": {
+    "0.18": [
+      0.55
+    ],
+    "0.08": [
+      1.87
+    ],
+    "0.0075": [
+      14.15
+    ],
+    "0.00075": [
+      15.5
+    ]
+  },
+  "M4A1-S | Emphorosaur-S (Factory New)": {
+    "0.18": [
+      0.59
+    ],
+    "0.08": [
+      1.78
+    ],
+    "0.008": [
+      13.68
+    ],
+    "0.0008": [
+      18.44
+    ]
+  },
+  "P90 | Neoqueen (Factory New)": {
+    "0.18": [
+      0.48
+    ],
+    "0.006": [
+      19.22
+    ],
+    "0.0006": [
+      19.99
+    ]
+  },
+  "MAC-10 | Sakkaku (Factory New)": {},
+  "R8 Revolver | Banana Cannon (Factory New)": {},
+  "MP9 | Featherweight (Factory New)": {
+    "0.01": [
+      1.4
+    ],
+    "0.001": [
+      2.2
+    ]
+  },
+  "P250 | Re.built (Factory New)": {
+    "0.08": [
+      0.28
+    ],
+    "0.009": [
+      1.43
+    ],
+    "0.0009": [
+      2.0
+    ],
+    "9e-05": [
+      5.0
+    ]
+  },
+  "SG 553 | Cyberforce (Factory New)": {
+    "0.08": [
+      0.29
+    ],
+    "0.009": [
+      1.45
+    ],
+    "0.0009": [
+      2.05
+    ]
+  },
+  "MAG-7 | Insomnia (Factory New)": {
+    "0.01": [
+      1.63
+    ],
+    "0.001": [
+      2.7
+    ]
+  },
+  "Tec-9 | Rebel (Factory New)": {
+    "0.01": [
+      1.97
+    ],
+    "0.001": [
+      2.1
+    ]
+  },
+  "SCAR-20 | Fragments (Factory New)": {
+    "0.0078": [
+      1.41
+    ],
+    "0.00078": [
+      2.33
+    ]
+  },
+  "MP5-SD | Liquidation (Factory New)": {
+    "0.01": [
+      1.95
+    ],
+    "0.001": [
+      2.3
+    ]
+  },
+  "M4A4 | Neo-Noir (Factory New)": {
+    "0.18": [
+      45.85
+    ],
+    "0.08": [
+      114.31
+    ],
+    "0.009": [
+      320.72
+    ]
+  },
+  "MP7 | Bloodsport (Factory New)": {
+    "0.18": [
+      39.74
+    ],
+    "0.08": [
+      97.99
+    ]
+  },
+  "AWP | Mortis (Factory New)": {
+    "0.18": [
+      4.23
+    ],
+    "0.08": [
+      8.42
+    ],
+    "0.0064": [
+      49.67
+    ]
+  },
+  "AUG | Stymphalian (Factory New)": {
+    "0.18": [
+      4.21
+    ],
+    "0.08": [
+      8.87
+    ]
+  },
+  "USP-S | Cortex (Factory New)": {
+    "0.18": [
+      6.0
+    ],
+    "0.01": [
+      50.87
+    ],
+    "0.001": [
+      71.11
+    ]
+  },
+  "Glock-18 | Moonrise (Factory New)": {
+    "0.18": [
+      0.69
+    ],
+    "0.08": [
+      1.64
+    ],
+    "0.0065": [
+      13.9
+    ],
+    "0.00065": [
+      14.38
+    ]
+  },
+  "Negev | Lionfish (Factory New)": {},
+  "UMP-45 | Arctic Wolf (Factory New)": {
+    "0.08": [
+      1.59
+    ],
+    "0.008": [
+      15.71
+    ]
+  },
+  "Nova | Wild Six (Factory New)": {
+    "0.008": [
+      14.2
+    ]
+  },
+  "MAG-7 | SWAG-7 (Factory New)": {},
+  "Five-SeveN | Flame Test (Factory New)": {
+    "0.0065": [
+      1.52
+    ]
+  },
+  "XM1014 | Oxide Blaze (Factory New)": {
+    "0.007": [
+      1.49
+    ],
+    "0.0007": [
+      2.19
+    ]
+  },
+  "PP-Bizon | Night Riot (Factory New)": {
+    "0.008": [
+      1.38
+    ],
+    "0.0008": [
+      2.43
+    ]
+  },
+  "P2000 | Urban Hazard (Factory New)": {
+    "0.01": [
+      1.45
+    ],
+    "0.001": [
+      2.34
+    ]
+  },
+  "MP9 | Black Sand (Factory New)": {
+    "0.01": [
+      2.18
+    ],
+    "0.001": [
+      2.69
+    ]
+  },
+  "SG 553 | Aloha (Factory New)": {
+    "0.18": [
+      0.23
+    ],
+    "0.0055": [
+      1.55
+    ],
+    "0.00055": [
+      2.23
+    ]
+  },
+  "R8 Revolver | Grip (Factory New)": {
+    "0.01": [
+      1.48
+    ],
+    "0.001": [
+      2.27
+    ]
+  },
+  "AWP | Neo-Noir (Factory New)": {
+    "0.18": [
+      39.93
+    ],
+    "0.08": [
+      42.76
+    ],
+    "0.005": [
+      132.62
+    ]
+  },
+  "AK-47 | Asiimov (Factory New)": {
+    "0.18": [
+      45.0
+    ]
+  },
+  "Desert Eagle | Mecha Industries (Factory New)": {
+    "0.18": [
+      5.54
+    ],
+    "0.08": [
+      9.54
+    ]
+  },
+  "MP5-SD | Phosphor (Factory New)": {
+    "0.08": [
+      8.62
+    ]
+  },
+  "UMP-45 | Momentum (Factory New)": {
+    "0.18": [
+      4.52
+    ],
+    "0.08": [
+      6.82
+    ]
+  },
+  "P250 | Nevermore (Factory New)": {
+    "0.004": [
+      12.8
+    ]
+  },
+  "Galil AR | Signal (Factory New)": {
+    "0.18": [
+      1.0
+    ]
+  },
+  "USP-S | Flashback (Factory New)": {
+    "0.18": [
+      0.61
+    ]
+  },
+  "G3SG1 | Scavenger (Factory New)": {
+    "0.08": [
+      1.28
+    ]
+  },
+  "MAC-10 | Pipe Down (Factory New)": {
+    "0.009": [
+      11.77
+    ],
+    "0.0009": [
+      12.5
+    ]
+  },
+  "M4A4 | Magnesium (Factory New)": {
+    "0.01": [
+      5.88
+    ],
+    "0.001": [
+      9.3
+    ]
+  },
+  "Nova | Wood Fired (Factory New)": {},
+  "Glock-18 | Oxide Blaze (Factory New)": {
+    "0.0085": [
+      1.75
+    ],
+    "0.00085": [
+      2.45
+    ]
+  },
+  "MP9 | Modest Threat (Factory New)": {
+    "0.0075": [
+      1.95
+    ]
+  },
+  "SG 553 | Danger Close (Factory New)": {},
+  "Sawed-Off | Black Sand (Factory New)": {
+    "0.009": [
+      1.91
+    ]
+  },
+  "Tec-9 | Fubar (Factory New)": {},
+  "AK-47 | Neon Rider (Factory New)": {
+    "0.18": [
+      55.0
+    ],
+    "0.08": [
+      94.75
+    ],
+    "0.008": [
+      390.0
+    ]
+  },
+  "Desert Eagle | Code Red (Factory New)": {
+    "0.18": [
+      47.5
+    ],
+    "0.01": [
+      314.94
+    ]
+  },
+  "M4A1-S | Nightmare (Factory New)": {
+    "0.18": [
+      14.42
+    ],
+    "0.01": [
+      161.96
+    ]
+  },
+  "FAMAS | Eye of Athena (Factory New)": {
+    "0.08": [
+      17.56
+    ]
+  },
+  "Sawed-Off | Devourer (Factory New)": {
+    "0.18": [
+      6.5
+    ],
+    "0.08": [
+      13.02
+    ]
+  },
+  "AWP | PAW (Factory New)": {
+    "0.18": [
+      2.26
+    ],
+    "0.08": [
+      3.61
+    ],
+    "0.005": [
+      16.84
+    ]
+  },
+  "MP7 | Powercore (Factory New)": {
+    "0.18": [
+      1.11
+    ]
+  },
+  "G3SG1 | High Seas (Factory New)": {},
+  "CZ75-Auto | Eco (Factory New)": {},
+  "Nova | Toy Soldier (Factory New)": {},
+  "Dual Berettas | Shred (Factory New)": {
+    "0.18": [
+      0.37
+    ],
+    "0.005": [
+      2.21
+    ]
+  },
+  "Glock-18 | Warhawk (Factory New)": {
+    "0.01": [
+      3.32
+    ]
+  },
+  "P90 | Traction (Factory New)": {
+    "0.01": [
+      2.11
+    ]
+  },
+  "AUG | Amber Slipstream (Factory New)": {
+    "0.08": [
+      0.45
+    ],
+    "0.0055": [
+      2.0
+    ],
+    "0.00055": [
+      4.44
+    ]
+  },
+  "R8 Revolver | Survivalist (Factory New)": {
+    "0.007": [
+      1.87
+    ]
+  },
+  "MP9 | Capillary (Factory New)": {
+    "0.08": [
+      0.43
+    ],
+    "0.007": [
+      1.66
+    ]
+  },
+  "Tec-9 | Snek-9 (Factory New)": {
+    "0.01": [
+      4.5
+    ],
+    "0.001": [
+      5.2
+    ]
+  },
+  "SG 553 | Integrale (Factory New)": {
+    "0.18": [
+      16.5
+    ],
+    "0.01": [
+      120.49
+    ]
+  },
+  "MP7 | Fade (Factory New)": {
+    "0.0025": [
+      11.26
+    ]
+  },
+  "AK-47 | Safety Net (Factory New)": {
+    "0.18": [
+      2.59
+    ],
+    "0.08": [
+      3.91
+    ],
+    "0.006": [
+      17.42
+    ],
+    "0.0006": [
+      39.76
+    ]
+  },
+  "Dual Berettas | Twin Turbo (Factory New)": {},
+  "P250 | Vino Primo (Factory New)": {
+    "0.18": [
+      1.4
+    ],
+    "0.01": [
+      15.87
+    ],
+    "0.001": [
+      37.57
+    ]
+  },
+  "Sawed-Off | Brake Light (Factory New)": {
+    "0.0008": [
+      2.09
+    ],
+    "8e-05": [
+      4.9
+    ]
+  },
+  "M4A4 | Converter (Factory New)": {
+    "0.004": [
+      2.09
+    ],
+    "0.0004": [
+      13.97
+    ]
+  },
+  "USP-S | Check Engine (Factory New)": {
+    "0.18": [
+      0.32
+    ],
+    "0.08": [
+      0.99
+    ],
+    "0.006": [
+      2.75
+    ],
+    "0.0006": [
+      7.0
+    ]
+  },
+  "SSG 08 | Hand Brake (Factory New)": {
+    "0.01": [
+      3.46
+    ],
+    "0.001": [
+      4.24
+    ]
+  },
+  "Glock-18 | High Beam (Factory New)": {
+    "0.0008": [
+      0.71
+    ],
+    "8e-05": [
+      2.12
+    ],
+    "1e-05": [
+      14.06
+    ]
+  },
+  "MAC-10 | Calf Skin (Factory New)": {
+    "0.01": [
+      0.78
+    ],
+    "0.001": [
+      1.69
+    ],
+    "0.0001": [
+      8.0
+    ]
+  },
+  "PP-Bizon | Candy Apple (Factory New)": {
+    "0.003": [
+      0.42
+    ],
+    "0.0003": [
+      1.61
+    ],
+    "3e-05": [
+      9.83
+    ]
+  },
+  "R8 Revolver | Nitro (Factory New)": {},
+  "AUG | Sweeper (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.17
+    ],
+    "0.0006": [
+      0.46
+    ],
+    "6e-05": [
+      1.6
+    ]
+  },
+  "UMP-45 | Mudder (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "MP5-SD | Dirt Drop (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "MAG-7 | Rust Coat (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.01": [
+      0.25
+    ],
+    "0.001": [
+      0.66
+    ],
+    "0.0001": [
+      3.04
+    ]
+  },
+  "MP9 | Slide (Factory New)": {
+    "0.18": [
+      0.03
+    ]
+  },
+  "M4A1-S | Control Panel (Factory New)": {
+    "0.01": [
+      208.0
+    ],
+    "0.001": [
+      265.0
+    ]
+  },
+  "Tec-9 | Remote Control (Factory New)": {
+    "0.01": [
+      54.11
+    ]
+  },
+  "Glock-18 | Nuclear Garden (Factory New)": {
+    "0.18": [
+      2.03
+    ],
+    "0.08": [
+      4.44
+    ],
+    "0.007": [
+      21.92
+    ]
+  },
+  "MAG-7 | Core Breach (Factory New)": {
+    "0.01": [
+      20.85
+    ]
+  },
+  "AUG | Random Access (Factory New)": {
+    "0.08": [
+      2.65
+    ],
+    "0.005": [
+      16.78
+    ]
+  },
+  "AWP | Acheron (Factory New)": {
+    "0.18": [
+      0.56
+    ],
+    "0.08": [
+      1.17
+    ],
+    "0.0083": [
+      4.15
+    ],
+    "0.00083": [
+      8.49
+    ]
+  },
+  "P90 | Facility Negative (Factory New)": {
+    "0.18": [
+      0.2
+    ],
+    "0.08": [
+      0.46
+    ],
+    "0.005": [
+      2.23
+    ],
+    "0.0005": [
+      3.56
+    ]
+  },
+  "MP5-SD | Co-Processor (Factory New)": {
+    "0.18": [
+      0.07
+    ],
+    "0.005": [
+      2.17
+    ],
+    "0.0005": [
+      2.22
+    ]
+  },
+  "P250 | Exchanger (Factory New)": {
+    "0.18": [
+      0.19
+    ],
+    "0.08": [
+      0.27
+    ],
+    "0.005": [
+      2.5
+    ],
+    "0.0005": [
+      4.0
+    ]
+  },
+  "Galil AR | Cold Fusion (Factory New)": {
+    "0.18": [
+      0.04
+    ],
+    "0.08": [
+      0.15
+    ],
+    "0.0083": [
+      0.67
+    ],
+    "0.00083": [
+      1.39
+    ]
+  },
+  "M4A4 | Mainframe (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.04
+    ],
+    "0.005": [
+      0.49
+    ],
+    "0.0005": [
+      1.79
+    ]
+  },
+  "MP7 | Motherboard (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.005": [
+      0.48
+    ],
+    "0.0005": [
+      1.0
+    ],
+    "5e-05": [
+      6.48
+    ]
+  },
+  "Five-SeveN | Coolant (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.005": [
+      0.15
+    ],
+    "0.0005": [
+      0.63
+    ],
+    "5e-05": [
+      4.86
+    ]
+  },
+  "UMP-45 | Facility Dark (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.005": [
+      0.14
+    ],
+    "0.0005": [
+      0.57
+    ],
+    "5e-05": [
+      1.79
+    ]
+  },
+  "PP-Bizon | Facility Sketch (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.005": [
+      0.14
+    ],
+    "0.0005": [
+      1.4
+    ],
+    "5e-05": [
+      4.91
+    ]
+  },
+  "Negev | Bulkhead (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.005": [
+      0.43
+    ],
+    "0.0005": [
+      1.4
+    ]
+  },
+  "Nova | Mandrel (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.005": [
+      0.13
+    ],
+    "0.0005": [
+      0.45
+    ],
+    "5e-05": [
+      1.99
+    ]
+  },
+  "P250 | Facility Draft (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.005": [
+      0.14
+    ],
+    "0.0005": [
+      0.48
+    ],
+    "5e-05": [
+      1.61
+    ]
+  },
+  "MP5-SD | Lab Rats (Factory New)": {},
+  "Five-SeveN | Angry Mob (Factory New)": {
+    "0.18": [
+      56.27
+    ],
+    "0.08": [
+      57.98
+    ],
+    "0.007": [
+      135.0
+    ]
+  },
+  "M4A4 | The Emperor (Factory New)": {
+    "0.18": [
+      60.88
+    ],
+    "0.08": [
+      106.32
+    ],
+    "0.008": [
+      417.0
+    ]
+  },
+  "XM1014 | Incinegator (Factory New)": {},
+  "AUG | Momentum (Factory New)": {
+    "0.18": [
+      8.9
+    ]
+  },
+  "R8 Revolver | Skull Crusher (Factory New)": {},
+  "AWP | Atheris (Factory New)": {
+    "0.18": [
+      5.17
+    ],
+    "0.01": [
+      21.43
+    ],
+    "0.001": [
+      41.5
+    ]
+  },
+  "Desert Eagle | Light Rail (Factory New)": {
+    "0.18": [
+      1.03
+    ],
+    "0.08": [
+      2.23
+    ],
+    "0.009": [
+      11.74
+    ]
+  },
+  "AK-47 | Uncharted (Factory New)": {
+    "0.18": [
+      0.74
+    ],
+    "0.08": [
+      0.82
+    ],
+    "0.0075": [
+      2.16
+    ],
+    "0.00075": [
+      4.0
+    ]
+  },
+  "UMP-45 | Moonrise (Factory New)": {
+    "0.004": [
+      14.76
+    ]
+  },
+  "Tec-9 | Bamboozle (Factory New)": {},
+  "MP5-SD | Gauss (Factory New)": {},
+  "P250 | Verdigris (Factory New)": {
+    "0.007": [
+      1.8
+    ],
+    "0.0007": [
+      2.6
+    ]
+  },
+  "FAMAS | Crypsis (Factory New)": {
+    "0.0055": [
+      1.5
+    ]
+  },
+  "Galil AR | Akoben (Factory New)": {
+    "0.0075": [
+      1.5
+    ],
+    "0.00075": [
+      3.15
+    ]
+  },
+  "MAC-10 | Whitefish (Factory New)": {
+    "0.01": [
+      2.2
+    ],
+    "0.001": [
+      3.5
+    ]
+  },
+  "P90 | Off World (Factory New)": {
+    "0.0075": [
+      1.74
+    ],
+    "0.00075": [
+      2.25
+    ]
+  },
+  "MP7 | Mischief (Factory New)": {},
+  "M4A1-S | Player Two (Factory New)": {
+    "0.18": [
+      58.34
+    ],
+    "0.08": [
+      68.17
+    ],
+    "0.0084": [
+      265.0
+    ]
+  },
+  "Glock-18 | Bullet Queen (Factory New)": {
+    "0.18": [
+      60.0
+    ],
+    "0.01": [
+      195.0
+    ]
+  },
+  "AK-47 | Phantom Disruptor (Factory New)": {
+    "0.18": [
+      5.86
+    ],
+    "0.08": [
+      9.95
+    ],
+    "0.0065": [
+      48.94
+    ],
+    "0.00065": [
+      60.72
+    ]
+  },
+  "MAC-10 | Disco Tech (Factory New)": {
+    "0.18": [
+      6.9
+    ],
+    "0.01": [
+      50.68
+    ]
+  },
+  "MAG-7 | Justice (Factory New)": {
+    "0.18": [
+      6.72
+    ]
+  },
+  "SSG 08 | Fever Dream (Factory New)": {
+    "0.18": [
+      1.15
+    ],
+    "0.08": [
+      2.84
+    ],
+    "0.0072": [
+      12.0
+    ]
+  },
+  "P2000 | Acid Etched (Factory New)": {
+    "0.01": [
+      14.08
+    ],
+    "0.001": [
+      20.0
+    ]
+  },
+  "SCAR-20 | Enforcer (Factory New)": {
+    "0.01": [
+      14.22
+    ]
+  },
+  "SG 553 | Darkwing (Factory New)": {},
+  "Sawed-Off | Apocalypto (Factory New)": {},
+  "AWP | Capillary (Factory New)": {
+    "0.18": [
+      0.51
+    ]
+  },
+  "Desert Eagle | Blue Ply (Factory New)": {
+    "0.18": [
+      0.3
+    ],
+    "0.01": [
+      2.89
+    ],
+    "0.001": [
+      4.19
+    ]
+  },
+  "Negev | Prototype (Factory New)": {
+    "0.007": [
+      1.92
+    ]
+  },
+  "R8 Revolver | Bone Forged (Factory New)": {
+    "0.006": [
+      1.4
+    ],
+    "0.0006": [
+      2.67
+    ]
+  },
+  "AUG | Tom Cat (Factory New)": {
+    "0.008": [
+      1.45
+    ]
+  },
+  "CZ75-Auto | Distressed (Factory New)": {
+    "0.01": [
+      1.55
+    ],
+    "0.001": [
+      2.16
+    ]
+  },
+  "MP5-SD | Desert Strike (Factory New)": {
+    "0.01": [
+      1.59
+    ],
+    "0.001": [
+      3.2
+    ]
+  },
+  "P250 | X-Ray (Factory New)": {
+    "0.003": [
+      2.22
+    ]
+  },
+  "AWP | Wildfire (Factory New)": {
+    "0.18": [
+      57.99
+    ],
+    "0.08": [
+      99.3
+    ]
+  },
+  "FAMAS | Commemoration (Factory New)": {
+    "0.18": [
+      32.2
+    ],
+    "0.08": [
+      39.11
+    ]
+  },
+  "MP9 | Hydra (Factory New)": {
+    "0.01": [
+      144.82
+    ]
+  },
+  "P90 | Nostalgia (Factory New)": {
+    "0.08": [
+      9.21
+    ]
+  },
+  "AUG | Death by Puppy (Factory New)": {},
+  "P250 | Inferno (Factory New)": {},
+  "UMP-45 | Plastique (Factory New)": {},
+  "Five-SeveN | Buddy (Factory New)": {},
+  "MP5-SD | Agent (Factory New)": {},
+  "M249 | Aztec (Factory New)": {},
+  "Dual Berettas | Elite 1.6 (Factory New)": {
+    "0.007": [
+      1.8
+    ]
+  },
+  "Glock-18 | Sacrifice (Factory New)": {
+    "0.01": [
+      2.23
+    ]
+  },
+  "Tec-9 | Flash Out (Factory New)": {
+    "0.18": [
+      0.4
+    ]
+  },
+  "FAMAS | Decommissioned (Factory New)": {
+    "0.01": [
+      2.0
+    ],
+    "0.001": [
+      2.9
+    ]
+  },
+  "MAC-10 | Classic Crate (Factory New)": {
+    "0.01": [
+      1.39
+    ],
+    "0.001": [
+      3.14
+    ]
+  },
+  "SCAR-20 | Assault (Factory New)": {
+    "0.0062": [
+      1.45
+    ]
+  },
+  "MAG-7 | Popdog (Factory New)": {
+    "0.008": [
+      2.0
+    ]
+  },
+  "AK-47 | Wild Lotus (Factory New)": {},
+  "MP9 | Wild Lily (Factory New)": {},
+  "SSG 08 | Sea Calico (Factory New)": {},
+  "AUG | Midnight Lily (Factory New)": {},
+  "Glock-18 | Synth Leaf (Factory New)": {
+    "0.007": [
+      610.0
+    ]
+  },
+  "Five-SeveN | Crimson Blossom (Factory New)": {},
+  "UMP-45 | Day Lily (Factory New)": {},
+  "MP7 | Teal Blossom (Factory New)": {},
+  "FAMAS | Sundown (Factory New)": {},
+  "M4A4 | Dark Blossom (Factory New)": {
+    "0.005": [
+      157.19
+    ]
+  },
+  "P90 | Sunset Lily (Factory New)": {},
+  "XM1014 | Banana Leaf (Factory New)": {},
+  "Tec-9 | Rust Leaf (Factory New)": {},
+  "MAC-10 | Surfwood (Factory New)": {
+    "0.005": [
+      10.54
+    ]
+  },
+  "MP5-SD | Bamboo Garden (Factory New)": {
+    "0.18": [
+      4.04
+    ],
+    "0.0055": [
+      10.47
+    ]
+  },
+  "PP-Bizon | Seabird (Factory New)": {
+    "0.005": [
+      10.48
+    ]
+  },
+  "Sawed-Off | Jungle Thicket (Factory New)": {
+    "0.005": [
+      11.0
+    ]
+  },
+  "M249 | Jungle (Factory New)": {},
+  "AWP | The Prince (Factory New)": {},
+  "MAG-7 | Cinquedea (Factory New)": {},
+  "MP9 | Stained Glass (Factory New)": {},
+  "Nova | Baroque Orange (Factory New)": {
+    "0.005": [
+      174.9
+    ]
+  },
+  "MAC-10 | Red Filigree (Factory New)": {
+    "0.005": [
+      182.25
+    ]
+  },
+  "Dual Berettas | Emerald (Factory New)": {},
+  "P90 | Baroque Red (Factory New)": {},
+  "G3SG1 | Violet Murano (Factory New)": {},
+  "SSG 08 | Orange Filigree (Factory New)": {},
+  "AK-47 | Baroque Purple (Factory New)": {
+    "0.01": [
+      133.5
+    ]
+  },
+  "SG 553 | Candy Apple (Factory New)": {
+    "0.007": [
+      24.4
+    ]
+  },
+  "P250 | Dark Filigree (Factory New)": {
+    "0.18": [
+      5.5
+    ],
+    "0.005": [
+      25.19
+    ]
+  },
+  "Tec-9 | Orange Murano (Factory New)": {},
+  "Negev | Boroque Sand (Factory New)": {
+    "0.01": [
+      12.95
+    ]
+  },
+  "CZ75-Auto | Indigo (Factory New)": {},
+  "SCAR-20 | Stone Mosaico (Factory New)": {},
+  "R8 Revolver | Canal Spray (Factory New)": {},
+  "AUG | Navy Murano (Factory New)": {
+    "0.01": [
+      12.48
+    ]
+  },
+  "AWP | Gungnir (Factory New)": {},
+  "Negev | Mjölnir (Factory New)": {},
+  "Desert Eagle | Emerald Jörmungandr (Factory New)": {
+    "0.005": [
+      1123.42
+    ]
+  },
+  "P90 | Astral Jörmungandr (Factory New)": {},
+  "AUG | Flame Jörmungandr (Factory New)": {},
+  "CZ75-Auto | Emerald Quartz (Factory New)": {},
+  "SCAR-20 | Brass (Factory New)": {},
+  "XM1014 | Frost Borre (Factory New)": {},
+  "MAC-10 | Copper Borre (Factory New)": {},
+  "M4A1-S | Moss Quartz (Factory New)": {
+    "0.005": [
+      299.69
+    ]
+  },
+  "MAG-7 | Chainmail (Factory New)": {
+    "0.0022": [
+      57.0
+    ]
+  },
+  "USP-S | Pathfinder (Factory New)": {
+    "0.0035": [
+      59.0
+    ]
+  },
+  "Dual Berettas | Pyre (Factory New)": {},
+  "SSG 08 | Red Stone (Factory New)": {},
+  "Galil AR | Tornado (Factory New)": {},
+  "FAMAS | Night Borre (Factory New)": {
+    "0.0055": [
+      19.99
+    ]
+  },
+  "SG 553 | Barricade (Factory New)": {
+    "0.0065": [
+      17.5
+    ]
+  },
+  "MP7 | Scorched (Factory New)": {},
+  "AWP | Containment Breach (Factory New)": {
+    "0.18": [
+      188.29
+    ],
+    "0.01": [
+      1208.54
+    ]
+  },
+  "MAC-10 | Stalker (Factory New)": {},
+  "SSG 08 | Bloodshot (Factory New)": {
+    "0.18": [
+      59.0
+    ]
+  },
+  "Tec-9 | Decimator (Factory New)": {
+    "0.18": [
+      22.11
+    ]
+  },
+  "SG 553 | Colony IV (Factory New)": {},
+  "AK-47 | Rat Rod (Factory New)": {
+    "0.01": [
+      79.0
+    ]
+  },
+  "P2000 | Obsidian (Factory New)": {
+    "0.01": [
+      27.99
+    ]
+  },
+  "AUG | Arctic Wolf (Factory New)": {
+    "0.08": [
+      4.77
+    ],
+    "0.007": [
+      18.93
+    ]
+  },
+  "MP7 | Neon Ply (Factory New)": {},
+  "PP-Bizon | Embargo (Factory New)": {},
+  "Dual Berettas | Balance (Factory New)": {
+    "0.01": [
+      10.89
+    ]
+  },
+  "G3SG1 | Black Sand (Factory New)": {},
+  "SCAR-20 | Torn (Factory New)": {},
+  "Nova | Plume (Factory New)": {},
+  "R8 Revolver | Memento (Factory New)": {
+    "0.008": [
+      6.49
+    ]
+  },
+  "MP5-SD | Acid Wash (Factory New)": {},
+  "M249 | Warbird (Factory New)": {},
+  "Desert Eagle | Printstream (Factory New)": {
+    "0.18": [
+      39.96
+    ],
+    "0.08": [
+      53.8
+    ],
+    "0.008": [
+      121.2
+    ],
+    "0.0008": [
+      204.98
+    ]
+  },
+  "AK-47 | Legion of Anubis (Factory New)": {
+    "0.18": [
+      34.01
+    ],
+    "0.08": [
+      40.89
+    ],
+    "0.007": [
+      158.94
+    ],
+    "0.0007": [
+      199.0
+    ]
+  },
+  "M4A4 | Tooth Fairy (Factory New)": {
+    "0.18": [
+      4.75
+    ],
+    "0.08": [
+      7.8
+    ],
+    "0.0073": [
+      45.99
+    ],
+    "0.00073": [
+      49.5
+    ]
+  },
+  "Glock-18 | Vogue (Factory New)": {
+    "0.18": [
+      4.75
+    ],
+    "0.08": [
+      7.45
+    ],
+    "0.0075": [
+      45.77
+    ]
+  },
+  "XM1014 | Entombed (Factory New)": {
+    "0.18": [
+      3.81
+    ],
+    "0.08": [
+      5.99
+    ]
+  },
+  "Galil AR | Connexion (Factory New)": {
+    "0.08": [
+      1.63
+    ],
+    "0.008": [
+      11.71
+    ]
+  },
+  "MP5-SD | Kitbash (Factory New)": {
+    "0.18": [
+      0.69
+    ],
+    "0.08": [
+      1.6
+    ]
+  },
+  "Tec-9 | Brother (Factory New)": {
+    "0.01": [
+      12.66
+    ]
+  },
+  "MAG-7 | Monster Call (Factory New)": {
+    "0.01": [
+      11.75
+    ],
+    "0.001": [
+      12.29
+    ]
+  },
+  "MAC-10 | Allure (Factory New)": {
+    "0.01": [
+      11.71
+    ],
+    "0.001": [
+      12.51
+    ]
+  },
+  "P250 | Cassette (Factory New)": {
+    "0.18": [
+      0.14
+    ],
+    "0.08": [
+      0.17
+    ],
+    "0.006": [
+      1.29
+    ],
+    "0.0006": [
+      2.16
+    ]
+  },
+  "Negev | Ultralight (Factory New)": {
+    "0.08": [
+      0.24
+    ],
+    "0.0079": [
+      1.48
+    ],
+    "0.00079": [
+      2.18
+    ],
+    "8e-05": [
+      5.0
+    ]
+  },
+  "P2000 | Gnarled (Factory New)": {
+    "0.18": [
+      0.12
+    ],
+    "0.01": [
+      1.29
+    ],
+    "0.001": [
+      2.25
+    ]
+  },
+  "P90 | Freight (Factory New)": {
+    "0.01": [
+      1.54
+    ],
+    "0.001": [
+      2.61
+    ],
+    "0.0001": [
+      8.0
+    ]
+  },
+  "PP-Bizon | Runic (Factory New)": {
+    "0.01": [
+      1.35
+    ],
+    "0.001": [
+      2.1
+    ]
+  },
+  "SG 553 | Ol' Rusty (Factory New)": {
+    "0.18": [
+      0.13
+    ],
+    "0.08": [
+      0.25
+    ],
+    "0.007": [
+      1.24
+    ],
+    "0.0007": [
+      2.39
+    ],
+    "7e-05": [
+      6.0
+    ]
+  },
+  "SSG 08 | Mainframe 001 (Factory New)": {
+    "0.01": [
+      1.39
+    ],
+    "0.001": [
+      2.08
+    ]
+  },
+  "M4A1-S | Welcome to the Jungle (Factory New)": {},
+  "AK-47 | Panthera onca (Factory New)": {
+    "0.01": [
+      1331.9
+    ]
+  },
+  "P90 | Run and Hide (Factory New)": {},
+  "MAC-10 | Gold Brick (Factory New)": {},
+  "USP-S | Ancient Visions (Factory New)": {},
+  "AUG | Carved Jade (Factory New)": {
+    "0.002": [
+      69.29
+    ]
+  },
+  "Galil AR | Dusk Ruins (Factory New)": {},
+  "XM1014 | Ancient Lore (Factory New)": {},
+  "FAMAS | Dark Water (Factory New)": {},
+  "Tec-9 | Blast From the Past (Factory New)": {},
+  "CZ75-Auto | Silver (Factory New)": {
+    "0.0008": [
+      25.99
+    ]
+  },
+  "P2000 | Panther Camo (Factory New)": {
+    "0.005": [
+      12.5
+    ]
+  },
+  "G3SG1 | Ancient Ritual (Factory New)": {
+    "0.0076": [
+      10.0
+    ]
+  },
+  "MP7 | Tall Grass (Factory New)": {
+    "0.0065": [
+      8.22
+    ]
+  },
+  "P90 | Ancient Earth (Factory New)": {
+    "0.005": [
+      2.1
+    ]
+  },
+  "Nova | Army Sheen (Factory New)": {
+    "0.003": [
+      4.95
+    ]
+  },
+  "SG 553 | Lush Ruins (Factory New)": {
+    "0.007": [
+      3.47
+    ]
+  },
+  "SSG 08 | Jungle Dashed (Factory New)": {},
+  "R8 Revolver | Night (Factory New)": {
+    "0.18": [
+      0.59
+    ]
+  },
+  "USP-S | Printstream (Factory New)": {
+    "0.18": [
+      48.5
+    ],
+    "0.08": [
+      105.1
+    ],
+    "0.0085": [
+      283.0
+    ]
+  },
+  "AWP | Chromatic Aberration (Factory New)": {
+    "0.18": [
+      40.68
+    ],
+    "0.08": [
+      90.78
+    ],
+    "0.007": [
+      271.32
+    ]
+  },
+  "AK-47 | Ice Coaled (Factory New)": {
+    "0.18": [
+      5.07
+    ],
+    "0.08": [
+      9.59
+    ],
+    "0.0077": [
+      47.99
+    ],
+    "0.00077": [
+      57.99
+    ]
+  },
+  "Sawed-Off | Kiss♥Love (Factory New)": {
+    "0.01": [
+      51.0
+    ],
+    "0.001": [
+      59.9
+    ]
+  },
+  "P250 | Visions (Factory New)": {
+    "0.18": [
+      4.49
+    ],
+    "0.08": [
+      8.7
+    ],
+    "0.007": [
+      46.08
+    ]
+  },
+  "Dual Berettas | Flora Carnivora (Factory New)": {
+    "0.01": [
+      13.78
+    ]
+  },
+  "M249 | Downtown (Factory New)": {
+    "0.18": [
+      0.48
+    ],
+    "0.08": [
+      1.34
+    ],
+    "0.0065": [
+      9.94
+    ],
+    "0.00065": [
+      13.85
+    ]
+  },
+  "P90 | Vent Rush (Factory New)": {
+    "0.18": [
+      0.46
+    ]
+  },
+  "SG 553 | Dragon Tech (Factory New)": {
+    "0.18": [
+      0.46
+    ],
+    "0.08": [
+      1.37
+    ],
+    "0.007": [
+      13.34
+    ],
+    "0.0007": [
+      14.63
+    ]
+  },
+  "R8 Revolver | Crazy 8 (Factory New)": {
+    "0.01": [
+      13.86
+    ]
+  },
+  "Glock-18 | Winterized (Factory New)": {
+    "0.01": [
+      1.4
+    ],
+    "0.001": [
+      2.1
+    ]
+  },
+  "FAMAS | Meow 36 (Factory New)": {
+    "0.01": [
+      1.35
+    ],
+    "0.001": [
+      2.07
+    ]
+  },
+  "M4A4 | Poly Mag (Factory New)": {
+    "0.01": [
+      1.53
+    ],
+    "0.001": [
+      2.1
+    ],
+    "0.0001": [
+      5.3
+    ]
+  },
+  "MAC-10 | Monkeyflage (Factory New)": {
+    "0.01": [
+      1.76
+    ],
+    "0.001": [
+      2.2
+    ]
+  },
+  "UMP-45 | Roadblock (Factory New)": {
+    "0.01": [
+      1.5
+    ],
+    "0.001": [
+      2.0
+    ],
+    "0.0001": [
+      4.41
+    ]
+  },
+  "Negev | Drop Me (Factory New)": {
+    "0.01": [
+      1.52
+    ],
+    "0.001": [
+      2.07
+    ]
+  },
+  "Galil AR | Destroyer (Factory New)": {
+    "0.08": [
+      0.25
+    ],
+    "0.007": [
+      1.64
+    ],
+    "0.0007": [
+      2.36
+    ]
+  },
+  "USP-S | The Traitor (Factory New)": {
+    "0.18": [
+      50.06
+    ],
+    "0.01": [
+      316.89
+    ],
+    "0.001": [
+      336.39
+    ]
+  },
+  "M4A4 | In Living Color (Factory New)": {
+    "0.18": [
+      42.35
+    ],
+    "0.08": [
+      94.63
+    ],
+    "0.0079": [
+      274.99
+    ]
+  },
+  "AK-47 | Slate (Factory New)": {
+    "0.18": [
+      4.98
+    ],
+    "0.08": [
+      10.78
+    ],
+    "0.01": [
+      24.29
+    ],
+    "0.001": [
+      46.42
+    ]
+  },
+  "MP9 | Food Chain (Factory New)": {
+    "0.01": [
+      55.0
+    ]
+  },
+  "Galil AR | Chromatic Aberration (Factory New)": {
+    "0.18": [
+      6.71
+    ],
+    "0.01": [
+      57.0
+    ],
+    "0.001": [
+      65.0
+    ]
+  },
+  "XM1014 | XOXO (Factory New)": {
+    "0.18": [
+      5.25
+    ],
+    "0.08": [
+      15.76
+    ]
+  },
+  "Desert Eagle | Trigger Discipline (Factory New)": {
+    "0.18": [
+      1.0
+    ],
+    "0.0097": [
+      12.61
+    ],
+    "0.00097": [
+      13.79
+    ]
+  },
+  "Negev | dev_texture (Factory New)": {
+    "0.18": [
+      0.5
+    ],
+    "0.08": [
+      1.36
+    ]
+  },
+  "P250 | Cyber Shell (Factory New)": {
+    "0.08": [
+      1.7
+    ],
+    "0.0085": [
+      13.5
+    ],
+    "0.00085": [
+      13.5
+    ]
+  },
+  "MAC-10 | Button Masher (Factory New)": {},
+  "Glock-18 | Clear Polymer (Factory New)": {
+    "0.01": [
+      2.05
+    ],
+    "0.001": [
+      3.2
+    ]
+  },
+  "UMP-45 | Oscillator (Factory New)": {
+    "0.18": [
+      0.31
+    ],
+    "0.005": [
+      1.72
+    ],
+    "0.0005": [
+      3.39
+    ]
+  },
+  "Nova | Windblown (Factory New)": {
+    "0.18": [
+      0.3
+    ],
+    "0.08": [
+      0.28
+    ],
+    "0.005": [
+      1.99
+    ]
+  },
+  "M249 | O.S.I.P.R. (Factory New)": {
+    "0.18": [
+      0.27
+    ],
+    "0.08": [
+      0.28
+    ],
+    "0.007": [
+      1.75
+    ],
+    "0.0007": [
+      2.25
+    ]
+  },
+  "CZ75-Auto | Circaetus (Factory New)": {
+    "0.18": [
+      0.33
+    ],
+    "0.009": [
+      1.99
+    ],
+    "0.0009": [
+      2.5
+    ]
+  },
+  "R8 Revolver | Junk Yard (Factory New)": {
+    "0.01": [
+      1.8
+    ],
+    "0.001": [
+      2.34
+    ]
+  },
+  "SG 553 | Heavy Metal (Factory New)": {
+    "0.01": [
+      1.65
+    ],
+    "0.001": [
+      2.43
+    ]
+  },
+  "AK-47 | X-Ray (Factory New)": {},
+  "AWP | Silk Tiger (Factory New)": {},
+  "MAC-10 | Hot Snakes (Factory New)": {},
+  "SG 553 | Hypnotic (Factory New)": {},
+  "Galil AR | Phoenix Blacklight (Factory New)": {},
+  "Glock-18 | Franklin (Factory New)": {},
+  "Desert Eagle | Night Heist (Factory New)": {
+    "0.0065": [
+      105.0
+    ]
+  },
+  "Negev | Phoenix Stencil (Factory New)": {},
+  "P90 | Tiger Pit (Factory New)": {},
+  "P250 | Bengal Tiger (Factory New)": {},
+  "UMP-45 | Houndstooth (Factory New)": {},
+  "Nova | Rust Coat (Factory New)": {},
+  "MP7 | Vault Heist (Factory New)": {},
+  "R8 Revolver | Phoenix Marker (Factory New)": {
+    "0.006": [
+      16.14
+    ]
+  },
+  "Tec-9 | Phoenix Chalk (Factory New)": {
+    "0.008": [
+      3.86
+    ]
+  },
+  "M249 | Predator (Factory New)": {},
+  "Dual Berettas | Heist (Factory New)": {
+    "0.007": [
+      4.1
+    ],
+    "0.0007": [
+      9.3
+    ]
+  },
+  "PP-Bizon | Death Rattle (Factory New)": {},
+  "Sawed-Off | Clay Ambush (Factory New)": {
+    "0.006": [
+      2.5
+    ]
+  },
+  "AWP | Fade (Factory New)": {},
+  "M4A1-S | Blue Phosphor (Factory New)": {
+    "0.0008": [
+      1288.37
+    ]
+  },
+  "USP-S | Target Acquired (Factory New)": {},
+  "Five-SeveN | Berries And Cherries (Factory New)": {
+    "0.001": [
+      180.0
+    ]
+  },
+  "UMP-45 | Crime Scene (Factory New)": {
+    "0.0075": [
+      189.0
+    ]
+  },
+  "FAMAS | Prime Conspiracy (Factory New)": {},
+  "SSG 08 | Threat Detected (Factory New)": {
+    "0.0065": [
+      48.0
+    ]
+  },
+  "M4A4 | Global Offensive (Factory New)": {
+    "0.18": [
+      21.18
+    ],
+    "0.007": [
+      84.95
+    ]
+  },
+  "P2000 | Dispatch (Factory New)": {
+    "0.18": [
+      56.0
+    ],
+    "0.0065": [
+      38.5
+    ]
+  },
+  "SCAR-20 | Magna Carta (Factory New)": {
+    "0.18": [
+      17.98
+    ],
+    "0.006": [
+      29.99
+    ]
+  },
+  "Desert Eagle | The Bronze (Factory New)": {
+    "0.003": [
+      7.64
+    ]
+  },
+  "MAG-7 | Carbon Fiber (Factory New)": {
+    "0.0012": [
+      8.0
+    ]
+  },
+  "MP5-SD | Nitro (Factory New)": {},
+  "Dual Berettas | Switch Board (Factory New)": {
+    "0.0065": [
+      7.54
+    ],
+    "0.00065": [
+      18.0
+    ]
+  },
+  "MP9 | Army Sheen (Factory New)": {
+    "0.003": [
+      1.65
+    ],
+    "0.0003": [
+      4.75
+    ]
+  },
+  "P250 | Forest Night (Factory New)": {
+    "0.18": [
+      0.57
+    ]
+  },
+  "AUG | Surveillance (Factory New)": {
+    "0.18": [
+      0.53
+    ],
+    "0.006": [
+      1.19
+    ],
+    "0.0006": [
+      5.0
+    ]
+  },
+  "CZ75-Auto | Jungle Dashed (Factory New)": {
+    "0.18": [
+      0.57
+    ]
+  },
+  "XM1014 | Charter (Factory New)": {
+    "0.18": [
+      0.59
+    ],
+    "0.0065": [
+      2.73
+    ],
+    "0.00065": [
+      5.0
+    ]
+  },
+  "M4A1-S | Printstream (Factory New)": {
+    "0.18": [
+      262.17
+    ],
+    "0.08": [
+      385.18
+    ],
+    "0.008": [
+      1000.0
+    ]
+  },
+  "Glock-18 | Neo-Noir (Factory New)": {
+    "0.18": [
+      54.75
+    ],
+    "0.01": [
+      370.0
+    ]
+  },
+  "USP-S | Monster Mashup (Factory New)": {
+    "0.08": [
+      65.0
+    ],
+    "0.007": [
+      197.83
+    ]
+  },
+  "Five-SeveN | Fairy Tale (Factory New)": {},
+  "M4A4 | Cyber Security (Factory New)": {
+    "0.0098": [
+      315.0
+    ]
+  },
+  "AWP | Exoskeleton (Factory New)": {
+    "0.01": [
+      36.9
+    ]
+  },
+  "UMP-45 | Gold Bismuth (Factory New)": {
+    "0.18": [
+      5.23
+    ]
+  },
+  "SSG 08 | Parallax (Factory New)": {
+    "0.01": [
+      28.8
+    ]
+  },
+  "Dual Berettas | Dezastre (Factory New)": {},
+  "Nova | Clear Polymer (Factory New)": {},
+  "G3SG1 | Digital Mesh (Factory New)": {},
+  "Galil AR | Vandal (Factory New)": {
+    "0.01": [
+      6.05
+    ],
+    "0.001": [
+      10.05
+    ]
+  },
+  "P250 | Contaminant (Factory New)": {},
+  "M249 | Deep Relief (Factory New)": {},
+  "CZ75-Auto | Vendetta (Factory New)": {},
+  "P90 | Cocoa Rampage (Factory New)": {
+    "0.006": [
+      4.06
+    ]
+  },
+  "MP5-SD | Condition Zero (Factory New)": {
+    "0.01": [
+      5.99
+    ]
+  },
+  "AK-47 | Gold Arabesque (Factory New)": {
+    "0.18": [
+      2350.0
+    ]
+  },
+  "SSG 08 | Death Strike (Factory New)": {},
+  "UMP-45 | Fade (Factory New)": {},
+  "USP-S | Orange Anolis (Factory New)": {},
+  "MAC-10 | Case Hardened (Factory New)": {
+    "0.01": [
+      169.47
+    ]
+  },
+  "M4A4 | Red DDPAT (Factory New)": {
+    "0.005": [
+      195.0
+    ]
+  },
+  "Galil AR | Amber Fade (Factory New)": {},
+  "P250 | Black & Tan (Factory New)": {},
+  "Nova | Quick Sand (Factory New)": {},
+  "G3SG1 | New Roots (Factory New)": {},
+  "Five-SeveN | Withered Vine (Factory New)": {
+    "0.005": [
+      13.0
+    ]
+  },
+  "MP9 | Old Roots (Factory New)": {
+    "0.005": [
+      8.0
+    ]
+  },
+  "AUG | Spalted Wood (Factory New)": {},
+  "M249 | Midnight Palm (Factory New)": {
+    "0.005": [
+      8.0
+    ]
+  },
+  "P90 | Desert DDPAT (Factory New)": {
+    "0.005": [
+      1.99
+    ],
+    "0.0005": [
+      5.58
+    ]
+  },
+  "Sawed-Off | Parched (Factory New)": {
+    "0.0049": [
+      1.25
+    ],
+    "0.00049": [
+      4.65
+    ]
+  },
+  "MP7 | Prey (Factory New)": {
+    "0.0048": [
+      0.79
+    ]
+  },
+  "SG 553 | Bleached (Factory New)": {
+    "0.005": [
+      1.65
+    ]
+  },
+  "R8 Revolver | Desert Brush (Factory New)": {
+    "0.006": [
+      1.51
+    ],
+    "0.0006": [
+      8.36
+    ]
+  },
+  "MP9 | Starlight Protector (Factory New)": {
+    "0.18": [
+      74.08
+    ],
+    "0.08": [
+      79.32
+    ],
+    "0.008": [
+      210.92
+    ],
+    "0.0008": [
+      218.15
+    ]
+  },
+  "AK-47 | Nightwish (Factory New)": {
+    "0.18": [
+      74.69
+    ],
+    "0.01": [
+      160.0
+    ],
+    "0.001": [
+      239.6
+    ]
+  },
+  "FAMAS | Rapid Eye Movement (Factory New)": {
+    "0.18": [
+      7.99
+    ],
+    "0.01": [
+      47.56
+    ],
+    "0.001": [
+      60.09
+    ]
+  },
+  "MP7 | Abyssal Apparition (Factory New)": {
+    "0.18": [
+      7.6
+    ],
+    "0.01": [
+      48.82
+    ],
+    "0.001": [
+      61.33
+    ],
+    "0.0001": [
+      135.0
+    ]
+  },
+  "Dual Berettas | Melondrama (Factory New)": {
+    "0.18": [
+      7.93
+    ],
+    "0.01": [
+      46.77
+    ],
+    "0.001": [
+      54.0
+    ]
+  },
+  "M4A1-S | Night Terror (Factory New)": {
+    "0.18": [
+      0.84
+    ],
+    "0.08": [
+      1.39
+    ],
+    "0.007": [
+      14.13
+    ],
+    "0.0007": [
+      15.0
+    ],
+    "7e-05": [
+      20.0
+    ]
+  },
+  "G3SG1 | Dream Glade (Factory New)": {
+    "0.18": [
+      0.74
+    ],
+    "0.01": [
+      13.5
+    ]
+  },
+  "USP-S | Ticket to Hell (Factory New)": {
+    "0.18": [
+      0.78
+    ],
+    "0.08": [
+      1.48
+    ],
+    "0.0076": [
+      13.2
+    ],
+    "0.00076": [
+      14.0
+    ]
+  },
+  "XM1014 | Zombie Offensive (Factory New)": {
+    "0.18": [
+      0.67
+    ],
+    "0.005": [
+      13.29
+    ]
+  },
+  "PP-Bizon | Space Cat (Factory New)": {
+    "0.18": [
+      0.67
+    ],
+    "0.08": [
+      1.41
+    ],
+    "0.0067": [
+      13.0
+    ],
+    "0.00067": [
+      15.55
+    ]
+  },
+  "Five-SeveN | Scrawl (Factory New)": {
+    "0.01": [
+      1.47
+    ],
+    "0.001": [
+      2.0
+    ]
+  },
+  "MAC-10 | Ensnared (Factory New)": {
+    "0.08": [
+      0.27
+    ],
+    "0.009": [
+      1.45
+    ],
+    "0.0009": [
+      2.14
+    ],
+    "9e-05": [
+      8.0
+    ]
+  },
+  "MAG-7 | Foresight (Factory New)": {
+    "0.08": [
+      0.25
+    ],
+    "0.007": [
+      1.4
+    ],
+    "0.0007": [
+      2.25
+    ],
+    "7e-05": [
+      5.33
+    ]
+  },
+  "MP5-SD | Necro Jr. (Factory New)": {
+    "0.01": [
+      1.51
+    ],
+    "0.001": [
+      2.08
+    ]
+  },
+  "P2000 | Lifted Spirits (Factory New)": {
+    "0.01": [
+      1.49
+    ]
+  },
+  "SCAR-20 | Poultrygeist (Factory New)": {
+    "0.0057": [
+      1.5
+    ],
+    "0.00057": [
+      2.42
+    ],
+    "6e-05": [
+      11.7
+    ]
+  },
+  "Sawed-Off | Spirit Board (Factory New)": {
+    "0.01": [
+      1.57
+    ],
+    "0.001": [
+      2.4
+    ]
+  },
+  "M4A1-S | Imminent Danger (Factory New)": {},
+  "Five-SeveN | Fall Hazard (Factory New)": {},
+  "SG 553 | Hazard Pay (Factory New)": {},
+  "Galil AR | CAUTION! (Factory New)": {},
+  "AK-47 | Green Laminate (Factory New)": {},
+  "P250 | Digital Architect (Factory New)": {},
+  "MAG-7 | Prism Terrace (Factory New)": {},
+  "SSG 08 | Carbon Fiber (Factory New)": {},
+  "P90 | Schematic (Factory New)": {},
+  "Negev | Infrastructure (Factory New)": {},
+  "Nova | Interlock (Factory New)": {},
+  "Glock-18 | Red Tire (Factory New)": {},
+  "FAMAS | Faulty Wiring (Factory New)": {
+    "0.005": [
+      3.0
+    ]
+  },
+  "PP-Bizon | Breaker Box (Factory New)": {
+    "0.0044": [
+      14.15
+    ]
+  },
+  "UMP-45 | Mechanism (Factory New)": {},
+  "Dual Berettas | Oil Change (Factory New)": {
+    "0.005": [
+      3.5
+    ]
+  },
+  "MAC-10 | Strats (Factory New)": {
+    "0.18": [
+      0.98
+    ],
+    "0.006": [
+      4.5
+    ]
+  },
+  "XM1014 | Blue Tire (Factory New)": {
+    "0.0055": [
+      3.7
+    ]
+  },
+  "CZ75-Auto | Framework (Factory New)": {},
+  "AK-47 | Leet Museo (Factory New)": {
+    "0.18": [
+      404.1
+    ]
+  },
+  "Desert Eagle | Ocean Drive (Factory New)": {
+    "0.18": [
+      111.0
+    ]
+  },
+  "SSG 08 | Turbo Peek (Factory New)": {
+    "0.18": [
+      27.45
+    ],
+    "0.006": [
+      123.75
+    ]
+  },
+  "Glock-18 | Snack Attack (Factory New)": {
+    "0.01": [
+      224.99
+    ]
+  },
+  "MAC-10 | Toybox (Factory New)": {},
+  "M4A4 | Spider Lily (Factory New)": {
+    "0.18": [
+      18.46
+    ],
+    "0.01": [
+      129.91
+    ],
+    "0.001": [
+      160.0
+    ]
+  },
+  "MP9 | Mount Fuji (Factory New)": {
+    "0.18": [
+      7.6
+    ],
+    "0.08": [
+      12.97
+    ],
+    "0.0055": [
+      42.68
+    ]
+  },
+  "Five-SeveN | Boost Protocol (Factory New)": {},
+  "FAMAS | ZX Spectron (Factory New)": {
+    "0.01": [
+      24.6
+    ]
+  },
+  "MAG-7 | BI83 Spectrum (Factory New)": {
+    "0.006": [
+      22.75
+    ]
+  },
+  "USP-S | Black Lotus (Factory New)": {
+    "0.18": [
+      2.35
+    ],
+    "0.08": [
+      4.71
+    ],
+    "0.009": [
+      22.95
+    ],
+    "0.0009": [
+      34.45
+    ]
+  },
+  "XM1014 | Watchdog (Factory New)": {
+    "0.01": [
+      9.83
+    ]
+  },
+  "AUG | Plague (Factory New)": {
+    "0.0076": [
+      7.76
+    ]
+  },
+  "PP-Bizon | Lumen (Factory New)": {
+    "0.0077": [
+      9.0
+    ]
+  },
+  "MP7 | Guerrilla (Factory New)": {},
+  "G3SG1 | Keeping Tabs (Factory New)": {},
+  "Dual Berettas | Tread (Factory New)": {
+    "0.01": [
+      9.66
+    ]
+  },
+  "M4A4 | The Coalition (Factory New)": {},
+  "Glock-18 | Gamma Doppler (Factory New)": {},
+  "USP-S | Whiteout (Factory New)": {
+    "0.18": [
+      160.0
+    ],
+    "0.08": [
+      318.39
+    ]
+  },
+  "FAMAS | Meltdown (Factory New)": {},
+  "MAC-10 | Propaganda (Factory New)": {},
+  "AWP | POP AWP (Factory New)": {
+    "0.0044": [
+      58.42
+    ]
+  },
+  "CZ75-Auto | Syndicate (Factory New)": {
+    "0.007": [
+      57.5
+    ]
+  },
+  "Nova | Red Quartz (Factory New)": {},
+  "P2000 | Space Race (Factory New)": {},
+  "MP5-SD | Autumn Twilly (Factory New)": {},
+  "R8 Revolver | Blaze (Factory New)": {
+    "0.0008": [
+      9.4
+    ]
+  },
+  "AUG | Amber Fade (Factory New)": {
+    "0.004": [
+      5.35
+    ]
+  },
+  "Desert Eagle | Sputnik (Factory New)": {
+    "0.18": [
+      2.63
+    ],
+    "0.08": [
+      4.82
+    ],
+    "0.005": [
+      10.95
+    ]
+  },
+  "M4A1-S | Fizzy POP (Factory New)": {
+    "0.18": [
+      2.97
+    ],
+    "0.08": [
+      4.39
+    ],
+    "0.0057": [
+      14.99
+    ]
+  },
+  "UMP-45 | Full Stop (Factory New)": {
+    "0.006": [
+      7.3
+    ],
+    "0.0006": [
+      9.35
+    ]
+  },
+  "SSG 08 | Spring Twilly (Factory New)": {
+    "0.18": [
+      2.33
+    ],
+    "0.0055": [
+      9.36
+    ]
+  },
+  "Tec-9 | Safety Net (Factory New)": {
+    "0.08": [
+      3.45
+    ],
+    "0.006": [
+      9.0
+    ]
+  },
+  "AWP | Desert Hydra (Factory New)": {},
+  "Desert Eagle | Fennec Fox (Factory New)": {},
+  "MP5-SD | Oxide Oasis (Factory New)": {},
+  "Glock-18 | Pink DDPAT (Factory New)": {},
+  "USP-S | Purple DDPAT (Factory New)": {
+    "0.08": [
+      23.9
+    ],
+    "0.0055": [
+      82.68
+    ]
+  },
+  "AUG | Sand Storm (Factory New)": {},
+  "XM1014 | Elegant Vines (Factory New)": {},
+  "MP9 | Music Box (Factory New)": {},
+  "SG 553 | Desert Blossom (Factory New)": {
+    "0.18": [
+      11.85
+    ]
+  },
+  "M249 | Humidor (Factory New)": {},
+  "Dual Berettas | Drift Wood (Factory New)": {},
+  "FAMAS | CaliCamo (Factory New)": {
+    "0.006": [
+      7.0
+    ]
+  },
+  "P90 | Verdant Growth (Factory New)": {
+    "0.0047": [
+      6.9
+    ],
+    "0.00047": [
+      18.0
+    ]
+  },
+  "CZ75-Auto | Midnight Palm (Factory New)": {
+    "0.005": [
+      6.41
+    ]
+  },
+  "MAC-10 | Sienna Damask (Factory New)": {
+    "0.08": [
+      0.47
+    ],
+    "0.006": [
+      1.49
+    ],
+    "0.0006": [
+      4.43
+    ]
+  },
+  "P250 | Drought (Factory New)": {
+    "0.0044": [
+      1.71
+    ],
+    "0.00044": [
+      8.75
+    ]
+  },
+  "PP-Bizon | Anolis (Factory New)": {
+    "0.005": [
+      1.75
+    ],
+    "0.0005": [
+      3.74
+    ]
+  },
+  "MAG-7 | Navy Sheen (Factory New)": {
+    "0.0055": [
+      2.97
+    ],
+    "0.00055": [
+      9.0
+    ]
+  },
+  "SSG 08 | Prey (Factory New)": {
+    "0.18": [
+      0.37
+    ],
+    "0.0048": [
+      2.3
+    ],
+    "0.00048": [
+      9.7
+    ]
+  },
+  "M4A4 | Eye of Horus (Factory New)": {
+    "0.18": [
+      866.55
+    ],
+    "0.08": [
+      1177.59
+    ]
+  },
+  "FAMAS | Waters of Nephthys (Factory New)": {
+    "0.18": [
+      123.78
+    ]
+  },
+  "P250 | Apep's Curse (Factory New)": {},
+  "Glock-18 | Ramese's Reach (Factory New)": {
+    "0.01": [
+      124.99
+    ]
+  },
+  "P90 | ScaraB Rush (Factory New)": {
+    "0.01": [
+      64.95
+    ]
+  },
+  "Nova | Sobek's Bite (Factory New)": {},
+  "AWP | Black Nile (Factory New)": {
+    "0.18": [
+      3.99
+    ],
+    "0.08": [
+      5.48
+    ],
+    "0.0075": [
+      23.35
+    ]
+  },
+  "AK-47 | Steel Delta (Factory New)": {
+    "0.18": [
+      2.8
+    ],
+    "0.0073": [
+      18.0
+    ]
+  },
+  "Tec-9 | Mummy's Rot (Factory New)": {},
+  "MAG-7 | Copper Coated (Factory New)": {
+    "0.01": [
+      12.54
+    ],
+    "0.001": [
+      20.0
+    ]
+  },
+  "M4A1-S | Mud-Spec (Factory New)": {
+    "0.18": [
+      0.22
+    ],
+    "0.08": [
+      0.55
+    ],
+    "0.0073": [
+      5.25
+    ],
+    "0.00073": [
+      16.45
+    ]
+  },
+  "USP-S | Desert Tactical (Factory New)": {
+    "0.01": [
+      2.96
+    ],
+    "0.001": [
+      7.84
+    ]
+  },
+  "SSG 08 | Azure Glyph (Factory New)": {},
+  "MAC-10 | Echoing Sands (Factory New)": {},
+  "AUG | Snake Pit (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.0055": [
+      0.58
+    ],
+    "0.00055": [
+      1.6
+    ],
+    "6e-05": [
+      5.11
+    ]
+  },
+  "M249 | Submerged (Factory New)": {},
+  "XM1014 | Hieroglyph (Factory New)": {
+    "0.01": [
+      0.75
+    ],
+    "0.001": [
+      1.17
+    ]
+  },
+  "MP7 | Sunbaked (Factory New)": {
+    "0.01": [
+      0.8
+    ],
+    "0.001": [
+      2.66
+    ]
+  },
+  "R8 Revolver | Inlay (Factory New)": {
+    "0.0076": [
+      0.55
+    ],
+    "0.00076": [
+      0.9
+    ]
+  },
+  "AK-47 | Inheritance (Factory New)": {
+    "0.18": [
+      69.41
+    ],
+    "0.08": [
+      104.88
+    ],
+    "0.00797": [
+      244.48
+    ],
+    "0.0008": [
+      340.0
+    ]
+  },
+  "AWP | Chrome Cannon (Factory New)": {
+    "0.18": [
+      35.9
+    ],
+    "0.01": [
+      124.99
+    ]
+  },
+  "M4A1-S | Black Lotus (Factory New)": {
+    "0.18": [
+      7.63
+    ],
+    "0.08": [
+      12.15
+    ],
+    "0.007": [
+      48.9
+    ],
+    "0.0007": [
+      66.67
+    ],
+    "7e-05": [
+      190.0
+    ]
+  },
+  "USP-S | Jawbreaker (Factory New)": {
+    "0.01": [
+      47.0
+    ],
+    "0.001": [
+      52.2
+    ]
+  },
+  "Zeus x27 | Olympus (Factory New)": {
+    "0.18": [
+      5.04
+    ],
+    "0.08": [
+      8.74
+    ],
+    "0.0067": [
+      53.93
+    ]
+  },
+  "Glock-18 | Block-18 (Factory New)": {
+    "0.18": [
+      0.62
+    ],
+    "0.08": [
+      1.45
+    ],
+    "0.00672": [
+      13.49
+    ],
+    "0.00067": [
+      13.49
+    ]
+  },
+  "M4A4 | Etch Lord (Factory New)": {
+    "0.18": [
+      1.0
+    ],
+    "0.01": [
+      13.27
+    ],
+    "0.001": [
+      15.97
+    ]
+  },
+  "Sawed-Off | Analog Input (Factory New)": {
+    "0.18": [
+      0.6
+    ],
+    "0.08": [
+      1.19
+    ]
+  },
+  "MP7 | Just Smile (Factory New)": {
+    "0.18": [
+      0.92
+    ],
+    "0.01": [
+      14.5
+    ],
+    "0.001": [
+      16.47
+    ]
+  },
+  "Five-SeveN | Hybrid (Factory New)": {
+    "0.01": [
+      13.22
+    ]
+  },
+  "Dual Berettas | Hideout (Factory New)": {
+    "0.08": [
+      0.25
+    ],
+    "0.00699": [
+      2.0
+    ],
+    "0.0007": [
+      2.55
+    ],
+    "7e-05": [
+      5.25
+    ]
+  },
+  "UMP-45 | Motorized (Factory New)": {
+    "0.18": [
+      0.19
+    ],
+    "0.00801": [
+      1.65
+    ],
+    "0.0008": [
+      2.16
+    ],
+    "8e-05": [
+      5.2
+    ]
+  },
+  "Nova | Dark Sigil (Factory New)": {
+    "0.08": [
+      0.25
+    ],
+    "0.00699": [
+      1.5
+    ],
+    "0.0007": [
+      2.29
+    ],
+    "7e-05": [
+      6.5
+    ]
+  },
+  "MAC-10 | Light Box (Factory New)": {
+    "0.01": [
+      1.8
+    ],
+    "0.001": [
+      2.24
+    ]
+  },
+  "XM1014 | Irezumi (Factory New)": {
+    "0.18": [
+      0.15
+    ],
+    "0.00799": [
+      1.7
+    ],
+    "0.0008": [
+      2.26
+    ]
+  },
+  "SSG 08 | Dezastre (Factory New)": {
+    "0.01": [
+      1.5
+    ],
+    "0.001": [
+      2.19
+    ]
+  },
+  "Tec-9 | Slag (Factory New)": {
+    "0.08": [
+      0.36
+    ],
+    "0.009": [
+      1.85
+    ],
+    "0.0009": [
+      2.2
+    ]
+  },
+  "M4A1-S | Vaporwave (Factory New)": {
+    "0.18": [
+      84.9
+    ],
+    "0.08": [
+      170.97
+    ],
+    "0.00597": [
+      535.36
+    ]
+  },
+  "Glock-18 | Gold Toof (Factory New)": {
+    "0.18": [
+      34.87
+    ],
+    "0.08": [
+      60.12
+    ],
+    "0.0073": [
+      239.77
+    ]
+  },
+  "AK-47 | The Outsiders (Factory New)": {
+    "0.18": [
+      13.2
+    ],
+    "0.08": [
+      30.7
+    ],
+    "0.009": [
+      165.0
+    ]
+  },
+  "UMP-45 | Neo-Noir (Factory New)": {
+    "0.18": [
+      12.15
+    ],
+    "0.01": [
+      68.01
+    ]
+  },
+  "P250 | Epicenter (Factory New)": {
+    "0.08": [
+      28.31
+    ],
+    "0.008": [
+      65.0
+    ]
+  },
+  "M4A4 | Turbine (Factory New)": {
+    "0.08": [
+      6.33
+    ],
+    "0.0085": [
+      35.5
+    ],
+    "0.00085": [
+      45.0
+    ]
+  },
+  "Dual Berettas | Hydro Strike (Factory New)": {
+    "0.08": [
+      3.8
+    ],
+    "0.00801": [
+      15.57
+    ]
+  },
+  "MAC-10 | Saibā Oni (Factory New)": {
+    "0.18": [
+      1.15
+    ],
+    "0.08": [
+      3.89
+    ],
+    "0.0066": [
+      16.8
+    ]
+  },
+  "SSG 08 | Rapid Transit (Factory New)": {
+    "0.18": [
+      1.59
+    ],
+    "0.0075": [
+      15.02
+    ]
+  },
+  "P90 | Randy Rush (Factory New)": {
+    "0.18": [
+      0.95
+    ],
+    "0.08": [
+      3.68
+    ],
+    "0.0075": [
+      15.69
+    ],
+    "0.00075": [
+      19.7
+    ]
+  },
+  "Desert Eagle | Calligraffiti (Factory New)": {
+    "0.01": [
+      10.33
+    ],
+    "0.001": [
+      13.95
+    ]
+  },
+  "USP-S | 027 (Factory New)": {
+    "0.18": [
+      0.35
+    ],
+    "0.01": [
+      3.65
+    ],
+    "0.001": [
+      4.58
+    ]
+  },
+  "R8 Revolver | Tango (Factory New)": {
+    "0.08": [
+      1.07
+    ],
+    "0.00851": [
+      2.75
+    ]
+  },
+  "AUG | Luxe Trim (Factory New)": {
+    "0.08": [
+      0.97
+    ],
+    "0.009": [
+      2.71
+    ],
+    "0.0009": [
+      4.6
+    ]
+  },
+  "M249 | Hypnosis (Factory New)": {
+    "0.01": [
+      2.82
+    ],
+    "0.001": [
+      4.0
+    ]
+  },
+  "MP5-SD | Statics (Factory New)": {
+    "0.01": [
+      2.87
+    ],
+    "0.001": [
+      3.8
+    ]
+  },
+  "SCAR-20 | Trail Blazer (Factory New)": {
+    "0.18": [
+      0.17
+    ],
+    "0.08": [
+      0.59
+    ],
+    "0.00703": [
+      2.97
+    ]
+  },
+  "AWP | CMYK (Factory New)": {
+    "0.18": [
+      565.0
+    ],
+    "0.08": [
+      895.37
+    ]
+  },
+  "AUG | Lil' Pig (Factory New)": {
+    "0.008": [
+      372.54
+    ]
+  },
+  "Desert Eagle | Starcade (Factory New)": {
+    "0.18": [
+      149.0
+    ],
+    "0.08": [
+      242.57
+    ],
+    "0.0075": [
+      599.0
+    ]
+  },
+  "CZ75-Auto | Slalom (Factory New)": {
+    "0.18": [
+      18.99
+    ],
+    "0.0057": [
+      59.0
+    ],
+    "0.00057": [
+      90.0
+    ]
+  },
+  "M4A4 | Polysoup (Factory New)": {
+    "0.18": [
+      19.92
+    ],
+    "0.08": [
+      35.06
+    ],
+    "0.0064": [
+      76.69
+    ]
+  },
+  "P90 | Attack Vector (Factory New)": {
+    "0.18": [
+      19.63
+    ],
+    "0.08": [
+      32.98
+    ],
+    "0.0055": [
+      69.99
+    ],
+    "0.00055": [
+      120.0
+    ]
+  },
+  "AK-47 | Crossfade (Factory New)": {
+    "0.18": [
+      2.77
+    ],
+    "0.08": [
+      4.17
+    ],
+    "0.005": [
+      14.79
+    ],
+    "0.0005": [
+      30.06
+    ]
+  },
+  "SG 553 | Berry Gel Coat (Factory New)": {
+    "0.18": [
+      3.18
+    ],
+    "0.08": [
+      5.0
+    ],
+    "0.008": [
+      10.21
+    ],
+    "0.0008": [
+      14.4
+    ]
+  },
+  "SCAR-20 | Wild Berry (Factory New)": {
+    "0.18": [
+      2.94
+    ],
+    "0.08": [
+      5.0
+    ],
+    "0.0065": [
+      9.15
+    ],
+    "0.00065": [
+      13.49
+    ]
+  },
+  "XM1014 | Halftone Shift (Factory New)": {
+    "0.18": [
+      2.86
+    ],
+    "0.08": [
+      4.08
+    ],
+    "0.006": [
+      7.9
+    ],
+    "0.0006": [
+      13.5
+    ]
+  },
+  "SSG 08 | Halftone Whorl (Factory New)": {
+    "0.18": [
+      0.28
+    ],
+    "0.08": [
+      0.46
+    ],
+    "0.005": [
+      1.17
+    ],
+    "0.0005": [
+      4.0
+    ]
+  },
+  "P2000 | Coral Halftone (Factory New)": {
+    "0.18": [
+      0.5
+    ],
+    "0.08": [
+      0.39
+    ],
+    "0.0052": [
+      1.18
+    ]
+  },
+  "M249 | Spectrogram (Factory New)": {
+    "0.18": [
+      0.31
+    ],
+    "0.08": [
+      0.4
+    ],
+    "0.005": [
+      1.14
+    ],
+    "0.0005": [
+      4.1
+    ]
+  },
+  "MP7 | Astrolabe (Factory New)": {
+    "0.01": [
+      1.98
+    ],
+    "0.001": [
+      2.97
+    ]
+  },
+  "Galil AR | NV (Factory New)": {
+    "0.18": [
+      0.24
+    ],
+    "0.08": [
+      0.58
+    ],
+    "0.0047": [
+      1.33
+    ],
+    "0.00047": [
+      4.0
+    ]
+  },
+  "FAMAS | Halftone Wash (Factory New)": {
+    "0.18": [
+      0.25
+    ],
+    "0.08": [
+      0.63
+    ],
+    "0.005": [
+      1.17
+    ],
+    "0.0005": [
+      4.2
+    ]
+  },
+  "AK-47 | B the Monster (Factory New)": {
+    "0.18": [
+      395.0
+    ],
+    "0.08": [
+      640.0
+    ],
+    "0.008": [
+      1900.0
+    ]
+  },
+  "AWP | Crakow! (Factory New)": {
+    "0.18": [
+      79.0
+    ],
+    "0.01": [
+      371.07
+    ]
+  },
+  "Zeus x27 | Dragon Snore (Factory New)": {
+    "0.18": [
+      58.0
+    ],
+    "0.008": [
+      249.77
+    ],
+    "0.0008": [
+      430.8
+    ]
+  },
+  "Dual Berettas | Sweet Little Angels (Factory New)": {
+    "0.18": [
+      8.3
+    ],
+    "0.08": [
+      17.0
+    ],
+    "0.0082": [
+      43.4
+    ],
+    "0.00082": [
+      69.75
+    ]
+  },
+  "AUG | Eye of Zapems (Factory New)": {
+    "0.18": [
+      8.11
+    ],
+    "0.0085": [
+      41.5
+    ],
+    "0.00085": [
+      65.57
+    ]
+  },
+  "XM1014 | Monster Melt (Factory New)": {
+    "0.18": [
+      8.0
+    ],
+    "0.0075": [
+      43.9
+    ],
+    "0.00075": [
+      73.2
+    ]
+  },
+  "Galil AR | Metallic Squeezer (Factory New)": {
+    "0.18": [
+      0.68
+    ],
+    "0.08": [
+      1.57
+    ],
+    "0.006": [
+      5.74
+    ],
+    "0.0006": [
+      10.5
+    ]
+  },
+  "Glock-18 | Teal Graf (Factory New)": {
+    "0.18": [
+      0.5
+    ],
+    "0.08": [
+      1.6
+    ],
+    "0.005": [
+      5.74
+    ],
+    "0.0005": [
+      9.5
+    ]
+  },
+  "MAC-10 | Pipsqueak (Factory New)": {
+    "0.18": [
+      1.13
+    ],
+    "0.08": [
+      2.57
+    ],
+    "0.009": [
+      10.54
+    ],
+    "0.0009": [
+      15.84
+    ]
+  },
+  "Nova | Wurst Hölle (Factory New)": {
+    "0.18": [
+      1.1
+    ],
+    "0.01": [
+      5.87
+    ]
+  },
+  "Desert Eagle | Tilted (Factory New)": {
+    "0.18": [
+      0.31
+    ],
+    "0.08": [
+      0.85
+    ],
+    "0.0075": [
+      4.78
+    ],
+    "0.00075": [
+      9.35
+    ]
+  },
+  "M4A1-S | Wash me plz (Factory New)": {
+    "0.18": [
+      0.15
+    ],
+    "0.08": [
+      0.31
+    ],
+    "0.0058": [
+      1.42
+    ],
+    "0.00058": [
+      9.35
+    ]
+  },
+  "Five-SeveN | Midnight Paintover (Factory New)": {
+    "0.18": [
+      0.16
+    ],
+    "0.08": [
+      0.41
+    ],
+    "0.005": [
+      0.72
+    ],
+    "0.0005": [
+      1.96
+    ]
+  },
+  "P90 | Wash me (Factory New)": {
+    "0.18": [
+      0.15
+    ],
+    "0.08": [
+      0.44
+    ],
+    "0.005": [
+      0.79
+    ],
+    "0.0005": [
+      2.3
+    ]
+  },
+  "MP5-SD | Neon Squeezer (Factory New)": {},
+  "Negev | Wall Bang (Factory New)": {
+    "0.18": [
+      0.21
+    ],
+    "0.01": [
+      1.8
+    ],
+    "0.001": [
+      2.35
+    ]
+  },
+  "M4A1-S | Fade (Factory New)": {
+    "0.0008": [
+      711.81
+    ]
+  },
+  "Glock-18 | AXIA (Factory New)": {
+    "0.18": [
+      68.59
+    ],
+    "0.08": [
+      99.45
+    ],
+    "0.007": [
+      321.9
+    ]
+  },
+  "Galil AR | Rainbow Spoon (Factory New)": {
+    "0.18": [
+      63.53
+    ],
+    "0.08": [
+      77.51
+    ],
+    "0.00554": [
+      174.8
+    ]
+  },
+  "MP9 | Arctic Tri-Tone (Factory New)": {
+    "0.18": [
+      8.6
+    ],
+    "0.08": [
+      14.5
+    ],
+    "0.006": [
+      33.74
+    ]
+  },
+  "UMP-45 | Crimson Foil (Factory New)": {
+    "0.18": [
+      8.02
+    ],
+    "0.08": [
+      14.0
+    ],
+    "0.0068": [
+      37.65
+    ]
+  },
+  "Five-SeveN | Heat Treated (Factory New)": {
+    "0.18": [
+      10.2
+    ],
+    "0.01": [
+      43.0
+    ]
+  },
+  "P250 | Small Game (Factory New)": {
+    "0.18": [
+      0.85
+    ],
+    "0.08": [
+      1.38
+    ],
+    "0.007": [
+      4.44
+    ],
+    "0.0007": [
+      6.9
+    ]
+  },
+  "USP-S | Alpine Camo (Factory New)": {
+    "0.18": [
+      0.84
+    ],
+    "0.08": [
+      1.76
+    ],
+    "0.0068": [
+      7.33
+    ],
+    "0.00068": [
+      18.0
+    ]
+  },
+  "Nova | Yorkshire (Factory New)": {
+    "0.18": [
+      1.09
+    ],
+    "0.01": [
+      4.12
+    ],
+    "0.001": [
+      7.49
+    ]
+  },
+  "SSG 08 | Zeno (Factory New)": {
+    "0.18": [
+      0.9
+    ],
+    "0.08": [
+      1.37
+    ],
+    "0.007": [
+      3.81
+    ],
+    "0.0007": [
+      9.23
+    ]
+  },
+  "AK-47 | Olive Polycam (Factory New)": {
+    "0.18": [
+      0.15
+    ],
+    "0.08": [
+      0.35
+    ],
+    "0.005": [
+      1.65
+    ],
+    "0.0005": [
+      4.14
+    ]
+  },
+  "FAMAS | Half Sleeve (Factory New)": {
+    "0.01": [
+      0.85
+    ],
+    "0.001": [
+      1.5
+    ]
+  },
+  "PP-Bizon | Cold Cell (Factory New)": {
+    "0.004": [
+      0.44
+    ],
+    "0.0004": [
+      3.0
+    ]
+  },
+  "MP5-SD | Savannah Halftone (Factory New)": {},
+  "Tec-9 | Tiger Stencil (Factory New)": {
+    "0.18": [
+      0.17
+    ],
+    "0.08": [
+      0.19
+    ],
+    "0.006": [
+      0.67
+    ],
+    "0.0006": [
+      1.7
+    ],
+    "6e-05": [
+      12.88
+    ]
+  },
+  "MAG-7 | Wildwood (Factory New)": {
+    "0.18": [
+      0.12
+    ],
+    "0.08": [
+      0.37
+    ],
+    "0.007": [
+      0.58
+    ],
+    "0.0007": [
+      1.35
+    ]
+  },
+  "Desert Eagle | Heat Treated (Factory New)": {
+    "0.18": [
+      2.1
+    ],
+    "0.01": [
+      76.5
+    ],
+    "0.001": [
+      83.32
+    ],
+    "0.0001": [
+      169.99
+    ]
+  },
+  "M4A1-S | Solitude (Factory New)": {
+    "0.18": [
+      1.84
+    ],
+    "0.08": [
+      5.45
+    ],
+    "0.007": [
+      41.65
+    ],
+    "0.0007": [
+      46.5
+    ],
+    "7e-05": [
+      112.14
+    ]
+  },
+  "XM1014 | Solitude (Factory New)": {
+    "0.18": [
+      2.0
+    ],
+    "0.08": [
+      3.58
+    ],
+    "0.007": [
+      19.83
+    ],
+    "0.0007": [
+      40.43
+    ]
+  },
+  "AK-47 | Nouveau Rouge (Factory New)": {
+    "0.18": [
+      43.88
+    ],
+    "0.01": [
+      319.89
+    ]
+  },
+  "Desert Eagle | Mulberry (Factory New)": {
+    "0.18": [
+      11.99
+    ],
+    "0.08": [
+      24.0
+    ],
+    "0.0075": [
+      76.54
+    ]
+  },
+  "M4A1-S | Glitched Paint (Factory New)": {
+    "0.18": [
+      5.92
+    ],
+    "0.08": [
+      14.2
+    ],
+    "0.0067": [
+      41.59
+    ]
+  },
+  "USP-S | Bleeding Edge (Factory New)": {
+    "0.18": [
+      5.89
+    ],
+    "0.08": [
+      13.5
+    ],
+    "0.006": [
+      41.63
+    ]
+  },
+  "AWP | Arsenic Spill (Factory New)": {
+    "0.18": [
+      0.96
+    ],
+    "0.00502": [
+      8.23
+    ],
+    "0.0005": [
+      13.91
+    ]
+  },
+  "M4A1-S | Rose Hex (Factory New)": {
+    "0.18": [
+      0.69
+    ],
+    "0.08": [
+      1.8
+    ],
+    "0.005": [
+      5.09
+    ],
+    "0.0005": [
+      12.91
+    ]
+  },
+  "Glock-18 | Coral Bloom (Factory New)": {
+    "0.18": [
+      1.06
+    ],
+    "0.08": [
+      2.38
+    ],
+    "0.00753": [
+      7.19
+    ]
+  },
+  "MP9 | Shredded (Factory New)": {
+    "0.18": [
+      0.83
+    ],
+    "0.006": [
+      8.95
+    ]
+  },
+  "SSG 08 | Blush Pour (Factory New)": {
+    "0.18": [
+      0.98
+    ],
+    "0.00678": [
+      4.95
+    ]
+  },
+  "P250 | Red Tide (Factory New)": {
+    "0.18": [
+      1.1
+    ],
+    "0.0075": [
+      7.99
+    ]
+  },
+  "SG 553 | Basket Halftone (Factory New)": {
+    "0.18": [
+      0.2
+    ],
+    "0.08": [
+      0.19
+    ],
+    "0.006": [
+      0.65
+    ],
+    "0.0006": [
+      1.69
+    ]
+  },
+  "P250 | Sedimentary (Factory New)": {
+    "0.18": [
+      0.11
+    ],
+    "0.08": [
+      0.22
+    ],
+    "0.0068": [
+      1.4
+    ],
+    "0.00068": [
+      3.15
+    ]
+  },
+  "Tec-9 | Citric Acid (Factory New)": {
+    "0.08": [
+      0.18
+    ],
+    "0.006": [
+      1.08
+    ],
+    "0.0006": [
+      2.34
+    ]
+  },
+  "FAMAS | Grey Ghost (Factory New)": {
+    "0.08": [
+      0.2
+    ],
+    "0.00637": [
+      1.35
+    ],
+    "0.00064": [
+      3.15
+    ]
+  },
+  "M4A4 | Steel Work (Factory New)": {
+    "0.18": [
+      0.1
+    ],
+    "0.08": [
+      0.2
+    ],
+    "0.007": [
+      0.79
+    ],
+    "0.0007": [
+      2.11
+    ]
+  },
+  "Galil AR | O-Ranger (Factory New)": {
+    "0.18": [
+      0.11
+    ],
+    "0.08": [
+      0.24
+    ],
+    "0.0075": [
+      1.25
+    ],
+    "0.00075": [
+      2.83
+    ]
+  },
+  "MP7 | Short Ochre (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.00747": [
+      0.19
+    ],
+    "0.00075": [
+      0.95
+    ]
+  },
+  "SCAR-20 | Short Ochre (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.00747": [
+      0.17
+    ],
+    "0.00075": [
+      0.7
+    ]
+  },
+  "Dual Berettas | BorDeux (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.008": [
+      0.16
+    ],
+    "0.0008": [
+      1.44
+    ]
+  },
+  "Five-SeveN | Autumn Thicket (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.00637": [
+      0.18
+    ],
+    "0.00064": [
+      0.7
+    ]
+  },
+  "MAC-10 | Bronzer (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.008": [
+      0.17
+    ],
+    "0.0008": [
+      0.78
+    ]
+  },
+  "XM1014 | Canvas Cloud (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.21
+    ],
+    "0.0006": [
+      1.0
+    ]
+  },
+  "PP-Bizon | Wood Block Camo (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.16
+    ],
+    "0.0006": [
+      0.94
+    ]
+  },
+  "Nova | Marsh Grass (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.0055": [
+      0.17
+    ],
+    "0.00055": [
+      0.63
+    ]
+  },
+  "G3SG1 | Red Jasper (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.00637": [
+      0.18
+    ],
+    "0.00064": [
+      0.7
+    ]
+  },
+  "P90 | Desert Halftone (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.0065": [
+      0.16
+    ],
+    "0.00065": [
+      0.58
+    ]
+  },
+  "CZ75-Auto | Pink Pearl (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.007": [
+      0.16
+    ],
+    "0.0007": [
+      0.75
+    ]
+  },
+  "MP9 | Multi-Terrain (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.006": [
+      0.17
+    ],
+    "0.0006": [
+      0.69
+    ]
+  },
+  "AWP | Green Energy (Factory New)": {
+    "0.18": [
+      34.99
+    ],
+    "0.08": [
+      62.9
+    ],
+    "0.0075": [
+      220.98
+    ],
+    "0.00075": [
+      269.0
+    ]
+  },
+  "Glock-18 | Glockingbird (Factory New)": {
+    "0.18": [
+      4.05
+    ],
+    "0.08": [
+      12.0
+    ],
+    "0.0067": [
+      36.3
+    ],
+    "0.00067": [
+      78.0
+    ]
+  },
+  "M4A4 | Sheet Lightning (Factory New)": {
+    "0.18": [
+      5.16
+    ],
+    "0.08": [
+      11.97
+    ],
+    "0.0075": [
+      33.26
+    ],
+    "0.00075": [
+      65.0
+    ]
+  },
+  "AK-47 | Wintergreen (Factory New)": {
+    "0.18": [
+      2.26
+    ],
+    "0.08": [
+      6.19
+    ],
+    "0.0075": [
+      26.99
+    ]
+  },
+  "USP-S | Tropical Breeze (Factory New)": {
+    "0.18": [
+      1.56
+    ],
+    "0.08": [
+      3.19
+    ],
+    "0.0055": [
+      8.23
+    ],
+    "0.00055": [
+      29.7
+    ]
+  },
+  "MP5-SD | Gold Leaf (Factory New)": {
+    "0.18": [
+      0.49
+    ],
+    "0.006": [
+      3.55
+    ],
+    "0.0006": [
+      5.26
+    ]
+  },
+  "MAC-10 | Poplar Thicket (Factory New)": {
+    "0.18": [
+      0.5
+    ],
+    "0.0068": [
+      4.7
+    ],
+    "0.00068": [
+      7.3
+    ]
+  },
+  "XM1014 | Copperflage (Factory New)": {
+    "0.18": [
+      0.51
+    ],
+    "0.006": [
+      2.9
+    ],
+    "0.0006": [
+      6.17
+    ]
+  },
+  "AK-47 | VariCamo Grey (Factory New)": {
+    "0.18": [
+      0.11
+    ],
+    "0.00672": [
+      1.87
+    ],
+    "0.00067": [
+      6.0
+    ]
+  },
+  "Dual Berettas | Polished Malachite (Factory New)": {
+    "0.18": [
+      0.24
+    ],
+    "0.08": [
+      0.53
+    ],
+    "0.008": [
+      2.25
+    ],
+    "0.0008": [
+      9.9
+    ]
+  },
+  "R8 Revolver | Leafhopper (Factory New)": {
+    "0.18": [
+      0.16
+    ],
+    "0.08": [
+      0.28
+    ],
+    "0.00651": [
+      1.03
+    ]
+  },
+  "MAC-10 | Acid Hex (Factory New)": {
+    "0.18": [
+      0.14
+    ],
+    "0.08": [
+      0.28
+    ],
+    "0.0058": [
+      0.99
+    ],
+    "0.00058": [
+      1.99
+    ]
+  },
+  "SSG 08 | Tiger Tear (Factory New)": {
+    "0.18": [
+      0.05
+    ],
+    "0.08": [
+      0.22
+    ],
+    "0.0055": [
+      1.08
+    ],
+    "0.00055": [
+      3.8
+    ]
+  },
+  "Galil AR | Acid Dart (Factory New)": {
+    "0.18": [
+      0.13
+    ],
+    "0.08": [
+      0.27
+    ],
+    "0.006": [
+      1.45
+    ],
+    "0.0006": [
+      3.3
+    ]
+  },
+  "P90 | Mustard Gas (Factory New)": {
+    "0.18": [
+      0.11
+    ],
+    "0.0063": [
+      0.98
+    ],
+    "0.00063": [
+      3.46
+    ]
+  },
+  "P2000 | Marsh (Factory New)": {
+    "0.18": [
+      0.06
+    ],
+    "0.006": [
+      0.8
+    ],
+    "0.0006": [
+      3.5
+    ]
+  },
+  "Tec-9 | Garter-9 (Factory New)": {
+    "0.18": [
+      0.14
+    ],
+    "0.08": [
+      0.35
+    ],
+    "0.007": [
+      0.95
+    ]
+  },
+  "G3SG1 | Green Cell (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.0065": [
+      0.15
+    ],
+    "0.00065": [
+      0.62
+    ]
+  },
+  "M249 | Sage Camo (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.15
+    ],
+    "0.0006": [
+      0.66
+    ]
+  },
+  "Zeus x27 | Swamp DDPAT (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.15
+    ],
+    "0.0006": [
+      0.5
+    ]
+  },
+  "AUG | Commando Company (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.0065": [
+      0.15
+    ],
+    "0.00065": [
+      0.5
+    ]
+  },
+  "FAMAS | Palm (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.0075": [
+      0.18
+    ],
+    "0.00075": [
+      0.68
+    ]
+  },
+  "SSG 08 | Green Ceramic (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.0075": [
+      0.18
+    ],
+    "0.00075": [
+      1.2
+    ]
+  },
+  "MP9 | Pine (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.007": [
+      0.17
+    ],
+    "0.0007": [
+      0.7
+    ]
+  },
+  "Tec-9 | Raw Ceramic (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.0075": [
+      0.2
+    ],
+    "0.00075": [
+      0.78
+    ]
+  },
+  "Negev | Raw Ceramic (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.0075": [
+      0.15
+    ],
+    "0.00075": [
+      0.65
+    ]
+  },
+  "MAG-7 | Copper Oxide (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.0065": [
+      0.15
+    ],
+    "0.00065": [
+      0.65
+    ]
+  },
+  "P250 | Copper Oxide (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.0065": [
+      0.16
+    ],
+    "0.00065": [
+      0.65
+    ]
+  },
+  "UMP-45 | Green Swirl (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.007": [
+      0.15
+    ],
+    "0.0007": [
+      0.57
+    ]
+  },
+  "M4A1-S | Stratosphere (Factory New)": {
+    "0.18": [
+      24.39
+    ],
+    "0.08": [
+      59.97
+    ],
+    "0.008": [
+      206.17
+    ]
+  },
+  "AK-47 | Midnight Laminate (Factory New)": {
+    "0.18": [
+      12.37
+    ],
+    "0.08": [
+      26.8
+    ],
+    "0.0075": [
+      92.99
+    ],
+    "0.00075": [
+      137.7
+    ]
+  },
+  "USP-S | Royal Guard (Factory New)": {
+    "0.18": [
+      5.15
+    ],
+    "0.08": [
+      13.33
+    ],
+    "0.006": [
+      42.0
+    ],
+    "0.0006": [
+      79.0
+    ]
+  },
+  "P90 | Reef Grief (Factory New)": {
+    "0.18": [
+      1.09
+    ],
+    "0.006": [
+      7.11
+    ]
+  },
+  "Desert Eagle | Mint Fan (Factory New)": {
+    "0.18": [
+      1.04
+    ],
+    "0.08": [
+      2.06
+    ],
+    "0.006": [
+      5.35
+    ],
+    "0.0006": [
+      15.3
+    ]
+  },
+  "P2000 | Royal Baroque (Factory New)": {
+    "0.18": [
+      1.09
+    ],
+    "0.08": [
+      2.15
+    ],
+    "0.006": [
+      5.49
+    ]
+  },
+  "MP9 | Cobalt Paisley (Factory New)": {
+    "0.08": [
+      2.54
+    ],
+    "0.0065": [
+      8.87
+    ]
+  },
+  "FAMAS | Yeti Camo (Factory New)": {
+    "0.18": [
+      1.23
+    ],
+    "0.08": [
+      2.99
+    ],
+    "0.007": [
+      8.3
+    ]
+  },
+  "Glock-18 | Ocean Topo (Factory New)": {
+    "0.08": [
+      0.28
+    ],
+    "0.006": [
+      1.66
+    ]
+  },
+  "XM1014 | Gum Wall Camo (Factory New)": {
+    "0.08": [
+      0.28
+    ],
+    "0.006": [
+      1.03
+    ],
+    "0.0006": [
+      3.0
+    ]
+  },
+  "Negev | Sour Grapes (Factory New)": {
+    "0.18": [
+      0.2
+    ],
+    "0.08": [
+      0.35
+    ],
+    "0.008": [
+      1.87
+    ],
+    "0.0008": [
+      7.66
+    ]
+  },
+  "Five-SeveN | Sky Blue (Factory New)": {
+    "0.08": [
+      0.35
+    ],
+    "0.006": [
+      3.29
+    ],
+    "0.0006": [
+      9.96
+    ]
+  },
+  "Zeus x27 | Electric Blue (Factory New)": {
+    "0.08": [
+      0.3
+    ],
+    "0.0075": [
+      1.58
+    ],
+    "0.00075": [
+      5.48
+    ]
+  },
+  "Galil AR | Robin's Egg (Factory New)": {
+    "0.18": [
+      0.16
+    ],
+    "0.08": [
+      0.24
+    ],
+    "0.006": [
+      2.85
+    ],
+    "0.0006": [
+      6.9
+    ]
+  },
+  "Nova | Turquoise Pour (Factory New)": {
+    "0.08": [
+      0.28
+    ],
+    "0.00678": [
+      2.22
+    ],
+    "0.00068": [
+      3.85
+    ]
+  },
+  "M4A4 | Naval Shred Camo (Factory New)": {
+    "0.006": [
+      1.15
+    ],
+    "0.0006": [
+      7.0
+    ]
+  },
+  "Dual Berettas | Rose Nacre (Factory New)": {
+    "0.18": [
+      0.15
+    ],
+    "0.08": [
+      0.28
+    ],
+    "0.007": [
+      0.69
+    ],
+    "0.0007": [
+      1.39
+    ]
+  },
+  "Sawed-Off | Runoff (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.00781": [
+      0.16
+    ],
+    "0.00078": [
+      0.52
+    ]
+  },
+  "P90 | Blue Tac (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.16
+    ],
+    "0.0006": [
+      0.52
+    ]
+  },
+  "P250 | Plum Netting (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.16
+    ],
+    "0.0006": [
+      0.76
+    ]
+  },
+  "MP5-SD | Lime Hex (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.00638": [
+      0.15
+    ],
+    "0.00064": [
+      0.56
+    ],
+    "6e-05": [
+      6.3
+    ]
+  },
+  "MP9 | Buff Blue (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.09
+    ],
+    "0.007": [
+      0.38
+    ],
+    "0.0007": [
+      2.5
+    ],
+    "7e-05": [
+      12.0
+    ]
+  },
+  "SG 553 | Night Camo (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.00795": [
+      0.17
+    ],
+    "0.0008": [
+      0.63
+    ]
+  },
+  "R8 Revolver | Cobalt Grip (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.00803": [
+      0.16
+    ],
+    "0.0008": [
+      0.7
+    ]
+  },
+  "SSG 08 | Grey Smoke (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.21
+    ],
+    "0.0006": [
+      0.7
+    ]
+  },
+  "Galil AR | Grey Smoke (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.03
+    ],
+    "0.006": [
+      0.15
+    ],
+    "0.0006": [
+      0.63
+    ]
+  },
+  "MAC-10 | Storm Camo (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.00637": [
+      0.17
+    ],
+    "0.00064": [
+      0.62
+    ]
+  },
+  "Tec-9 | Blue Blast (Factory New)": {
+    "0.18": [
+      0.03
+    ],
+    "0.08": [
+      0.07
+    ],
+    "0.008": [
+      0.4
+    ],
+    "0.0008": [
+      2.2
+    ]
+  },
+  "AWP | LongDog (Factory New)": {
+    "0.18": [
+      325.4
+    ]
+  },
+  "M4A4 | Hellish (Factory New)": {
+    "0.18": [
+      79.3
+    ],
+    "0.01": [
+      535.0
+    ]
+  },
+  "MP9 | Latte Rush (Factory New)": {
+    "0.01": [
+      348.13
+    ]
+  },
+  "Tec-9 | Whiteout (Factory New)": {
+    "0.18": [
+      18.85
+    ],
+    "0.08": [
+      91.45
+    ]
+  },
+  "MAC-10 | Derailment (Factory New)": {
+    "0.18": [
+      7.99
+    ],
+    "0.08": [
+      21.13
+    ],
+    "0.007": [
+      46.64
+    ]
+  },
+  "Zeus x27 | Charged Up (Factory New)": {
+    "0.01": [
+      48.72
+    ]
+  },
+  "Glock-18 | Green Line (Factory New)": {
+    "0.18": [
+      1.3
+    ],
+    "0.01": [
+      13.78
+    ],
+    "0.001": [
+      23.95
+    ]
+  },
+  "FAMAS | 2A2F (Factory New)": {
+    "0.18": [
+      1.05
+    ],
+    "0.08": [
+      3.23
+    ],
+    "0.0086": [
+      14.87
+    ],
+    "0.00086": [
+      24.11
+    ]
+  },
+  "UMP-45 | Late Night Transit (Factory New)": {
+    "0.01": [
+      11.99
+    ]
+  },
+  "XM1014 | Run Run Run (Factory New)": {
+    "0.18": [
+      0.89
+    ],
+    "0.08": [
+      2.15
+    ],
+    "0.00747": [
+      12.3
+    ],
+    "0.00075": [
+      19.58
+    ]
+  },
+  "Galil AR | Green Apple (Factory New)": {
+    "0.003": [
+      1.45
+    ],
+    "0.0003": [
+      2.3
+    ]
+  },
+  "P250 | Constructivist (Factory New)": {
+    "0.0035": [
+      1.28
+    ],
+    "0.00035": [
+      2.0
+    ]
+  },
+  "P90 | Straight Dimes (Factory New)": {
+    "0.01": [
+      1.13
+    ],
+    "0.001": [
+      4.9
+    ]
+  },
+  "CZ75-Auto | Copper Fiber (Factory New)": {
+    "0.18": [
+      0.06
+    ],
+    "0.08": [
+      0.21
+    ],
+    "0.00563": [
+      1.3
+    ],
+    "0.00056": [
+      1.9
+    ]
+  },
+  "AUG | Steel Sentinel (Factory New)": {
+    "0.01": [
+      1.12
+    ],
+    "0.001": [
+      3.52
+    ]
+  },
+  "Nova | Rain Station (Factory New)": {
+    "0.0035": [
+      1.28
+    ],
+    "0.00035": [
+      2.03
+    ]
+  },
+  "AWP | Printstream (Factory New)": {
+    "0.18": [
+      72.99
+    ],
+    "0.01": [
+      420.0
+    ]
+  },
+  "FAMAS | Bad Trip (Factory New)": {
+    "0.18": [
+      55.12
+    ],
+    "0.01": [
+      145.83
+    ]
+  },
+  "AK-47 | Searing Rage (Factory New)": {
+    "0.18": [
+      6.88
+    ],
+    "0.01": [
+      55.58
+    ],
+    "0.001": [
+      68.2
+    ]
+  },
+  "UMP-45 | K.O. Factory (Factory New)": {
+    "0.18": [
+      6.37
+    ],
+    "0.01": [
+      55.49
+    ],
+    "0.001": [
+      63.79
+    ]
+  },
+  "Glock-18 | Shinobu (Factory New)": {
+    "0.18": [
+      7.0
+    ],
+    "0.01": [
+      52.39
+    ]
+  },
+  "Desert Eagle | Serpent Strike (Factory New)": {
+    "0.18": [
+      0.58
+    ],
+    "0.08": [
+      1.59
+    ],
+    "0.0057": [
+      12.87
+    ],
+    "0.00057": [
+      13.76
+    ]
+  },
+  "Zeus x27 | Tosai (Factory New)": {
+    "0.18": [
+      0.61
+    ],
+    "0.08": [
+      1.87
+    ],
+    "0.007": [
+      14.52
+    ],
+    "0.0007": [
+      15.4
+    ]
+  },
+  "P90 | Wave Breaker (Factory New)": {
+    "0.18": [
+      0.69
+    ],
+    "0.00951": [
+      13.37
+    ]
+  },
+  "Nova | Rising Sun (Factory New)": {},
+  "Galil AR | Control (Factory New)": {
+    "0.18": [
+      0.59
+    ],
+    "0.08": [
+      1.75
+    ],
+    "0.00799": [
+      14.82
+    ]
+  },
+  "USP-S | PC-GRN (Factory New)": {
+    "0.08": [
+      0.29
+    ],
+    "0.009": [
+      1.72
+    ],
+    "0.0009": [
+      2.95
+    ],
+    "9e-05": [
+      15.0
+    ]
+  },
+  "MP9 | Nexus (Factory New)": {
+    "0.18": [
+      0.17
+    ],
+    "0.01": [
+      1.79
+    ],
+    "0.001": [
+      2.34
+    ]
+  },
+  "XM1014 | Mockingbird (Factory New)": {
+    "0.01": [
+      1.47
+    ],
+    "0.001": [
+      2.0
+    ],
+    "0.0001": [
+      6.03
+    ]
+  },
+  "M4A4 | Choppa (Factory New)": {
+    "0.01": [
+      2.27
+    ],
+    "0.001": [
+      3.22
+    ]
+  },
+  "MAG-7 | Resupply (Factory New)": {
+    "0.01": [
+      1.65
+    ],
+    "0.001": [
+      2.09
+    ]
+  },
+  "SSG 08 | Memorial (Factory New)": {
+    "0.01": [
+      1.55
+    ],
+    "0.001": [
+      2.75
+    ]
+  },
+  "P2000 | Sure Grip (Factory New)": {
+    "0.08": [
+      0.26
+    ],
+    "0.009": [
+      1.5
+    ],
+    "0.0009": [
+      2.3
+    ]
+  },
+  "AK-47 | The Oligarch (Factory New)": {
+    "0.18": [
+      143.48
+    ],
+    "0.01": [
+      885.73
+    ]
+  },
+  "M4A4 | Full Throttle (Factory New)": {
+    "0.18": [
+      105.57
+    ],
+    "0.01": [
+      550.0
+    ]
+  },
+  "AWP | Ice Coaled (Factory New)": {
+    "0.18": [
+      20.37
+    ],
+    "0.01": [
+      100.0
+    ],
+    "0.001": [
+      120.0
+    ]
+  },
+  "Glock-18 | Mirror Mosaic (Factory New)": {
+    "0.18": [
+      14.97
+    ],
+    "0.01": [
+      80.2
+    ],
+    "0.001": [
+      113.8
+    ]
+  },
+  "MP7 | Smoking Kills (Factory New)": {
+    "0.18": [
+      13.92
+    ],
+    "0.01": [
+      87.6
+    ]
+  },
+  "M4A1-S | Liquidation (Factory New)": {
+    "0.18": [
+      7.0
+    ],
+    "0.01": [
+      32.1
+    ],
+    "0.001": [
+      57.02
+    ]
+  },
+  "MAC-10 | Cat Fight (Factory New)": {
+    "0.01": [
+      14.29
+    ],
+    "0.001": [
+      23.5
+    ]
+  },
+  "Dual Berettas | Angel Eyes (Factory New)": {
+    "0.18": [
+      1.6
+    ],
+    "0.01": [
+      14.5
+    ],
+    "0.001": [
+      19.0
+    ]
+  },
+  "Nova | Ocular (Factory New)": {
+    "0.01": [
+      15.0
+    ],
+    "0.001": [
+      25.0
+    ]
+  },
+  "UMP-45 | Continuum (Factory New)": {
+    "0.01": [
+      14.58
+    ],
+    "0.001": [
+      16.0
+    ]
+  },
+  "SCAR-20 | Caged (Factory New)": {
+    "0.01": [
+      2.07
+    ],
+    "0.001": [
+      2.44
+    ]
+  },
+  "AUG | Trigger Discipline (Factory New)": {
+    "0.01": [
+      2.09
+    ],
+    "0.001": [
+      2.65
+    ]
+  },
+  "P2000 | Red Wing (Factory New)": {
+    "0.01": [
+      1.95
+    ],
+    "0.001": [
+      2.9
+    ],
+    "0.0001": [
+      9.0
+    ]
+  },
+  "MP9 | Broken Record (Factory New)": {
+    "0.01": [
+      2.0
+    ],
+    "0.001": [
+      2.8
+    ]
+  },
+  "P250 | Bullfrog (Factory New)": {
+    "0.01": [
+      2.4
+    ],
+    "0.001": [
+      2.5
+    ]
+  },
+  "MP5-SD | Focus (Factory New)": {
+    "0.01": [
+      2.28
+    ],
+    "0.001": [
+      3.0
+    ],
+    "0.0001": [
+      6.39
+    ]
+  },
+  "MAG-7 | MAGnitude (Factory New)": {
+    "0.01": [
+      2.39
+    ],
+    "0.001": [
+      2.49
+    ]
+  }
+}
