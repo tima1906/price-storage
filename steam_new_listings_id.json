@@ -291648,5 +291648,1305 @@
     "classid": "7993036731",
     "listining_id_show_market": 1781981100.79313,
     "orderbook_skin_show": 1781981064.794719
+  },
+  {
+    "listing_id": "523127528094139026",
+    "name": "M4A1-S | Decimator (Minimal Wear)",
+    "asset_id": "50663630600",
+    "itemname_id": 175880363,
+    "instanceid": "188530139",
+    "classid": "7993036262",
+    "listining_id_show_market": 1781981101.387965,
+    "orderbook_skin_show": 1781981060.236678
+  },
+  {
+    "listing_id": "527631127722134495",
+    "name": "M4A4 | Desolate Space (Field-Tested)",
+    "asset_id": "52157700713",
+    "itemname_id": 156117091,
+    "instanceid": "6276305008",
+    "classid": "7993037836",
+    "listining_id_show_market": 1781981101.6040962,
+    "orderbook_skin_show": 1781981056.980456
+  },
+  {
+    "listing_id": "534386527163772816",
+    "name": "USP-S | The Traitor (Minimal Wear)",
+    "asset_id": "45512192910",
+    "itemname_id": 176241056,
+    "instanceid": "6276303153",
+    "classid": "7993037658",
+    "listining_id_show_market": 1781981102.4228837,
+    "orderbook_skin_show": 1781981053.146124
+  },
+  {
+    "listing_id": "558030425204632084",
+    "name": "M4A4 | 龍王 (Dragon King) (Field-Tested)",
+    "asset_id": "52284779105",
+    "itemname_id": 29205275,
+    "instanceid": "8553142307",
+    "classid": "7993036605",
+    "listining_id_show_market": 1781981102.600749,
+    "orderbook_skin_show": 1781981034.8116264
+  },
+  {
+    "listing_id": "555778625392095543",
+    "name": "MP9 | Modest Threat (Field-Tested)",
+    "asset_id": "17237660784",
+    "itemname_id": 176024747,
+    "instanceid": "188530139",
+    "classid": "7993037821",
+    "listining_id_show_market": 1781981103.155875,
+    "orderbook_skin_show": 1781981054.0336912
+  },
+  {
+    "listing_id": "556904525300048576",
+    "name": "USP-S | Printstream (Well-Worn)",
+    "asset_id": "52251733585",
+    "itemname_id": 176321347,
+    "instanceid": "8550099998",
+    "classid": "7993042663",
+    "listining_id_show_market": 1781981103.4948452,
+    "orderbook_skin_show": 1781981036.4945443
+  },
+  {
+    "listing_id": "523127528094130386",
+    "name": "AWP | Arsenic Spill (Field-Tested)",
+    "asset_id": "51298526586",
+    "itemname_id": 176504452,
+    "instanceid": "302028390",
+    "classid": "7993038273",
+    "listining_id_show_market": 1781981103.9900317,
+    "orderbook_skin_show": 1781981056.2978013
+  },
+  {
+    "listing_id": "547897326044869116",
+    "name": "AK-47 | Inheritance (Field-Tested)",
+    "asset_id": "52268135118",
+    "itemname_id": 176414125,
+    "instanceid": "8550099535",
+    "classid": "7993036319",
+    "listining_id_show_market": 1781981104.9906104,
+    "orderbook_skin_show": 1781981042.8216817
+  },
+  {
+    "listing_id": "547897326044869584",
+    "name": "StatTrak™ Tec-9 | Ice Cap (Minimal Wear)",
+    "asset_id": "49499263398",
+    "itemname_id": 156113456,
+    "instanceid": "188531519",
+    "classid": "7993039725",
+    "listining_id_show_market": 1781981125.6680906,
+    "orderbook_skin_show": 1781981092.1161323
+  },
+  {
+    "listing_id": "541141926605565027",
+    "name": "StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred)",
+    "asset_id": "52255649967",
+    "itemname_id": 176185960,
+    "instanceid": "8550425777",
+    "classid": "7993038959",
+    "listining_id_show_market": 1781981125.8234642,
+    "orderbook_skin_show": 1781981084.3396237
+  },
+  {
+    "listing_id": "526503959310420255",
+    "name": "MP7 | Bloodsport (Field-Tested)",
+    "asset_id": "18231501754",
+    "itemname_id": 175966847,
+    "instanceid": "188530139",
+    "classid": "7993038287",
+    "listining_id_show_market": 1781981126.167327,
+    "orderbook_skin_show": 1781981076.095489
+  },
+  {
+    "listing_id": "529882927535438887",
+    "name": "StatTrak™ UMP-45 | Moonrise (Field-Tested)",
+    "asset_id": "52174499947",
+    "itemname_id": 176042525,
+    "instanceid": "188530170",
+    "classid": "7993039024",
+    "listining_id_show_market": 1781981126.6512077,
+    "orderbook_skin_show": 1781981086.9397423
+  },
+  {
+    "listing_id": "528757027629548788",
+    "name": "MAC-10 | Disco Tech (Field-Tested)",
+    "asset_id": "51914317452",
+    "itemname_id": 176118320,
+    "instanceid": "188530139",
+    "classid": "7993037188",
+    "listining_id_show_market": 1781981126.9763334,
+    "orderbook_skin_show": 1781981078.4747827
+  },
+  {
+    "listing_id": "558030425204636944",
+    "name": "AWP | Chrome Cannon (Field-Tested)",
+    "asset_id": "52283388386",
+    "itemname_id": 176414084,
+    "instanceid": "8553142374",
+    "classid": "7993039054",
+    "listining_id_show_market": 1781981126.9935017,
+    "orderbook_skin_show": 1781981090.5680645
+  },
+  {
+    "listing_id": "522001628187588044",
+    "name": "Desert Eagle | Mecha Industries (Field-Tested)",
+    "asset_id": "52387924708",
+    "itemname_id": 176024814,
+    "instanceid": "8549363902",
+    "classid": "7993036241",
+    "listining_id_show_market": 1781981127.7083745,
+    "orderbook_skin_show": 1781981090.2204444
+  },
+  {
+    "listing_id": "533260627255640469",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "52268385288",
+    "itemname_id": 176288485,
+    "instanceid": "8553011092",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981127.8600426,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "558030425204623948",
+    "name": "StatTrak™ P250 | Supernova (Factory New)",
+    "asset_id": "51391561596",
+    "itemname_id": 14962980,
+    "instanceid": "188533911",
+    "classid": "7993042418",
+    "listining_id_show_market": 1781981128.2922401,
+    "orderbook_skin_show": 1781981069.9899101
+  },
+  {
+    "listing_id": "534386527163774868",
+    "name": "StatTrak™ Glock-18 | Vogue (Minimal Wear)",
+    "asset_id": "44098171684",
+    "itemname_id": 176186112,
+    "instanceid": "188581470",
+    "classid": "7993039788",
+    "listining_id_show_market": 1781981128.3606067,
+    "orderbook_skin_show": 1781981077.451418
+  },
+  {
+    "listing_id": "541141926605564379",
+    "name": "StatTrak™ SG 553 | Danger Close (Battle-Scarred)",
+    "asset_id": "52214603747",
+    "itemname_id": 176024817,
+    "instanceid": "6784583583",
+    "classid": "7993040522",
+    "listining_id_show_market": 1781981128.3805618,
+    "orderbook_skin_show": 1781981075.95876
+  },
+  {
+    "listing_id": "533260627255642773",
+    "name": "StatTrak™ R8 Revolver | Grip (Field-Tested)",
+    "asset_id": "52208320425",
+    "itemname_id": 175966786,
+    "instanceid": "8576866441",
+    "classid": "7993037474",
+    "listining_id_show_market": 1781981129.370921,
+    "orderbook_skin_show": 1781981077.530606
+  },
+  {
+    "listing_id": "550149125858425372",
+    "name": "AK-47 | Uncharted (Field-Tested)",
+    "asset_id": "52142324412",
+    "itemname_id": 176042509,
+    "instanceid": "188530139",
+    "classid": "7993036493",
+    "listining_id_show_market": 1781981129.3781903,
+    "orderbook_skin_show": 1781981088.7066946
+  },
+  {
+    "listing_id": "506237126803407233",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51744804544",
+    "itemname_id": 176288485,
+    "instanceid": "8501535036",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3834608,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "521999091301525937",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51637373016",
+    "itemname_id": 176288485,
+    "instanceid": "6276300759",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3840106,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "521999091301526729",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51637371656",
+    "itemname_id": 176288485,
+    "instanceid": "7583359966",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3845594,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "521999091301526945",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51637370502",
+    "itemname_id": 176288485,
+    "instanceid": "7583352916",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3851078,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "512990877828562451",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "38805997458",
+    "itemname_id": 176288485,
+    "instanceid": "6277076593",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3856459,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "533260627255640793",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "52261579943",
+    "itemname_id": 176288485,
+    "instanceid": "8550547852",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3861394,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "523127528085751458",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "52204582645",
+    "itemname_id": 176288485,
+    "instanceid": "8569884990",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3866334,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "542267192107293137",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "45546898796",
+    "itemname_id": 176288485,
+    "instanceid": "6276298730",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3871021,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "546771426132087390",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "44930998213",
+    "itemname_id": 176288485,
+    "instanceid": "6276303412",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3877437,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "497227393156461809",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "32713339818",
+    "itemname_id": 176288485,
+    "instanceid": "6278827813",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3884888,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "533260627255122609",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "52275287986",
+    "itemname_id": 176288485,
+    "instanceid": "6281800921",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3889964,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "503983678407412207",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51158866516",
+    "itemname_id": 176288485,
+    "instanceid": "6410080344",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3896215,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "497229927576566873",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51785356275",
+    "itemname_id": 176288485,
+    "instanceid": "6279201972",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3901775,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "506236492611511329",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50727131068",
+    "itemname_id": 176288485,
+    "instanceid": "6276360202",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3908396,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "660480974334092844",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "49647394480",
+    "itemname_id": 176288485,
+    "instanceid": "7771215699",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.3914444,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "520875728259801180",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51406516244",
+    "itemname_id": 176288485,
+    "instanceid": "6286790704",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.392086,
+    "orderbook_skin_show": 1781981081.9884596
+  },
+  {
+    "listing_id": "558030425204633632",
+    "name": "M4A4 | Magnesium (Battle-Scarred)",
+    "asset_id": "52345054529",
+    "itemname_id": 176024760,
+    "instanceid": "6276394621",
+    "classid": "7993037519",
+    "listining_id_show_market": 1781981129.8628376,
+    "orderbook_skin_show": 1781981078.3144455
+  },
+  {
+    "listing_id": "543393091991151484",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51898894493",
+    "itemname_id": 176288621,
+    "instanceid": "902658099",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8824077,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "663864472311668643",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51930823887",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8830657,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "663864472311668427",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51882529756",
+    "itemname_id": 176288621,
+    "instanceid": "902658099",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8836985,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "663864472311668499",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51912081058",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.884366,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "512992526250102793",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50229373089",
+    "itemname_id": 176288485,
+    "instanceid": "188530139",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.8850703,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "533260627255640037",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "52273192847",
+    "itemname_id": 176288485,
+    "instanceid": "8554004942",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981129.885845,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "529881659032597120",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51818596452",
+    "itemname_id": 176288621,
+    "instanceid": "480088307",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8866296,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "525379327888750959",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51369639207",
+    "itemname_id": 176288621,
+    "instanceid": "188561833",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8873293,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "547897326035514840",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "48087169031",
+    "itemname_id": 176288621,
+    "instanceid": "188557146",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.888095,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591750596686",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51649083994",
+    "itemname_id": 176288621,
+    "instanceid": "8463265112",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8889155,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591750596866",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51645631843",
+    "itemname_id": 176288621,
+    "instanceid": "8463265112",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8896573,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591750597010",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51640577219",
+    "itemname_id": 176288621,
+    "instanceid": "8463265112",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.890399,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591750596362",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51641060267",
+    "itemname_id": 176288621,
+    "instanceid": "8463620312",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.891131,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591750596398",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51644583824",
+    "itemname_id": 176288621,
+    "instanceid": "8466742109",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8919308,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591758593114",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51667342912",
+    "itemname_id": 176288621,
+    "instanceid": "8466005281",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8928084,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591758592934",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51667577940",
+    "itemname_id": 176288621,
+    "instanceid": "8466005281",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8934817,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591758593474",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51664063330",
+    "itemname_id": 176288621,
+    "instanceid": "8466015170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.894198,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591758593798",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51657766004",
+    "itemname_id": 176288621,
+    "instanceid": "8466005281",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8949428,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "516369591758594050",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51651770921",
+    "itemname_id": 176288621,
+    "instanceid": "8466005281",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981129.8956866,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "558030425204626648",
+    "name": "StatTrak™ AUG | Arctic Wolf (Minimal Wear)",
+    "asset_id": "51391577457",
+    "itemname_id": 176096914,
+    "instanceid": "6714165774",
+    "classid": "7993042183",
+    "listining_id_show_market": 1781981130.705166,
+    "orderbook_skin_show": 1781981077.5879035
+  },
+  {
+    "listing_id": "538890126789614770",
+    "name": "StatTrak™ Nova | Ghost Camo (Field-Tested)",
+    "asset_id": "52277856068",
+    "itemname_id": 3442213,
+    "instanceid": "8553143105",
+    "classid": "7993047675",
+    "listining_id_show_market": 1781981130.7639568,
+    "orderbook_skin_show": 1781981072.0339682
+  },
+  {
+    "listing_id": "541141926605565099",
+    "name": "StatTrak™ Tec-9 | Fubar (Battle-Scarred)",
+    "asset_id": "52214603798",
+    "itemname_id": 176024778,
+    "instanceid": "6459018656",
+    "classid": "7993039891",
+    "listining_id_show_market": 1781981131.1496918,
+    "orderbook_skin_show": 1781981080.5500534
+  },
+  {
+    "listing_id": "558030425204615344",
+    "name": "StatTrak™ AK-47 | Ice Coaled (Field-Tested)",
+    "asset_id": "51391611514",
+    "itemname_id": 176321287,
+    "instanceid": "8488145475",
+    "classid": "7993037661",
+    "listining_id_show_market": 1781981132.9605825,
+    "orderbook_skin_show": 1781981068.9161348
+  },
+  {
+    "listing_id": "526505227817343517",
+    "name": "MAC-10 | Disco Tech (Minimal Wear)",
+    "asset_id": "52187043448",
+    "itemname_id": 176118352,
+    "instanceid": "480085569",
+    "classid": "7993037978",
+    "listining_id_show_market": 1781981132.9889743,
+    "orderbook_skin_show": 1781981098.5219147
+  },
+  {
+    "listing_id": "531008827442499194",
+    "name": "AK-47 | Midnight Laminate (Field-Tested)",
+    "asset_id": "52260107943",
+    "itemname_id": 176504736,
+    "instanceid": "6276300751",
+    "classid": "7993036654",
+    "listining_id_show_market": 1781981155.7709444,
+    "orderbook_skin_show": 1781981109.5625641
+  },
+  {
+    "listing_id": "542267826511328222",
+    "name": "M4A1-S | Black Lotus (Battle-Scarred)",
+    "asset_id": "52105308904",
+    "itemname_id": 176414150,
+    "instanceid": "8282925651",
+    "classid": "7993036502",
+    "listining_id_show_market": 1781981155.9024482,
+    "orderbook_skin_show": 1781981117.1025429
+  },
+  {
+    "listing_id": "534386527163714460",
+    "name": "Desert Eagle | Trigger Discipline (Minimal Wear)",
+    "asset_id": "47882484916",
+    "itemname_id": 176240963,
+    "instanceid": "6276332892",
+    "classid": "7993036308",
+    "listining_id_show_market": 1781981156.615444,
+    "orderbook_skin_show": 1781981132.6113327
+  },
+  {
+    "listing_id": "544519626322911251",
+    "name": "AWP | Acheron (Field-Tested)",
+    "asset_id": "52276942829",
+    "itemname_id": 176012420,
+    "instanceid": "8553142374",
+    "classid": "7993036266",
+    "listining_id_show_market": 1781981156.8112507,
+    "orderbook_skin_show": 1781981120.1308773
+  },
+  {
+    "listing_id": "531008827442499662",
+    "name": "Desert Eagle | Light Rail (Battle-Scarred)",
+    "asset_id": "27616186658",
+    "itemname_id": 176042607,
+    "instanceid": "188530139",
+    "classid": "7993036826",
+    "listining_id_show_market": 1781981157.4682546,
+    "orderbook_skin_show": 1781981100.6020772
+  },
+  {
+    "listing_id": "537764226883081867",
+    "name": "AWP | Chrome Cannon (Minimal Wear)",
+    "asset_id": "52221828851",
+    "itemname_id": 176414145,
+    "instanceid": "8547015804",
+    "classid": "7993037243",
+    "listining_id_show_market": 1781981157.5474102,
+    "orderbook_skin_show": 1781981106.2938159
+  },
+  {
+    "listing_id": "520875728281614336",
+    "name": "SSG 08 | Abyss (Field-Tested)",
+    "asset_id": "52120989380",
+    "itemname_id": 14962911,
+    "instanceid": "188530139",
+    "classid": "7993035979",
+    "listining_id_show_market": 1781981157.5638611,
+    "orderbook_skin_show": 1781981116.131937
+  },
+  {
+    "listing_id": "531008827442500022",
+    "name": "SSG 08 | Abyss (Field-Tested)",
+    "asset_id": "51751293166",
+    "itemname_id": 14962911,
+    "instanceid": "188530139",
+    "classid": "7993035979",
+    "listining_id_show_market": 1781981157.564359,
+    "orderbook_skin_show": 1781981116.131937
+  },
+  {
+    "listing_id": "527631127722105263",
+    "name": "AWP | Worm God (Minimal Wear)",
+    "asset_id": "52381403487",
+    "itemname_id": 40092036,
+    "instanceid": "8571525106",
+    "classid": "7993036476",
+    "listining_id_show_market": 1781981158.5537364,
+    "orderbook_skin_show": 1781981135.6489952
+  },
+  {
+    "listing_id": "537764226882354991",
+    "name": "USP-S | Torque (Field-Tested)",
+    "asset_id": "52281792862",
+    "itemname_id": 49359034,
+    "instanceid": "8553142307",
+    "classid": "7993037938",
+    "listining_id_show_market": 1781981158.8839443,
+    "orderbook_skin_show": 1781981095.9394305
+  },
+  {
+    "listing_id": "542267826511338950",
+    "name": "StatTrak™ CZ75-Auto | Tacticat (Battle-Scarred)",
+    "asset_id": "52278968813",
+    "itemname_id": 175917458,
+    "instanceid": "8553143105",
+    "classid": "7993045532",
+    "listining_id_show_market": 1781981158.9684238,
+    "orderbook_skin_show": 1781981124.8690956
+  },
+  {
+    "listing_id": "527631127722106091",
+    "name": "AK-47 | Elite Build (Battle-Scarred)",
+    "asset_id": "52381402369",
+    "itemname_id": 40092009,
+    "instanceid": "8571525107",
+    "classid": "7993037035",
+    "listining_id_show_market": 1781981158.9879417,
+    "orderbook_skin_show": 1781981118.71269
+  },
+  {
+    "listing_id": "555778625392098207",
+    "name": "M4A4 | Magnesium (Battle-Scarred)",
+    "asset_id": "44961327901",
+    "itemname_id": 176024760,
+    "instanceid": "6288538256",
+    "classid": "7993037519",
+    "listining_id_show_market": 1781981159.0290701,
+    "orderbook_skin_show": 1781981093.3418355
+  },
+  {
+    "listing_id": "527631127722133343",
+    "name": "USP-S | Stainless (Field-Tested)",
+    "asset_id": "50863249682",
+    "itemname_id": 6821035,
+    "instanceid": "6278134371",
+    "classid": "7993037910",
+    "listining_id_show_market": 1781981159.0366833,
+    "orderbook_skin_show": 1781981111.1962662
+  },
+  {
+    "listing_id": "525379327912110279",
+    "name": "StatTrak™ Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "50843458762",
+    "itemname_id": 175917343,
+    "instanceid": "8578491595",
+    "classid": "7993043010",
+    "listining_id_show_market": 1781981159.6686118,
+    "orderbook_skin_show": 1781981112.6518142
+  },
+  {
+    "listing_id": "659353171964462305",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50221182064",
+    "itemname_id": 176288621,
+    "instanceid": "8234770766",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.9950824,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964465581",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50207825620",
+    "itemname_id": 176288621,
+    "instanceid": "8234770766",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.9956107,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964461981",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50223966986",
+    "itemname_id": 176288621,
+    "instanceid": "8234770766",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.9960077,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964462917",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50218475741",
+    "itemname_id": 176288621,
+    "instanceid": "8234784875",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.9963953,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964463889",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50215886311",
+    "itemname_id": 176288621,
+    "instanceid": "8234770766",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.996875,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964464177",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50215012559",
+    "itemname_id": 176288621,
+    "instanceid": "8234770766",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.997272,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964463421",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50217520519",
+    "itemname_id": 176288621,
+    "instanceid": "8234770766",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.997688,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964464789",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50213521210",
+    "itemname_id": 176288621,
+    "instanceid": "8234784875",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.998101,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964465077",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50209867856",
+    "itemname_id": 176288621,
+    "instanceid": "8234770766",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.9985337,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964465257",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50209046015",
+    "itemname_id": 176288621,
+    "instanceid": "8234770766",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.9989486,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964461729",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50224484306",
+    "itemname_id": 176288621,
+    "instanceid": "8234784875",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.999374,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "659353171964463241",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50217653505",
+    "itemname_id": 176288621,
+    "instanceid": "8235082951",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981159.999811,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "520875728281614336",
+    "name": "SSG 08 | Abyss (Field-Tested)",
+    "asset_id": "52120989380",
+    "itemname_id": 14962911,
+    "instanceid": "188530139",
+    "classid": "7993035979",
+    "listining_id_show_market": 1781981160.1219397,
+    "orderbook_skin_show": 1781981101.534041
+  },
+  {
+    "listing_id": "531008827442500022",
+    "name": "SSG 08 | Abyss (Field-Tested)",
+    "asset_id": "51751293166",
+    "itemname_id": 14962911,
+    "instanceid": "188530139",
+    "classid": "7993035979",
+    "listining_id_show_market": 1781981160.1224208,
+    "orderbook_skin_show": 1781981101.534041
+  },
+  {
+    "listing_id": "529882927535423587",
+    "name": "AK-47 | Crossfade (Minimal Wear)",
+    "asset_id": "44102612226",
+    "itemname_id": 176460767,
+    "instanceid": "7062182853",
+    "classid": "7993037215",
+    "listining_id_show_market": 1781981160.1794543,
+    "orderbook_skin_show": 1781981124.8635402
+  },
+  {
+    "listing_id": "558030425204641624",
+    "name": "FAMAS | Cyanospatter (Minimal Wear)",
+    "asset_id": "52257259234",
+    "itemname_id": 2383862,
+    "instanceid": "8550099157",
+    "classid": "241583007",
+    "listining_id_show_market": 1781981160.4646747,
+    "orderbook_skin_show": 1781981111.1771119
+  },
+  {
+    "listing_id": "537764226883081651",
+    "name": "AK-47 | Safety Net (Field-Tested)",
+    "asset_id": "51319679769",
+    "itemname_id": 176012489,
+    "instanceid": "302028390",
+    "classid": "7993037994",
+    "listining_id_show_market": 1781981161.060774,
+    "orderbook_skin_show": 1781981104.9730895
+  },
+  {
+    "listing_id": "533260627255666821",
+    "name": "R8 Revolver | Crimson Web (Minimal Wear)",
+    "asset_id": "49852131649",
+    "itemname_id": 84444499,
+    "instanceid": "188530139",
+    "classid": "7993038912",
+    "listining_id_show_market": 1781981161.2507563,
+    "orderbook_skin_show": 1781981118.4094305
+  },
+  {
+    "listing_id": "527631127722107027",
+    "name": "M4A4 | Evil Daimyo (Minimal Wear)",
+    "asset_id": "52331631177",
+    "itemname_id": 49359075,
+    "instanceid": "480085569",
+    "classid": "7993036257",
+    "listining_id_show_market": 1781981161.505369,
+    "orderbook_skin_show": 1781981117.2035673
+  },
+  {
+    "listing_id": "524253427999529477",
+    "name": "AK-47 | Midnight Laminate (Factory New)",
+    "asset_id": "47191531576",
+    "itemname_id": 176504703,
+    "instanceid": "480085569",
+    "classid": "7993036732",
+    "listining_id_show_market": 1781981161.7143633,
+    "orderbook_skin_show": 1781981124.862676
+  },
+  {
+    "listing_id": "527629225054920387",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51805694143",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9039948,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "526500790819640297",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50856874207",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9046605,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869300455",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47110605450",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9053369,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869300887",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47348912184",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9061627,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869300959",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47349327082",
+    "itemname_id": 176288621,
+    "instanceid": "6276413598",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9068935,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869301175",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47349980093",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9075737,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869301391",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47362713022",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9080198,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869301607",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47367151956",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9084167,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869302039",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47418649693",
+    "itemname_id": 176288621,
+    "instanceid": "6848733236",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9088495,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869300815",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47348642470",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9092789,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869300599",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47155588325",
+    "itemname_id": 176288621,
+    "instanceid": "902658099",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9097245,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "537764226869302399",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47424842343",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.910132,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "528756483510357599",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "44281513319",
+    "itemname_id": 176288621,
+    "instanceid": "188540573",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9105203,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "635712445338065935",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50357199254",
+    "itemname_id": 176288621,
+    "instanceid": "188530329",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9111092,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "528756483512395127",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "52183904084",
+    "itemname_id": 176288621,
+    "instanceid": "8538250142",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.911547,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "512993885494974089",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50860215048",
+    "itemname_id": 176288621,
+    "instanceid": "188531566",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9119833,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "524251525320299927",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51816915536",
+    "itemname_id": 176288621,
+    "instanceid": "8488640542",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9123926,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "491597893797578090",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "41825661547",
+    "itemname_id": 176288621,
+    "instanceid": "480088294",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9127574,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "533260627255639749",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "52273373935",
+    "itemname_id": 176288485,
+    "instanceid": "8554004941",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981161.9133139,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "643593816552268141",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "34837141440",
+    "itemname_id": 176288621,
+    "instanceid": "480099999",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981161.9137766,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "529882927535421319",
+    "name": "AWP | Capillary (Field-Tested)",
+    "asset_id": "40287785491",
+    "itemname_id": 176118282,
+    "instanceid": "188530139",
+    "classid": "7993036836",
+    "listining_id_show_market": 1781981162.4402592,
+    "orderbook_skin_show": 1781981124.9083395
+  },
+  {
+    "listing_id": "680750447961867739",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51347242789",
+    "itemname_id": 176288621,
+    "instanceid": "902658099",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.514274,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "493852227852550136",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51764939306",
+    "itemname_id": 176288621,
+    "instanceid": "188540573",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.515193,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "492725693703981635",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "47016600426",
+    "itemname_id": 176288621,
+    "instanceid": "6282413482",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.51613,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "517494477420693478",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "33795594160",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.5171568,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "523127528083111146",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "40686880954",
+    "itemname_id": 176288621,
+    "instanceid": "904887171",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.5181994,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "533260627255638489",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "52287736612",
+    "itemname_id": 176288485,
+    "instanceid": "8556133003",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781981162.5194166,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "501730992853204457",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51301267546",
+    "itemname_id": 176288621,
+    "instanceid": "8410338189",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.5206358,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "496101493258994507",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51173350514",
+    "itemname_id": 176288621,
+    "instanceid": "188530170",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.5215285,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "501730992853165649",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51301252812",
+    "itemname_id": 176288621,
+    "instanceid": "8411221825",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.5228503,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "520871291128855968",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "26145062232",
+    "itemname_id": 176288621,
+    "instanceid": "188530601",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.5239773,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "501730992853168817",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51301254976",
+    "itemname_id": 176288621,
+    "instanceid": "8411637864",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.5249543,
+    "orderbook_skin_show": 1781981097.0806675
+  },
+  {
+    "listing_id": "532134727349521954",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "51008039996",
+    "itemname_id": 176288621,
+    "instanceid": "903443926",
+    "classid": "7993036727",
+    "listining_id_show_market": 1781981162.9694686,
+    "orderbook_skin_show": 1781981109.6793768
   }
 ]
