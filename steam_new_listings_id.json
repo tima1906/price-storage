@@ -406868,5 +406868,475 @@
     "classid": "7993040291",
     "listining_id_show_market": 1781991408.755616,
     "orderbook_skin_show": 1781991379.4842787
+  },
+  {
+    "listing_id": "532134727350286486",
+    "name": "SSG 08 | Mainframe 001 (Field-Tested)",
+    "asset_id": "52285755820",
+    "itemname_id": 176185880,
+    "instanceid": "8553142307",
+    "classid": "7993039042",
+    "listining_id_show_market": 1781991409.3884568,
+    "orderbook_skin_show": 1781991371.6684763
+  },
+  {
+    "listing_id": "526505227818014701",
+    "name": "M4A1-S | Blood Tiger (Minimal Wear)",
+    "asset_id": "52240675864",
+    "itemname_id": 1916933,
+    "instanceid": "8547921520",
+    "classid": "226196132",
+    "listining_id_show_market": 1781991409.4012647,
+    "orderbook_skin_show": 1781991352.1876667
+  },
+  {
+    "listing_id": "556904525300815916",
+    "name": "M4A1-S | Nightmare (Battle-Scarred)",
+    "asset_id": "51929749640",
+    "itemname_id": 176000021,
+    "instanceid": "6280560931",
+    "classid": "7993036621",
+    "listining_id_show_market": 1781991430.740406,
+    "orderbook_skin_show": 1781991388.211357
+  },
+  {
+    "listing_id": "536638326974031330",
+    "name": "StatTrak™ AK-47 | Uncharted (Field-Tested)",
+    "asset_id": "52276590953",
+    "itemname_id": 176042559,
+    "instanceid": "8557221956",
+    "classid": "7993036683",
+    "listining_id_show_market": 1781991431.0224712,
+    "orderbook_skin_show": 1781991377.8198268
+  },
+  {
+    "listing_id": "547897326045575076",
+    "name": "StatTrak™ Desert Eagle | Bronze Deco (Well-Worn)",
+    "asset_id": "50709418614",
+    "itemname_id": 40094841,
+    "instanceid": "8572796190",
+    "classid": "7993044414",
+    "listining_id_show_market": 1781991431.1702118,
+    "orderbook_skin_show": 1781991396.980642
+  },
+  {
+    "listing_id": "522001628188419716",
+    "name": "P2000 | Fire Elemental (Minimal Wear)",
+    "asset_id": "52177356321",
+    "itemname_id": 23853298,
+    "instanceid": "188530139",
+    "classid": "7993041847",
+    "listining_id_show_market": 1781991431.2481513,
+    "orderbook_skin_show": 1781991385.2950656
+  },
+  {
+    "listing_id": "524253428000303693",
+    "name": "Glock-18 | Off World (Field-Tested)",
+    "asset_id": "51866504237",
+    "itemname_id": 175917241,
+    "instanceid": "6764298840",
+    "classid": "7993037023",
+    "listining_id_show_market": 1781991431.708956,
+    "orderbook_skin_show": 1781991380.7095845
+  },
+  {
+    "listing_id": "520875728282374440",
+    "name": "Glock-18 | Gold Toof (Field-Tested)",
+    "asset_id": "44406393361",
+    "itemname_id": 176460519,
+    "instanceid": "188530139",
+    "classid": "7993038239",
+    "listining_id_show_market": 1781991431.7327287,
+    "orderbook_skin_show": 1781991401.373881
+  },
+  {
+    "listing_id": "520875728282381064",
+    "name": "StatTrak™ AWP | PAW (Minimal Wear)",
+    "asset_id": "44240717394",
+    "itemname_id": 175999996,
+    "instanceid": "480102854",
+    "classid": "7993041614",
+    "listining_id_show_market": 1781991432.1514418,
+    "orderbook_skin_show": 1781991397.1461184
+  },
+  {
+    "listing_id": "520875728282380632",
+    "name": "StatTrak™ AK-47 | Slate (Battle-Scarred)",
+    "asset_id": "42436284565",
+    "itemname_id": 176241094,
+    "instanceid": "8578823084",
+    "classid": "7993038561",
+    "listining_id_show_market": 1781991432.338396,
+    "orderbook_skin_show": 1781991390.9212673
+  },
+  {
+    "listing_id": "549023225951648630",
+    "name": "FAMAS | ZX Spectron (Field-Tested)",
+    "asset_id": "40081234619",
+    "itemname_id": 176262564,
+    "instanceid": "188530139",
+    "classid": "7993035926",
+    "listining_id_show_market": 1781991432.8239117,
+    "orderbook_skin_show": 1781991383.3819673
+  },
+  {
+    "listing_id": "559156325115788077",
+    "name": "StatTrak™ Glock-18 | Winterized (Well-Worn)",
+    "asset_id": "51523582873",
+    "itemname_id": 176321178,
+    "instanceid": "8578826154",
+    "classid": "7993036614",
+    "listining_id_show_market": 1781991433.423338,
+    "orderbook_skin_show": 1781991387.2599707
+  },
+  {
+    "listing_id": "536638326974032230",
+    "name": "USP-S | Flashback (Field-Tested)",
+    "asset_id": "51209232889",
+    "itemname_id": 176024800,
+    "instanceid": "6276324416",
+    "classid": "7993036199",
+    "listining_id_show_market": 1781991433.4843862,
+    "orderbook_skin_show": 1781991395.7540994
+  },
+  {
+    "listing_id": "520875728282376240",
+    "name": "M4A1-S | Black Lotus (Field-Tested)",
+    "asset_id": "51016120351",
+    "itemname_id": 176414051,
+    "instanceid": "6276308846",
+    "classid": "7993036345",
+    "listining_id_show_market": 1781991434.3749206,
+    "orderbook_skin_show": 1781991401.9821873
+  },
+  {
+    "listing_id": "541141926606283227",
+    "name": "AWP | Atheris (Well-Worn)",
+    "asset_id": "52184023454",
+    "itemname_id": 176042495,
+    "instanceid": "8571030910",
+    "classid": "7993036152",
+    "listining_id_show_market": 1781991434.7158902,
+    "orderbook_skin_show": 1781991379.2174659
+  },
+  {
+    "listing_id": "556904525300762816",
+    "name": "Desert Eagle | Printstream (Field-Tested)",
+    "asset_id": "52148987100",
+    "itemname_id": 176185978,
+    "instanceid": "6277479818",
+    "classid": "7993036126",
+    "listining_id_show_market": 1781991434.8090444,
+    "orderbook_skin_show": 1781991391.2459736
+  },
+  {
+    "listing_id": "533260627256347869",
+    "name": "AWP | Duality (Well-Worn)",
+    "asset_id": "51643769597",
+    "itemname_id": 176359774,
+    "instanceid": "188530139",
+    "classid": "7993039761",
+    "listining_id_show_market": 1781991435.1805694,
+    "orderbook_skin_show": 1781991404.2490075
+  },
+  {
+    "listing_id": "531008827443189818",
+    "name": "M4A1-S | VariCamo (Field-Tested)",
+    "asset_id": "52279559826",
+    "itemname_id": 2383884,
+    "instanceid": "8553142275",
+    "classid": "241584030",
+    "listining_id_show_market": 1781991436.5186284,
+    "orderbook_skin_show": 1781991401.7579436
+  },
+  {
+    "listing_id": "556904525300762816",
+    "name": "Desert Eagle | Printstream (Field-Tested)",
+    "asset_id": "52148987100",
+    "itemname_id": 176185978,
+    "instanceid": "6277479818",
+    "classid": "7993036126",
+    "listining_id_show_market": 1781991439.2909102,
+    "orderbook_skin_show": 1781991420.5026822
+  },
+  {
+    "listing_id": "524253428000305637",
+    "name": "M4A4 | Desolate Space (Field-Tested)",
+    "asset_id": "51599071814",
+    "itemname_id": 156117091,
+    "instanceid": "188530139",
+    "classid": "7993037836",
+    "listining_id_show_market": 1781991459.8287797,
+    "orderbook_skin_show": 1781991411.1098275
+  },
+  {
+    "listing_id": "551275025765967403",
+    "name": "StatTrak™ P250 | Ripple (Field-Tested)",
+    "asset_id": "11398048222",
+    "itemname_id": 175880283,
+    "instanceid": "188530170",
+    "classid": "7993039352",
+    "listining_id_show_market": 1781991459.9566412,
+    "orderbook_skin_show": 1781991402.4174237
+  },
+  {
+    "listing_id": "542267826511995770",
+    "name": "AWP | Acheron (Field-Tested)",
+    "asset_id": "52237872917",
+    "itemname_id": 176012420,
+    "instanceid": "8547015427",
+    "classid": "7993036266",
+    "listining_id_show_market": 1781991460.458861,
+    "orderbook_skin_show": 1781991421.7369862
+  },
+  {
+    "listing_id": "520875728282394348",
+    "name": "AK-47 | Slate (Field-Tested)",
+    "asset_id": "51631589731",
+    "itemname_id": 176241017,
+    "instanceid": "480085569",
+    "classid": "7993035629",
+    "listining_id_show_market": 1781991460.465933,
+    "orderbook_skin_show": 1781991418.0796363
+  },
+  {
+    "listing_id": "532134727350291454",
+    "name": "FAMAS | Mecha Industries (Field-Tested)",
+    "asset_id": "39196046338",
+    "itemname_id": 175854222,
+    "instanceid": "188530139",
+    "classid": "7993037820",
+    "listining_id_show_market": 1781991460.5789022,
+    "orderbook_skin_show": 1781991436.8599522
+  },
+  {
+    "listing_id": "526505227818027661",
+    "name": "AK-47 | Ice Coaled (Field-Tested)",
+    "asset_id": "50124148368",
+    "itemname_id": 176321254,
+    "instanceid": "6276300759",
+    "classid": "7993035953",
+    "listining_id_show_market": 1781991460.7136161,
+    "orderbook_skin_show": 1781991406.7088854
+  },
+  {
+    "listing_id": "524253428000301893",
+    "name": "P2000 | Imperial Dragon (Battle-Scarred)",
+    "asset_id": "52114807213",
+    "itemname_id": 156140143,
+    "instanceid": "188530139",
+    "classid": "7993041291",
+    "listining_id_show_market": 1781991461.1859121,
+    "orderbook_skin_show": 1781991408.4500866
+  },
+  {
+    "listing_id": "550149125859126148",
+    "name": "FAMAS | ZX Spectron (Battle-Scarred)",
+    "asset_id": "34623819484",
+    "itemname_id": 176262702,
+    "instanceid": "188530139",
+    "classid": "7993039605",
+    "listining_id_show_market": 1781991461.590793,
+    "orderbook_skin_show": 1781991417.05389
+  },
+  {
+    "listing_id": "551275025765968483",
+    "name": "USP-S | Cyrex (Minimal Wear)",
+    "asset_id": "50959551354",
+    "itemname_id": 175854268,
+    "instanceid": "188530139",
+    "classid": "7993035530",
+    "listining_id_show_market": 1781991461.8486006,
+    "orderbook_skin_show": 1781991425.0176425
+  },
+  {
+    "listing_id": "526505227818027661",
+    "name": "AK-47 | Ice Coaled (Field-Tested)",
+    "asset_id": "50124148368",
+    "itemname_id": 176321254,
+    "instanceid": "6276300759",
+    "classid": "7993035953",
+    "listining_id_show_market": 1781991462.0740104,
+    "orderbook_skin_show": 1781991421.6742308
+  },
+  {
+    "listing_id": "533260627256348733",
+    "name": "FAMAS | Valence (Field-Tested)",
+    "asset_id": "17262223004",
+    "itemname_id": 139654801,
+    "instanceid": "6276509857",
+    "classid": "7993037970",
+    "listining_id_show_market": 1781991462.238098,
+    "orderbook_skin_show": 1781991441.0128462
+  },
+  {
+    "listing_id": "549023225951651078",
+    "name": "AK-47 | Midnight Laminate (Field-Tested)",
+    "asset_id": "52083658187",
+    "itemname_id": 176504736,
+    "instanceid": "302028390",
+    "classid": "7993036654",
+    "listining_id_show_market": 1781991462.2503612,
+    "orderbook_skin_show": 1781991405.4654183
+  },
+  {
+    "listing_id": "558030425205312772",
+    "name": "M4A4 | Desolate Space (Field-Tested)",
+    "asset_id": "52278770960",
+    "itemname_id": 156117091,
+    "instanceid": "8556504569",
+    "classid": "7993037836",
+    "listining_id_show_market": 1781991462.7066247,
+    "orderbook_skin_show": 1781991411.1098275
+  },
+  {
+    "listing_id": "532134727350287458",
+    "name": "Glock-18 | Water Elemental (Minimal Wear)",
+    "asset_id": "39191015343",
+    "itemname_id": 14962920,
+    "instanceid": "480085569",
+    "classid": "7993035965",
+    "listining_id_show_market": 1781991463.1317043,
+    "orderbook_skin_show": 1781991409.597256
+  },
+  {
+    "listing_id": "547897326045575616",
+    "name": "StatTrak™ M4A4 | Magnesium (Minimal Wear)",
+    "asset_id": "41682231743",
+    "itemname_id": 176024831,
+    "instanceid": "7222343762",
+    "classid": "7993038050",
+    "listining_id_show_market": 1781991463.926709,
+    "orderbook_skin_show": 1781991423.3104527
+  },
+  {
+    "listing_id": "522001628188423100",
+    "name": "StatTrak™ USP-S | Ticket to Hell (Factory New)",
+    "asset_id": "52130532478",
+    "itemname_id": 176288587,
+    "instanceid": "188530170",
+    "classid": "7993039771",
+    "listining_id_show_market": 1781991464.125456,
+    "orderbook_skin_show": 1781991429.357053
+  },
+  {
+    "listing_id": "554652725487515206",
+    "name": "StatTrak™ AUG | Tom Cat (Battle-Scarred)",
+    "asset_id": "50702670150",
+    "itemname_id": 176118402,
+    "instanceid": "188531151",
+    "classid": "7993040971",
+    "listining_id_show_market": 1781991464.4647615,
+    "orderbook_skin_show": 1781991421.2576928
+  },
+  {
+    "listing_id": "534386527164432408",
+    "name": "Five-SeveN | Capillary (Minimal Wear)",
+    "asset_id": "52280210061",
+    "itemname_id": 175880278,
+    "instanceid": "8553142307",
+    "classid": "7993038862",
+    "listining_id_show_market": 1781991464.5928755,
+    "orderbook_skin_show": 1781991427.7711053
+  },
+  {
+    "listing_id": "550149125859127552",
+    "name": "StatTrak™ MP9 | Goo (Factory New)",
+    "asset_id": "50561154387",
+    "itemname_id": 175917376,
+    "instanceid": "188530170",
+    "classid": "7993038837",
+    "listining_id_show_market": 1781991464.6137934,
+    "orderbook_skin_show": 1781991429.6578934
+  },
+  {
+    "listing_id": "540016026696524351",
+    "name": "Galil AR | Stone Cold (Minimal Wear)",
+    "asset_id": "50745528871",
+    "itemname_id": 67061005,
+    "instanceid": "480085569",
+    "classid": "7993038404",
+    "listining_id_show_market": 1781991464.8626337,
+    "orderbook_skin_show": 1781991423.0740592
+  },
+  {
+    "listing_id": "555778625392704411",
+    "name": "StatTrak™ MP5-SD | Agent (Factory New)",
+    "asset_id": "46868938215",
+    "itemname_id": 176092005,
+    "instanceid": "480088167",
+    "classid": "7993040624",
+    "listining_id_show_market": 1781991464.881777,
+    "orderbook_skin_show": 1781991418.7588084
+  },
+  {
+    "listing_id": "543393726417988009",
+    "name": "M4A1-S | Boreal Forest (Well-Worn)",
+    "asset_id": "28809608854",
+    "itemname_id": 2384088,
+    "instanceid": "6276439754",
+    "classid": "241586685",
+    "listining_id_show_market": 1781991465.7451324,
+    "orderbook_skin_show": 1781991432.385673
+  },
+  {
+    "listing_id": "526505227818027589",
+    "name": "M4A1-S | Night Terror (Field-Tested)",
+    "asset_id": "52168616687",
+    "itemname_id": 176288520,
+    "instanceid": "480085569",
+    "classid": "7993035763",
+    "listining_id_show_market": 1781991466.0201988,
+    "orderbook_skin_show": 1781991427.9790955
+  },
+  {
+    "listing_id": "549023225951596466",
+    "name": "M4A1-S | Night Terror (Field-Tested)",
+    "asset_id": "51968110183",
+    "itemname_id": 176288520,
+    "instanceid": "480085569",
+    "classid": "7993035763",
+    "listining_id_show_market": 1781991466.021073,
+    "orderbook_skin_show": 1781991427.9790955
+  },
+  {
+    "listing_id": "549023225951596250",
+    "name": "M4A1-S | Night Terror (Field-Tested)",
+    "asset_id": "51968492136",
+    "itemname_id": 176288520,
+    "instanceid": "188530139",
+    "classid": "7993035763",
+    "listining_id_show_market": 1781991466.02187,
+    "orderbook_skin_show": 1781991427.9790955
+  },
+  {
+    "listing_id": "556904525300830208",
+    "name": "StatTrak™ SG 553 | Darkwing (Battle-Scarred)",
+    "asset_id": "52273105369",
+    "itemname_id": 176118406,
+    "instanceid": "8553151554",
+    "classid": "7993042340",
+    "listining_id_show_market": 1781991466.098957,
+    "orderbook_skin_show": 1781991409.6865826
+  },
+  {
+    "listing_id": "560282225022383553",
+    "name": "AWP | Atheris (Field-Tested)",
+    "asset_id": "50399657391",
+    "itemname_id": 176042506,
+    "instanceid": "8198579852",
+    "classid": "7993035930",
+    "listining_id_show_market": 1781991466.702155,
+    "orderbook_skin_show": 1781991418.992912
+  },
+  {
+    "listing_id": "556904525300827904",
+    "name": "StatTrak™ SG 553 | Pulse (Field-Tested)",
+    "asset_id": "52257885728",
+    "itemname_id": 7178714,
+    "instanceid": "8550099883",
+    "classid": "7993040467",
+    "listining_id_show_market": 1781991468.1892393,
+    "orderbook_skin_show": 1781991410.7330484
   }
 ]
