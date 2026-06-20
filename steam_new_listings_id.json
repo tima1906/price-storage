@@ -265448,5 +265448,305 @@
     "classid": "7993036126",
     "listining_id_show_market": 1781979059.4217162,
     "orderbook_skin_show": 1781979022.0903661
+  },
+  {
+    "listing_id": "549023225950637678",
+    "name": "M4A1-S | Nitro (Field-Tested)",
+    "asset_id": "51420283288",
+    "itemname_id": 2385699,
+    "instanceid": "6279119568",
+    "classid": "241601974",
+    "listining_id_show_market": 1781979062.2905662,
+    "orderbook_skin_show": 1781979005.7396266
+  },
+  {
+    "listing_id": "541141926605424051",
+    "name": "AK-47 | Frontside Misty (Well-Worn)",
+    "asset_id": "52006308548",
+    "itemname_id": 67061031,
+    "instanceid": "6277107682",
+    "classid": "7993039292",
+    "listining_id_show_market": 1781979062.2913098,
+    "orderbook_skin_show": 1781979016.6565733
+  },
+  {
+    "listing_id": "533260627255532181",
+    "name": "USP-S | Ticket to Hell (Minimal Wear)",
+    "asset_id": "50365729849",
+    "itemname_id": 176288485,
+    "instanceid": "8283206832",
+    "classid": "7993035802",
+    "listining_id_show_market": 1781979063.15501,
+    "orderbook_skin_show": 1781979005.8954139
+  },
+  {
+    "listing_id": "549023225950637678",
+    "name": "M4A1-S | Nitro (Field-Tested)",
+    "asset_id": "51420283288",
+    "itemname_id": 2385699,
+    "instanceid": "6279119568",
+    "classid": "241601974",
+    "listining_id_show_market": 1781979070.6277044,
+    "orderbook_skin_show": 1781979049.9096794
+  },
+  {
+    "listing_id": "552400925672635053",
+    "name": "Five-SeveN | Violent Daimyo (Field-Tested)",
+    "asset_id": "48097008023",
+    "itemname_id": 156113429,
+    "instanceid": "188530139",
+    "classid": "7993037919",
+    "listining_id_show_market": 1781979086.6607587,
+    "orderbook_skin_show": 1781979024.158231
+  },
+  {
+    "listing_id": "535512427070089913",
+    "name": "MP9 | Mount Fuji (Field-Tested)",
+    "asset_id": "51639861076",
+    "itemname_id": 176262633,
+    "instanceid": "6331582351",
+    "classid": "7993036303",
+    "listining_id_show_market": 1781979088.733627,
+    "orderbook_skin_show": 1781979035.8249202
+  },
+  {
+    "listing_id": "546771426135322674",
+    "name": "StatTrak™ AK-47 | Uncharted (Field-Tested)",
+    "asset_id": "51746237497",
+    "itemname_id": 176042559,
+    "instanceid": "8455351628",
+    "classid": "7993036683",
+    "listining_id_show_market": 1781979089.0111704,
+    "orderbook_skin_show": 1781979025.4067826
+  },
+  {
+    "listing_id": "522001628187473744",
+    "name": "USP-S | PC-GRN (Field-Tested)",
+    "asset_id": "52265164255",
+    "itemname_id": 176506127,
+    "instanceid": "8550099535",
+    "classid": "7993036563",
+    "listining_id_show_market": 1781979089.8643181,
+    "orderbook_skin_show": 1781979028.3447814
+  },
+  {
+    "listing_id": "522001628187476012",
+    "name": "USP-S | PC-GRN (Field-Tested)",
+    "asset_id": "52059201273",
+    "itemname_id": 176506127,
+    "instanceid": "188530139",
+    "classid": "7993036563",
+    "listining_id_show_market": 1781979089.8647468,
+    "orderbook_skin_show": 1781979028.3447814
+  },
+  {
+    "listing_id": "558030425203705804",
+    "name": "USP-S | PC-GRN (Field-Tested)",
+    "asset_id": "52271335133",
+    "itemname_id": 176506127,
+    "instanceid": "8553142307",
+    "classid": "7993036563",
+    "listining_id_show_market": 1781979089.865128,
+    "orderbook_skin_show": 1781979028.3447814
+  },
+  {
+    "listing_id": "558030425203704868",
+    "name": "USP-S | PC-GRN (Field-Tested)",
+    "asset_id": "52271335145",
+    "itemname_id": 176506127,
+    "instanceid": "8553142307",
+    "classid": "7993036563",
+    "listining_id_show_market": 1781979089.8655262,
+    "orderbook_skin_show": 1781979028.3447814
+  },
+  {
+    "listing_id": "558030425203705048",
+    "name": "USP-S | PC-GRN (Field-Tested)",
+    "asset_id": "52271335144",
+    "itemname_id": 176506127,
+    "instanceid": "8553142307",
+    "classid": "7993036563",
+    "listining_id_show_market": 1781979089.8659103,
+    "orderbook_skin_show": 1781979028.3447814
+  },
+  {
+    "listing_id": "558030425203705228",
+    "name": "USP-S | PC-GRN (Field-Tested)",
+    "asset_id": "52271335141",
+    "itemname_id": 176506127,
+    "instanceid": "8553142307",
+    "classid": "7993036563",
+    "listining_id_show_market": 1781979089.8663213,
+    "orderbook_skin_show": 1781979028.3447814
+  },
+  {
+    "listing_id": "535512427070089373",
+    "name": "AK-47 | Uncharted (Battle-Scarred)",
+    "asset_id": "51753836419",
+    "itemname_id": 176042517,
+    "instanceid": "7625976290",
+    "classid": "7993036471",
+    "listining_id_show_market": 1781979090.9457152,
+    "orderbook_skin_show": 1781979027.2667143
+  },
+  {
+    "listing_id": "543393726416969497",
+    "name": "Five-SeveN | Urban Hazard (Field-Tested)",
+    "asset_id": "6141804568",
+    "itemname_id": 23853242,
+    "instanceid": "188530139",
+    "classid": "7993040881",
+    "listining_id_show_market": 1781979092.2411637,
+    "orderbook_skin_show": 1781979024.2264907
+  },
+  {
+    "listing_id": "559156325114978509",
+    "name": "Desert Eagle | Blue Ply (Field-Tested)",
+    "asset_id": "51885201212",
+    "itemname_id": 176118298,
+    "instanceid": "6276328919",
+    "classid": "7993036741",
+    "listining_id_show_market": 1781979093.6397285,
+    "orderbook_skin_show": 1781979028.5169973
+  },
+  {
+    "listing_id": "535512427070097113",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "47017666813",
+    "itemname_id": 175917272,
+    "instanceid": "6276313448",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.4528136,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "543393726415713853",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "52262990596",
+    "itemname_id": 175917272,
+    "instanceid": "8552601132",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.4533777,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "547897326043379760",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "51455903079",
+    "itemname_id": 175917272,
+    "instanceid": "188530139",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.4538555,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "547897326043355496",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "51730000008",
+    "itemname_id": 175917272,
+    "instanceid": "188530139",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.4542856,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "547897326043359348",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "51708342990",
+    "itemname_id": 175917272,
+    "instanceid": "188530139",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.454694,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "547897326043353084",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "51744122905",
+    "itemname_id": 175917272,
+    "instanceid": "188530139",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.4550722,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "547897326043353300",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "51742316507",
+    "itemname_id": 175917272,
+    "instanceid": "188530139",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.4554763,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "547897326043348692",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "51762446436",
+    "itemname_id": 175917272,
+    "instanceid": "188530139",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.455832,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "547897326043374360",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "51476621087",
+    "itemname_id": 175917272,
+    "instanceid": "188530139",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.4562306,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "547897326043373676",
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "asset_id": "51478353322",
+    "itemname_id": 175917272,
+    "instanceid": "188530139",
+    "classid": "7993038660",
+    "listining_id_show_market": 1781979112.4566295,
+    "orderbook_skin_show": 1781979047.83776
+  },
+  {
+    "listing_id": "550149125858297896",
+    "name": "SSG 08 | Slashed (Battle-Scarred)",
+    "asset_id": "52125332060",
+    "itemname_id": 8988927,
+    "instanceid": "188530139",
+    "classid": "7993046677",
+    "listining_id_show_market": 1781979113.6331973,
+    "orderbook_skin_show": 1781979054.3691535
+  },
+  {
+    "listing_id": "560282225021539029",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "52178307334",
+    "itemname_id": 2384820,
+    "instanceid": "6276317520",
+    "classid": "241599090",
+    "listining_id_show_market": 1781979114.8704474,
+    "orderbook_skin_show": 1781979045.1402774
+  },
+  {
+    "listing_id": "536638326973111206",
+    "name": "AWP | Black Nile (Battle-Scarred)",
+    "asset_id": "52422647268",
+    "itemname_id": 176369942,
+    "instanceid": "480085569",
+    "classid": "7993039248",
+    "listining_id_show_market": 1781979115.3132727,
+    "orderbook_skin_show": 1781979051.6365955
+  },
+  {
+    "listing_id": "535512427070095601",
+    "name": "Glock-18 | Death Rattle (Field-Tested)",
+    "asset_id": "51901116884",
+    "itemname_id": 8988631,
+    "instanceid": "480085569",
+    "classid": "7993036229",
+    "listining_id_show_market": 1781979122.390365,
+    "orderbook_skin_show": 1781979076.5963848
   }
 ]
