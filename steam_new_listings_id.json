@@ -564038,5 +564038,135 @@
     "classid": "7993037243",
     "listining_id_show_market": 1782007847.885841,
     "orderbook_skin_show": 1782007807.3937485
+  },
+  {
+    "listing_id": "524253428001205205",
+    "name": "AK-47 | Point Disarray (Field-Tested)",
+    "asset_id": "51175682590",
+    "itemname_id": 84444477,
+    "instanceid": "6276425350",
+    "classid": "7993037596",
+    "listining_id_show_market": 1782007850.0749304,
+    "orderbook_skin_show": 1782007813.551885
+  },
+  {
+    "listing_id": "528757027631219188",
+    "name": "AWP | Pit Viper (Well-Worn)",
+    "asset_id": "52211718476",
+    "itemname_id": 2389665,
+    "instanceid": "6838856770",
+    "classid": "241692489",
+    "listining_id_show_market": 1782007872.945409,
+    "orderbook_skin_show": 1782007822.5956292
+  },
+  {
+    "listing_id": "559156325116712593",
+    "name": "Desert Eagle | Light Rail (Field-Tested)",
+    "asset_id": "52109072499",
+    "itemname_id": 176042560,
+    "instanceid": "6284388586",
+    "classid": "7993037912",
+    "listining_id_show_market": 1782007873.1700523,
+    "orderbook_skin_show": 1782007825.1332033
+  },
+  {
+    "listing_id": "556904525301910892",
+    "name": "M4A1-S | Night Terror (Field-Tested)",
+    "asset_id": "51363551051",
+    "itemname_id": 176288520,
+    "instanceid": "480085569",
+    "classid": "7993035763",
+    "listining_id_show_market": 1782007876.452673,
+    "orderbook_skin_show": 1782007814.3860507
+  },
+  {
+    "listing_id": "559156325116715905",
+    "name": "M4A4 | Spider Lily (Field-Tested)",
+    "asset_id": "52067420954",
+    "itemname_id": 176262700,
+    "instanceid": "6276974404",
+    "classid": "7993038549",
+    "listining_id_show_market": 1782007876.6159997,
+    "orderbook_skin_show": 1782007814.9269686
+  },
+  {
+    "listing_id": "525379327914010719",
+    "name": "StatTrak™ Glock-18 | Water Elemental (Factory New)",
+    "asset_id": "52249103793",
+    "itemname_id": 14966472,
+    "instanceid": "8550099883",
+    "classid": "7993039759",
+    "listining_id_show_market": 1782007900.8689363,
+    "orderbook_skin_show": 1782007862.5487127
+  },
+  {
+    "listing_id": "525379327914012447",
+    "name": "AWP | Atheris (Well-Worn)",
+    "asset_id": "52268320293",
+    "itemname_id": 176042495,
+    "instanceid": "8550099535",
+    "classid": "7993036152",
+    "listining_id_show_market": 1782007900.9388688,
+    "orderbook_skin_show": 1782007853.531745
+  },
+  {
+    "listing_id": "535512427072228853",
+    "name": "AWP | Duality (Battle-Scarred)",
+    "asset_id": "45950763178",
+    "itemname_id": 176359765,
+    "instanceid": "6276315883",
+    "classid": "7993036217",
+    "listining_id_show_market": 1782007901.579364,
+    "orderbook_skin_show": 1782007859.648002
+  },
+  {
+    "listing_id": "559156325116718209",
+    "name": "AWP | Mortis (Well-Worn)",
+    "asset_id": "49154170992",
+    "itemname_id": 175966874,
+    "instanceid": "188530139",
+    "classid": "7993039439",
+    "listining_id_show_market": 1782007902.038081,
+    "orderbook_skin_show": 1782007865.8088582
+  },
+  {
+    "listing_id": "555778625393535903",
+    "name": "AWP | Asiimov (Well-Worn)",
+    "asset_id": "52204556732",
+    "itemname_id": 7180210,
+    "instanceid": "188530139",
+    "classid": "7993038205",
+    "listining_id_show_market": 1782007902.1448052,
+    "orderbook_skin_show": 1782007879.8179579
+  },
+  {
+    "listing_id": "550149125860090732",
+    "name": "Glock-18 | Wraiths (Minimal Wear)",
+    "asset_id": "47120335779",
+    "itemname_id": 67060961,
+    "instanceid": "188530139",
+    "classid": "7993040428",
+    "listining_id_show_market": 1782007902.2745287,
+    "orderbook_skin_show": 1782007842.8777423
+  },
+  {
+    "listing_id": "559156325116714933",
+    "name": "Five-SeveN | Violent Daimyo (Minimal Wear)",
+    "asset_id": "52147656654",
+    "itemname_id": 156113453,
+    "instanceid": "188530139",
+    "classid": "7993036180",
+    "listining_id_show_market": 1782007903.6558902,
+    "orderbook_skin_show": 1782007855.8337462
+  },
+  {
+    "listing_id": "541141926607131351",
+    "name": "AK-47 | Crossfade (Minimal Wear)",
+    "asset_id": "52008846743",
+    "itemname_id": 176460767,
+    "instanceid": "6276560849",
+    "classid": "7993037215",
+    "listining_id_show_market": 1782007903.899065,
+    "orderbook_skin_show": 1782007864.9746468
   }
 ]
