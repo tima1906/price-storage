@@ -585168,5 +585168,465 @@
     "classid": "7993036973",
     "listining_id_show_market": 1782009859.2001357,
     "orderbook_skin_show": 1782009817.7857082
+  },
+  {
+    "listing_id": "541141926607210407",
+    "name": "StatTrak™ UMP-45 | Briefing (Minimal Wear)",
+    "asset_id": "32293829529",
+    "itemname_id": 165027682,
+    "instanceid": "188530914",
+    "classid": "7993037354",
+    "listining_id_show_market": 1782009881.5421388,
+    "orderbook_skin_show": 1782009846.3789558
+  },
+  {
+    "listing_id": "541141926607211451",
+    "name": "StatTrak™ Glock-18 | Winterized (Minimal Wear)",
+    "asset_id": "49748074493",
+    "itemname_id": 176321217,
+    "instanceid": "188530170",
+    "classid": "7993036183",
+    "listining_id_show_market": 1782009881.5852737,
+    "orderbook_skin_show": 1782009841.9330795
+  },
+  {
+    "listing_id": "558030425206269796",
+    "name": "M4A1-S | Black Lotus (Factory New)",
+    "asset_id": "52239648706",
+    "itemname_id": 176414022,
+    "instanceid": "8547015804",
+    "classid": "7993036086",
+    "listining_id_show_market": 1782009881.7013571,
+    "orderbook_skin_show": 1782009845.1841984
+  },
+  {
+    "listing_id": "547897326046980192",
+    "name": "StatTrak™ M4A1-S | Briefing (Minimal Wear)",
+    "asset_id": "43403328846",
+    "itemname_id": 175896383,
+    "instanceid": "7310802384",
+    "classid": "7993041998",
+    "listining_id_show_market": 1782009881.858778,
+    "orderbook_skin_show": 1782009843.268498
+  },
+  {
+    "listing_id": "526503959313016215",
+    "name": "StatTrak™ P250 | Ripple (Minimal Wear)",
+    "asset_id": "51905819186",
+    "itemname_id": 175880336,
+    "instanceid": "188530305",
+    "classid": "7993039673",
+    "listining_id_show_market": 1782009882.8515751,
+    "orderbook_skin_show": 1782009834.450698
+  },
+  {
+    "listing_id": "525379327914098163",
+    "name": "AWP | PAW (Factory New)",
+    "asset_id": "41282173542",
+    "itemname_id": 175999945,
+    "instanceid": "6276313093",
+    "classid": "7993039217",
+    "listining_id_show_market": 1782009885.854196,
+    "orderbook_skin_show": 1782009832.5001569
+  },
+  {
+    "listing_id": "534386527165357644",
+    "name": "AK-47 | The Outsiders (Field-Tested)",
+    "asset_id": "50810846197",
+    "itemname_id": 176460577,
+    "instanceid": "188530139",
+    "classid": "7993035740",
+    "listining_id_show_market": 1782009885.9491115,
+    "orderbook_skin_show": 1782009834.1590488
+  },
+  {
+    "listing_id": "541141926607203387",
+    "name": "Glock-18 | Catacombs (Field-Tested)",
+    "asset_id": "50894151397",
+    "itemname_id": 29205218,
+    "instanceid": "188530139",
+    "classid": "7993036200",
+    "listining_id_show_market": 1782009886.3555334,
+    "orderbook_skin_show": 1782009834.1150444
+  },
+  {
+    "listing_id": "543393726418952161",
+    "name": "AK-47 | Ice Coaled (Field-Tested)",
+    "asset_id": "41529281293",
+    "itemname_id": 176321254,
+    "instanceid": "6276302237",
+    "classid": "7993035953",
+    "listining_id_show_market": 1782009887.7771587,
+    "orderbook_skin_show": 1782009844.542894
+  },
+  {
+    "listing_id": "536638326974987994",
+    "name": "P250 | X-Ray (Field-Tested)",
+    "asset_id": "46120232410",
+    "itemname_id": 176089340,
+    "instanceid": "188530139",
+    "classid": "7993039176",
+    "listining_id_show_market": 1782009910.7430403,
+    "orderbook_skin_show": 1782009860.020347
+  },
+  {
+    "listing_id": "558030425206270408",
+    "name": "M4A4 | Griffin (Factory New)",
+    "asset_id": "16664913291",
+    "itemname_id": 23853263,
+    "instanceid": "6276350966",
+    "classid": "7993039997",
+    "listining_id_show_market": 1782009910.9590285,
+    "orderbook_skin_show": 1782009870.5744376
+  },
+  {
+    "listing_id": "535512427072363529",
+    "name": "StatTrak™ M4A4 | Temukau (Minimal Wear)",
+    "asset_id": "52276972012",
+    "itemname_id": 176358921,
+    "instanceid": "8553434079",
+    "classid": "7993037107",
+    "listining_id_show_market": 1782009911.2047825,
+    "orderbook_skin_show": 1782009861.151868
+  },
+  {
+    "listing_id": "525379327914116991",
+    "name": "AK-47 | Blue Laminate (Factory New)",
+    "asset_id": "30359106909",
+    "itemname_id": 3440920,
+    "instanceid": "480085569",
+    "classid": "259062553",
+    "listining_id_show_market": 1782009911.6635795,
+    "orderbook_skin_show": 1782009862.8547385
+  },
+  {
+    "listing_id": "526505227819066801",
+    "name": "USP-S | 27 (Battle-Scarred)",
+    "asset_id": "52256774396",
+    "itemname_id": 176460782,
+    "instanceid": "8551347331",
+    "classid": "7993037137",
+    "listining_id_show_market": 1782009912.3269844,
+    "orderbook_skin_show": 1782009873.618986
+  },
+  {
+    "listing_id": "532134727351228210",
+    "name": "M4A4 | Magnesium (Field-Tested)",
+    "asset_id": "52166949008",
+    "itemname_id": 176024746,
+    "instanceid": "6288807151",
+    "classid": "7993037255",
+    "listining_id_show_market": 1782009912.8918672,
+    "orderbook_skin_show": 1782009853.963711
+  },
+  {
+    "listing_id": "533260627257364941",
+    "name": "M4A1-S | Control Panel (Field-Tested)",
+    "asset_id": "47007753785",
+    "itemname_id": 176012538,
+    "instanceid": "7626676326",
+    "classid": "7993036630",
+    "listining_id_show_market": 1782009913.0536532,
+    "orderbook_skin_show": 1782009872.254663
+  },
+  {
+    "listing_id": "552400925674317729",
+    "name": "AK-47 | Slate (Field-Tested)",
+    "asset_id": "50013426979",
+    "itemname_id": 176241017,
+    "instanceid": "6276383534",
+    "classid": "7993035629",
+    "listining_id_show_market": 1782009913.7189717,
+    "orderbook_skin_show": 1782009885.635051
+  },
+  {
+    "listing_id": "547896691632381435",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "48747517156",
+    "itemname_id": 2384820,
+    "instanceid": "6419259376",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.98626,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "755046424130605868",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "48579983120",
+    "itemname_id": 2384820,
+    "instanceid": "7887083070",
+    "classid": "310776726",
+    "listining_id_show_market": 1782009913.9868388,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "645844275577392021",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "51029001911",
+    "itemname_id": 2384820,
+    "instanceid": "6849710443",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9874165,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "634582740233116478",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "44811686512",
+    "itemname_id": 2384820,
+    "instanceid": "6276685753",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9879367,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "544518991925344236",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "52337303461",
+    "itemname_id": 2384820,
+    "instanceid": "6276350403",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.988532,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "594058678107216214",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "49670332068",
+    "itemname_id": 2384820,
+    "instanceid": "6902164560",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9891202,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "550147857357532282",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "51998481117",
+    "itemname_id": 2384820,
+    "instanceid": "8512435558",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9896498,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "501733527201957302",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "51814289829",
+    "itemname_id": 2384820,
+    "instanceid": "6284222333",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9900966,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "511867984882462137",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "51955131916",
+    "itemname_id": 2384820,
+    "instanceid": "7468224140",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9906228,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "517495491673780096",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "51683500968",
+    "itemname_id": 2384820,
+    "instanceid": "8491893963",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9911113,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "499479989895796873",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "51319195182",
+    "itemname_id": 2384820,
+    "instanceid": "6317043847",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9916587,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "622197210753950269",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "49861260011",
+    "itemname_id": 2384820,
+    "instanceid": "6278833612",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.99219,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "532134727351225654",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "52147332466",
+    "itemname_id": 2384820,
+    "instanceid": "6299986867",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9927526,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "499481093171496393",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "51587039059",
+    "itemname_id": 2384820,
+    "instanceid": "6293692284",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.993262,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "552400925651952909",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "52108912125",
+    "itemname_id": 2384820,
+    "instanceid": "6335829160",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9938774,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "529881659030556820",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "25389586366",
+    "itemname_id": 2384820,
+    "instanceid": "6405844680",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9944386,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "523127528084093766",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "52107014086",
+    "itemname_id": 2384820,
+    "instanceid": "6335318134",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.995033,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "512992526268329233",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "34607653713",
+    "itemname_id": 2384820,
+    "instanceid": "6276305570",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9955919,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "555778625378960403",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "52245805793",
+    "itemname_id": 2384820,
+    "instanceid": "8549666004",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.9960637,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "536638326972363990",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "50548813106",
+    "itemname_id": 2384820,
+    "instanceid": "6289285030",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009913.996628,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "532134727351224826",
+    "name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "asset_id": "52148722393",
+    "itemname_id": 2384820,
+    "instanceid": "6276565139",
+    "classid": "241599090",
+    "listining_id_show_market": 1782009914.0380604,
+    "orderbook_skin_show": 1782009858.9496331
+  },
+  {
+    "listing_id": "533260627257362637",
+    "name": "★ Classic Knife | Case Hardened (Well-Worn)",
+    "asset_id": "49893567691",
+    "itemname_id": 176092002,
+    "instanceid": "188530139",
+    "classid": "7993044912",
+    "listining_id_show_market": 1782009914.8372808,
+    "orderbook_skin_show": 1782009881.792578
+  },
+  {
+    "listing_id": "536638326974985618",
+    "name": "M4A1-S | Night Terror (Field-Tested)",
+    "asset_id": "51469275791",
+    "itemname_id": 176288520,
+    "instanceid": "188530139",
+    "classid": "7993035763",
+    "listining_id_show_market": 1782009914.8983886,
+    "orderbook_skin_show": 1782009866.0413907
+  },
+  {
+    "listing_id": "549023225952610298",
+    "name": "StatTrak™ CZ75-Auto | Twist (Factory New)",
+    "asset_id": "3941851441",
+    "itemname_id": 14216345,
+    "instanceid": "188530170",
+    "classid": "7993046662",
+    "listining_id_show_market": 1782009914.8993254,
+    "orderbook_skin_show": 1782009866.0705168
+  },
+  {
+    "listing_id": "541141926607209651",
+    "name": "XM1014 | Blue Steel (Well-Worn)",
+    "asset_id": "50894151462",
+    "itemname_id": 2385100,
+    "instanceid": "302028390",
+    "classid": "241604220",
+    "listining_id_show_market": 1782009915.64504,
+    "orderbook_skin_show": 1782009869.1408422
+  },
+  {
+    "listing_id": "524253428001341357",
+    "name": "AWP | Fever Dream (Field-Tested)",
+    "asset_id": "52247820043",
+    "itemname_id": 175880269,
+    "instanceid": "8547140839",
+    "classid": "7993038490",
+    "listining_id_show_market": 1782009916.382913,
+    "orderbook_skin_show": 1782009879.51224
+  },
+  {
+    "listing_id": "524253428001349133",
+    "name": "M4A1-S | Decimator (Field-Tested)",
+    "asset_id": "40998509516",
+    "itemname_id": 175880299,
+    "instanceid": "188530139",
+    "classid": "7993036366",
+    "listining_id_show_market": 1782009916.7115183,
+    "orderbook_skin_show": 1782009858.3125808
+  },
+  {
+    "listing_id": "550149125859912676",
+    "name": "★ Skeleton Knife | Case Hardened (Field-Tested)",
+    "asset_id": "51994703214",
+    "itemname_id": 176097510,
+    "instanceid": "188530139",
+    "classid": "7993041763",
+    "listining_id_show_market": 1782009917.1360307,
+    "orderbook_skin_show": 1782009865.9813368
+  },
+  {
+    "listing_id": "533260627257360585",
+    "name": "AWP | Printstream (Field-Tested)",
+    "asset_id": "49893977813",
+    "itemname_id": 176506177,
+    "instanceid": "8307373107",
+    "classid": "7993035515",
+    "listining_id_show_market": 1782009917.9861357,
+    "orderbook_skin_show": 1782009865.910867
   }
 ]
