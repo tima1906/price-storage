@@ -560948,5 +560948,145 @@
     "classid": "7993036266",
     "listining_id_show_market": 1782007062.7173598,
     "orderbook_skin_show": 1782007011.4409847
+  },
+  {
+    "listing_id": "520875728283426900",
+    "name": "M4A4 | Neo-Noir (Battle-Scarred)",
+    "asset_id": "51850211806",
+    "itemname_id": 175966923,
+    "instanceid": "188530139",
+    "classid": "7993038489",
+    "listining_id_show_market": 1782007084.9783351,
+    "orderbook_skin_show": 1782007032.4189138
+  },
+  {
+    "listing_id": "547897326046767936",
+    "name": "StatTrak™ USP-S | The Traitor (Minimal Wear)",
+    "asset_id": "52410631400",
+    "itemname_id": 176241129,
+    "instanceid": "8576174037",
+    "classid": "7993045315",
+    "listining_id_show_market": 1782007085.7572343,
+    "orderbook_skin_show": 1782007053.5356162
+  },
+  {
+    "listing_id": "531008827444097018",
+    "name": "USP-S | Neo-Noir (Field-Tested)",
+    "asset_id": "17594713241",
+    "itemname_id": 175880404,
+    "instanceid": "6276347123",
+    "classid": "7993038786",
+    "listining_id_show_market": 1782007086.7570317,
+    "orderbook_skin_show": 1782007047.6018765
+  },
+  {
+    "listing_id": "545645526233258081",
+    "name": "AK-47 | The Empress (Minimal Wear)",
+    "asset_id": "46524261165",
+    "itemname_id": 175917391,
+    "instanceid": "7509427960",
+    "classid": "7993036633",
+    "listining_id_show_market": 1782007087.5857317,
+    "orderbook_skin_show": 1782007044.6685
+  },
+  {
+    "listing_id": "544519626324542627",
+    "name": "AK-47 | Rat Rod (Minimal Wear)",
+    "asset_id": "49863356309",
+    "itemname_id": 176096494,
+    "instanceid": "6409526175",
+    "classid": "7993038817",
+    "listining_id_show_market": 1782007088.7457743,
+    "orderbook_skin_show": 1782007050.4045358
+  },
+  {
+    "listing_id": "545645526233258837",
+    "name": "M4A4 | 龍王 (Dragon King) (Battle-Scarred)",
+    "asset_id": "46524131505",
+    "itemname_id": 29209310,
+    "instanceid": "6276304995",
+    "classid": "7993036102",
+    "listining_id_show_market": 1782007090.2461517,
+    "orderbook_skin_show": 1782007050.3897626
+  },
+  {
+    "listing_id": "560282225023210761",
+    "name": "Five-SeveN | Urban Hazard (Factory New)",
+    "asset_id": "3587749386",
+    "itemname_id": 23853225,
+    "instanceid": "188530139",
+    "classid": "7993035502",
+    "listining_id_show_market": 1782007092.1924393,
+    "orderbook_skin_show": 1782007029.4745262
+  },
+  {
+    "listing_id": "556904525301878492",
+    "name": "M4A1-S | Control Panel (Field-Tested)",
+    "asset_id": "51294032630",
+    "itemname_id": 176012538,
+    "instanceid": "302028390",
+    "classid": "7993036630",
+    "listining_id_show_market": 1782007111.6566906,
+    "orderbook_skin_show": 1782007068.773928
+  },
+  {
+    "listing_id": "536638326974956602",
+    "name": "USP-S | Lead Conduit (Well-Worn)",
+    "asset_id": "49708046846",
+    "itemname_id": 139654785,
+    "instanceid": "6278078089",
+    "classid": "7993040549",
+    "listining_id_show_market": 1782007112.3315876,
+    "orderbook_skin_show": 1782007070.8890655
+  },
+  {
+    "listing_id": "532134727351087594",
+    "name": "M4A4 | Urban DDPAT (Minimal Wear)",
+    "asset_id": "50779800434",
+    "itemname_id": 2385720,
+    "instanceid": "7938600587",
+    "classid": "241626037",
+    "listining_id_show_market": 1782007114.0064654,
+    "orderbook_skin_show": 1782007057.966637
+  },
+  {
+    "listing_id": "536638326974955018",
+    "name": "Glock-18 | Weasel (Battle-Scarred)",
+    "asset_id": "49708046840",
+    "itemname_id": 165031002,
+    "instanceid": "188530139",
+    "classid": "7993039532",
+    "listining_id_show_market": 1782007116.2791421,
+    "orderbook_skin_show": 1782007071.732071
+  },
+  {
+    "listing_id": "545645526233260349",
+    "name": "Glock-18 | Warhawk (Field-Tested)",
+    "asset_id": "46200956031",
+    "itemname_id": 175999933,
+    "instanceid": "188530139",
+    "classid": "7993036382",
+    "listining_id_show_market": 1782007117.12935,
+    "orderbook_skin_show": 1782007065.6246283
+  },
+  {
+    "listing_id": "536638326974951058",
+    "name": "AK-47 | Wintergreen (Well-Worn)",
+    "asset_id": "51947371838",
+    "itemname_id": 176504899,
+    "instanceid": "6851643133",
+    "classid": "7993037729",
+    "listining_id_show_market": 1782007119.736391,
+    "orderbook_skin_show": 1782007068.5862536
+  },
+  {
+    "listing_id": "523127528095445790",
+    "name": "Charm | Die-cast AK",
+    "asset_id": "51584962091",
+    "itemname_id": 176460594,
+    "instanceid": "0",
+    "classid": "6216347003",
+    "listining_id_show_market": 1782007125.489794,
+    "orderbook_skin_show": 1782007067.2309089
   }
 ]
