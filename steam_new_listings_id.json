@@ -610448,5 +610448,265 @@
     "classid": "7993040194",
     "listining_id_show_market": 1782014486.4096553,
     "orderbook_skin_show": 1782014451.705341
+  },
+  {
+    "listing_id": "525379327914338679",
+    "name": "StatTrak™ P250 | Cassette (Battle-Scarred)",
+    "asset_id": "52277182587",
+    "itemname_id": 176185912,
+    "instanceid": "8555293953",
+    "classid": "7993039406",
+    "listining_id_show_market": 1782014488.0055206,
+    "orderbook_skin_show": 1782014452.1072266
+  },
+  {
+    "listing_id": "547897326047304516",
+    "name": "Desert Eagle | Trigger Discipline (Well-Worn)",
+    "asset_id": "51889727374",
+    "itemname_id": 176240956,
+    "instanceid": "8321461610",
+    "classid": "7993038187",
+    "listining_id_show_market": 1782014494.5530748,
+    "orderbook_skin_show": 1782014429.2134502
+  },
+  {
+    "listing_id": "524253428001696065",
+    "name": "AK-47 | Point Disarray (Factory New)",
+    "asset_id": "52196713569",
+    "itemname_id": 84454650,
+    "instanceid": "188530139",
+    "classid": "7993037749",
+    "listining_id_show_market": 1782014514.1368413,
+    "orderbook_skin_show": 1782014461.0591314
+  },
+  {
+    "listing_id": "524253428001698441",
+    "name": "AK-47 | Point Disarray (Factory New)",
+    "asset_id": "52197329742",
+    "itemname_id": 84454650,
+    "instanceid": "6277117103",
+    "classid": "7993037749",
+    "listining_id_show_market": 1782014514.1373541,
+    "orderbook_skin_show": 1782014461.0591314
+  },
+  {
+    "listing_id": "524253428001696065",
+    "name": "AK-47 | Point Disarray (Factory New)",
+    "asset_id": "52196713569",
+    "itemname_id": 84454650,
+    "instanceid": "188530139",
+    "classid": "7993037749",
+    "listining_id_show_market": 1782014514.213247,
+    "orderbook_skin_show": 1782014461.0591314
+  },
+  {
+    "listing_id": "524253428001698441",
+    "name": "AK-47 | Point Disarray (Factory New)",
+    "asset_id": "52197329742",
+    "itemname_id": 84454650,
+    "instanceid": "6277117103",
+    "classid": "7993037749",
+    "listining_id_show_market": 1782014514.2138755,
+    "orderbook_skin_show": 1782014461.0591314
+  },
+  {
+    "listing_id": "532134727351444210",
+    "name": "SCAR-20 | Enforcer (Field-Tested)",
+    "asset_id": "25719362057",
+    "itemname_id": 176118286,
+    "instanceid": "188530139",
+    "classid": "7993037174",
+    "listining_id_show_market": 1782014515.0916913,
+    "orderbook_skin_show": 1782014465.5058577
+  },
+  {
+    "listing_id": "552400925674537833",
+    "name": "AWP | Mortis (Battle-Scarred)",
+    "asset_id": "51708206536",
+    "itemname_id": 175966888,
+    "instanceid": "8068462916",
+    "classid": "7993035938",
+    "listining_id_show_market": 1782014515.9656415,
+    "orderbook_skin_show": 1782014463.6720347
+  },
+  {
+    "listing_id": "553526825580138884",
+    "name": "AK-47 | Elite Build (Minimal Wear)",
+    "asset_id": "52190010978",
+    "itemname_id": 40092004,
+    "instanceid": "8542429861",
+    "classid": "7993035572",
+    "listining_id_show_market": 1782014516.0972097,
+    "orderbook_skin_show": 1782014472.9984412
+  },
+  {
+    "listing_id": "550149125860371316",
+    "name": "Glock-18 | Bunsen Burner (Battle-Scarred)",
+    "asset_id": "52248627455",
+    "itemname_id": 49359035,
+    "instanceid": "8547015804",
+    "classid": "7993040205",
+    "listining_id_show_market": 1782014516.989607,
+    "orderbook_skin_show": 1782014459.7367175
+  },
+  {
+    "listing_id": "550149125860372612",
+    "name": "StatTrak™ P90 | Elite Build (Minimal Wear)",
+    "asset_id": "52174275780",
+    "itemname_id": 49359049,
+    "instanceid": "6496098305",
+    "classid": "7993038492",
+    "listining_id_show_market": 1782014517.2057981,
+    "orderbook_skin_show": 1782014462.7124076
+  },
+  {
+    "listing_id": "536638326975300006",
+    "name": "StatTrak™ SG 553 | Danger Close (Minimal Wear)",
+    "asset_id": "43580632389",
+    "itemname_id": 176024850,
+    "instanceid": "188532051",
+    "classid": "7993042432",
+    "listining_id_show_market": 1782014518.1408713,
+    "orderbook_skin_show": 1782014471.9892275
+  },
+  {
+    "listing_id": "542267826513226718",
+    "name": "P90 | Ash Wood (Field-Tested)",
+    "asset_id": "34190378309",
+    "itemname_id": 2384101,
+    "instanceid": "302028390",
+    "classid": "241590513",
+    "listining_id_show_market": 1782014519.2461157,
+    "orderbook_skin_show": 1782014468.5133512
+  },
+  {
+    "listing_id": "535512427072609301",
+    "name": "USP-S | Stainless (Minimal Wear)",
+    "asset_id": "33711790375",
+    "itemname_id": 6821033,
+    "instanceid": "188530139",
+    "classid": "7993038580",
+    "listining_id_show_market": 1782014519.9869847,
+    "orderbook_skin_show": 1782014480.5869327
+  },
+  {
+    "listing_id": "550149125860372936",
+    "name": "StatTrak™ P90 | Elite Build (Minimal Wear)",
+    "asset_id": "52174275779",
+    "itemname_id": 49359049,
+    "instanceid": "6276404528",
+    "classid": "7993038492",
+    "listining_id_show_market": 1782014520.041233,
+    "orderbook_skin_show": 1782014462.7124076
+  },
+  {
+    "listing_id": "550149125860374196",
+    "name": "StatTrak™ M4A4 | Magnesium (Battle-Scarred)",
+    "asset_id": "52174275778",
+    "itemname_id": 176024855,
+    "instanceid": "6277543255",
+    "classid": "7993040097",
+    "listining_id_show_market": 1782014520.4122338,
+    "orderbook_skin_show": 1782014460.7967186
+  },
+  {
+    "listing_id": "542267826513228338",
+    "name": "StatTrak™ USP-S | Cyrex (Factory New)",
+    "asset_id": "39637403879",
+    "itemname_id": 175854250,
+    "instanceid": "8579436187",
+    "classid": "7993041622",
+    "listining_id_show_market": 1782014542.8132122,
+    "orderbook_skin_show": 1782014498.9864874
+  },
+  {
+    "listing_id": "550149125860376644",
+    "name": "StatTrak™ P2000 | Pulse (Factory New)",
+    "asset_id": "17790743079",
+    "itemname_id": 14216319,
+    "instanceid": "188532419",
+    "classid": "7993043711",
+    "listining_id_show_market": 1782014544.1705804,
+    "orderbook_skin_show": 1782014497.3850877
+  },
+  {
+    "listing_id": "528757027631568820",
+    "name": "StatTrak™ AK-47 | Slate (Field-Tested)",
+    "asset_id": "51600301442",
+    "itemname_id": 176240990,
+    "instanceid": "8058600952",
+    "classid": "7993036165",
+    "listining_id_show_market": 1782014544.920056,
+    "orderbook_skin_show": 1782014500.8460095
+  },
+  {
+    "listing_id": "550149125860372972",
+    "name": "AWP | Exoskeleton (Field-Tested)",
+    "asset_id": "51908811289",
+    "itemname_id": 176209246,
+    "instanceid": "480085569",
+    "classid": "7993037928",
+    "listining_id_show_market": 1782014544.978009,
+    "orderbook_skin_show": 1782014493.0606909
+  },
+  {
+    "listing_id": "526505227819396669",
+    "name": "SG 553 | Aloha (Field-Tested)",
+    "asset_id": "23631272232",
+    "itemname_id": 175966711,
+    "instanceid": "188530139",
+    "classid": "7993038992",
+    "listining_id_show_market": 1782014545.5867696,
+    "orderbook_skin_show": 1782014495.9396431
+  },
+  {
+    "listing_id": "545645526233650013",
+    "name": "StatTrak™ P250 | Cartel (Field-Tested)",
+    "asset_id": "30580980607",
+    "itemname_id": 23853294,
+    "instanceid": "188532461",
+    "classid": "7993044451",
+    "listining_id_show_market": 1782014546.1175716,
+    "orderbook_skin_show": 1782014491.6955297
+  },
+  {
+    "listing_id": "541141926607395987",
+    "name": "AK-47 | Midnight Laminate (Field-Tested)",
+    "asset_id": "52293457056",
+    "itemname_id": 176504736,
+    "instanceid": "302028390",
+    "classid": "7993036654",
+    "listining_id_show_market": 1782014546.3066514,
+    "orderbook_skin_show": 1782014508.1978667
+  },
+  {
+    "listing_id": "536638326975300474",
+    "name": "StatTrak™ USP-S | Guardian (Minimal Wear)",
+    "asset_id": "20115042562",
+    "itemname_id": 7178688,
+    "instanceid": "6547934388",
+    "classid": "7993041543",
+    "listining_id_show_market": 1782014546.555479,
+    "orderbook_skin_show": 1782014491.5744846
+  },
+  {
+    "listing_id": "541141926607398363",
+    "name": "MP9 | Ruby Poison Dart (Factory New)",
+    "asset_id": "48802899770",
+    "itemname_id": 49359070,
+    "instanceid": "6276344376",
+    "classid": "7993037925",
+    "listining_id_show_market": 1782014547.5780134,
+    "orderbook_skin_show": 1782014496.127401
+  },
+  {
+    "listing_id": "545645526233650229",
+    "name": "P250 | X-Ray (Minimal Wear)",
+    "asset_id": "32743932759",
+    "itemname_id": 176089341,
+    "instanceid": "188530139",
+    "classid": "7993035750",
+    "listining_id_show_market": 1782014548.2890766,
+    "orderbook_skin_show": 1782014496.0903206
   }
 ]
