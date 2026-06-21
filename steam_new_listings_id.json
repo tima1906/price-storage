@@ -607108,5 +607108,125 @@
     "classid": "7993035763",
     "listining_id_show_market": 1782013572.3389616,
     "orderbook_skin_show": 1782013528.6305692
+  },
+  {
+    "listing_id": "554652725488615150",
+    "name": "AWP | Atheris (Minimal Wear)",
+    "asset_id": "52163716675",
+    "itemname_id": 176042558,
+    "instanceid": "7758864472",
+    "classid": "7993036367",
+    "listining_id_show_market": 1782013591.3908358,
+    "orderbook_skin_show": 1782013547.4863808
+  },
+  {
+    "listing_id": "558030425206458364",
+    "name": "MP7 | Cirrus (Well-Worn)",
+    "asset_id": "14059002636",
+    "itemname_id": 175854207,
+    "instanceid": "188530139",
+    "classid": "7993041460",
+    "listining_id_show_market": 1782013591.5937738,
+    "orderbook_skin_show": 1782013552.7176769
+  },
+  {
+    "listing_id": "524253428001595769",
+    "name": "AWP | Atheris (Field-Tested)",
+    "asset_id": "52154599050",
+    "itemname_id": 176042506,
+    "instanceid": "7624639063",
+    "classid": "7993035930",
+    "listining_id_show_market": 1782013591.6196015,
+    "orderbook_skin_show": 1782013549.2446246
+  },
+  {
+    "listing_id": "528757027631516008",
+    "name": "M4A1-S | Night Terror (Field-Tested)",
+    "asset_id": "52257440601",
+    "itemname_id": 176288520,
+    "instanceid": "8550099535",
+    "classid": "7993035763",
+    "listining_id_show_market": 1782013592.4995222,
+    "orderbook_skin_show": 1782013558.2399049
+  },
+  {
+    "listing_id": "535512427072563077",
+    "name": "AK-47 | Asiimov (Field-Tested)",
+    "asset_id": "34614834409",
+    "itemname_id": 176024796,
+    "instanceid": "188530139",
+    "classid": "7993036525",
+    "listining_id_show_market": 1782013594.9522808,
+    "orderbook_skin_show": 1782013559.5344956
+  },
+  {
+    "listing_id": "549023225952739106",
+    "name": "StatTrak™ Negev | Man-o'-war (Minimal Wear)",
+    "asset_id": "47189847879",
+    "itemname_id": 40091996,
+    "instanceid": "188530483",
+    "classid": "7993040424",
+    "listining_id_show_market": 1782013596.070497,
+    "orderbook_skin_show": 1782013561.8075686
+  },
+  {
+    "listing_id": "554652725488614358",
+    "name": "M4A1-S | Night Terror (Minimal Wear)",
+    "asset_id": "52004864533",
+    "itemname_id": 176288478,
+    "instanceid": "188530139",
+    "classid": "7993035655",
+    "listining_id_show_market": 1782013617.1300185,
+    "orderbook_skin_show": 1782013569.481685
+  },
+  {
+    "listing_id": "527631127723957283",
+    "name": "StatTrak™ Glock-18 | Bunsen Burner (Factory New)",
+    "asset_id": "49283229306",
+    "itemname_id": 49365700,
+    "instanceid": "8578112117",
+    "classid": "7993040514",
+    "listining_id_show_market": 1782013617.1336148,
+    "orderbook_skin_show": 1782013590.8958325
+  },
+  {
+    "listing_id": "555778625393860371",
+    "name": "USP-S | Blueprint (Field-Tested)",
+    "asset_id": "29389869820",
+    "itemname_id": 175896281,
+    "instanceid": "188530139",
+    "classid": "7993036138",
+    "listining_id_show_market": 1782013620.0869877,
+    "orderbook_skin_show": 1782013561.3780353
+  },
+  {
+    "listing_id": "528757027631518852",
+    "name": "Glock-18 | Death Rattle (Field-Tested)",
+    "asset_id": "51791720171",
+    "itemname_id": 8988631,
+    "instanceid": "480085569",
+    "classid": "7993036229",
+    "listining_id_show_market": 1782013620.60025,
+    "orderbook_skin_show": 1782013586.7922294
+  },
+  {
+    "listing_id": "537764226884969239",
+    "name": "AK-47 | Wintergreen (Battle-Scarred)",
+    "asset_id": "51570879503",
+    "itemname_id": 176504651,
+    "instanceid": "302028390",
+    "classid": "7993037464",
+    "listining_id_show_market": 1782013621.8012128,
+    "orderbook_skin_show": 1782013572.1802466
+  },
+  {
+    "listing_id": "523127528096114310",
+    "name": "FAMAS | Survivor Z (Field-Tested)",
+    "asset_id": "51610578966",
+    "itemname_id": 67060960,
+    "instanceid": "6282178437",
+    "classid": "7993037584",
+    "listining_id_show_market": 1782013622.3370135,
+    "orderbook_skin_show": 1782013586.2045028
   }
 ]
