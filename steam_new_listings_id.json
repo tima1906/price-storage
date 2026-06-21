@@ -573598,5 +573598,295 @@
     "classid": "7993041222",
     "listining_id_show_market": 1782008884.0930495,
     "orderbook_skin_show": 1782008845.871648
+  },
+  {
+    "listing_id": "528757027631282296",
+    "name": "AK-47 | VariCamo Grey (Minimal Wear)",
+    "asset_id": "52230330698",
+    "itemname_id": 176504569,
+    "instanceid": "8547015427",
+    "classid": "7993036268",
+    "listining_id_show_market": 1782008886.2383065,
+    "orderbook_skin_show": 1782008836.4548078
+  },
+  {
+    "listing_id": "529882927537128619",
+    "name": "AK-47 | Phantom Disruptor (Minimal Wear)",
+    "asset_id": "52163537836",
+    "itemname_id": 176118310,
+    "instanceid": "6672646342",
+    "classid": "7993037975",
+    "listining_id_show_market": 1782008909.2420194,
+    "orderbook_skin_show": 1782008863.6148763
+  },
+  {
+    "listing_id": "541141292201185018",
+    "name": "Glock-18 | High Beam (Minimal Wear)",
+    "asset_id": "52197858349",
+    "itemname_id": 176012400,
+    "instanceid": "8564800519",
+    "classid": "7993035637",
+    "listining_id_show_market": 1782008909.5180233,
+    "orderbook_skin_show": 1782008875.6813407
+  },
+  {
+    "listing_id": "522001628189451044",
+    "name": "Glock-18 | High Beam (Minimal Wear)",
+    "asset_id": "52257932958",
+    "itemname_id": 176012400,
+    "instanceid": "8550224104",
+    "classid": "7993035637",
+    "listining_id_show_market": 1782008909.5187132,
+    "orderbook_skin_show": 1782008875.6813407
+  },
+  {
+    "listing_id": "529881659015535136",
+    "name": "Glock-18 | High Beam (Minimal Wear)",
+    "asset_id": "49386933804",
+    "itemname_id": 176012400,
+    "instanceid": "6501811939",
+    "classid": "7993035637",
+    "listining_id_show_market": 1782008909.5194,
+    "orderbook_skin_show": 1782008875.6813407
+  },
+  {
+    "listing_id": "541141926606474855",
+    "name": "Glock-18 | High Beam (Minimal Wear)",
+    "asset_id": "52192837569",
+    "itemname_id": 176012400,
+    "instanceid": "6276413280",
+    "classid": "7993035637",
+    "listining_id_show_market": 1782008909.5200515,
+    "orderbook_skin_show": 1782008875.6813407
+  },
+  {
+    "listing_id": "497231286798785965",
+    "name": "Glock-18 | High Beam (Minimal Wear)",
+    "asset_id": "52000123623",
+    "itemname_id": 176012400,
+    "instanceid": "6276567045",
+    "classid": "7993035637",
+    "listining_id_show_market": 1782008909.5206718,
+    "orderbook_skin_show": 1782008875.6813407
+  },
+  {
+    "listing_id": "544518991901028108",
+    "name": "Glock-18 | High Beam (Minimal Wear)",
+    "asset_id": "52272839317",
+    "itemname_id": 176012400,
+    "instanceid": "6466270256",
+    "classid": "7993035637",
+    "listining_id_show_market": 1782008909.5213475,
+    "orderbook_skin_show": 1782008875.6813407
+  },
+  {
+    "listing_id": "553526825579870288",
+    "name": "Glock-18 | Clear Polymer (Battle-Scarred)",
+    "asset_id": "52266772708",
+    "itemname_id": 176240940,
+    "instanceid": "8550099535",
+    "classid": "7993038675",
+    "listining_id_show_market": 1782008909.67244,
+    "orderbook_skin_show": 1782008869.9926996
+  },
+  {
+    "listing_id": "553526825579870468",
+    "name": "Glock-18 | Clear Polymer (Well-Worn)",
+    "asset_id": "52254498278",
+    "itemname_id": 176240938,
+    "instanceid": "8550099535",
+    "classid": "7993039555",
+    "listining_id_show_market": 1782008909.7455194,
+    "orderbook_skin_show": 1782008879.0068076
+  },
+  {
+    "listing_id": "534386527165315344",
+    "name": "M4A1-S | Leaded Glass (Minimal Wear)",
+    "asset_id": "51627774014",
+    "itemname_id": 175917315,
+    "instanceid": "480085569",
+    "classid": "7993037022",
+    "listining_id_show_market": 1782008910.2999902,
+    "orderbook_skin_show": 1782008862.625988
+  },
+  {
+    "listing_id": "559156325116776133",
+    "name": "Glock-18 | Gold Toof (Minimal Wear)",
+    "asset_id": "48886591987",
+    "itemname_id": 176460433,
+    "instanceid": "188530139",
+    "classid": "7993037245",
+    "listining_id_show_market": 1782008911.2199752,
+    "orderbook_skin_show": 1782008862.0533586
+  },
+  {
+    "listing_id": "546771426137121774",
+    "name": "StatTrak™ Desert Eagle | Corinthian (Field-Tested)",
+    "asset_id": "52329476446",
+    "itemname_id": 84444510,
+    "instanceid": "188545324",
+    "classid": "7993039731",
+    "listining_id_show_market": 1782008911.6127393,
+    "orderbook_skin_show": 1782008862.4786448
+  },
+  {
+    "listing_id": "535512427072302905",
+    "name": "AK-47 | Slate (Field-Tested)",
+    "asset_id": "50935769823",
+    "itemname_id": 176241017,
+    "instanceid": "6946110602",
+    "classid": "7993035629",
+    "listining_id_show_market": 1782008912.6811175,
+    "orderbook_skin_show": 1782008865.4751587
+  },
+  {
+    "listing_id": "546771426137119974",
+    "name": "AK-47 | Emerald Pinstripe (Field-Tested)",
+    "asset_id": "19428649162",
+    "itemname_id": 8989555,
+    "instanceid": "302028390",
+    "classid": "7993036333",
+    "listining_id_show_market": 1782008914.3043725,
+    "orderbook_skin_show": 1782008856.409226
+  },
+  {
+    "listing_id": "559156325116778473",
+    "name": "AWP | Worm God (Minimal Wear)",
+    "asset_id": "50683932248",
+    "itemname_id": 40092036,
+    "instanceid": "6279765149",
+    "classid": "7993036476",
+    "listining_id_show_market": 1782008938.9361558,
+    "orderbook_skin_show": 1782008907.0747333
+  },
+  {
+    "listing_id": "550149125860117012",
+    "name": "AWP | Phobos (Minimal Wear)",
+    "asset_id": "52100480088",
+    "itemname_id": 156113424,
+    "instanceid": "6276312685",
+    "classid": "7993036192",
+    "listining_id_show_market": 1782008939.2102232,
+    "orderbook_skin_show": 1782008912.6031523
+  },
+  {
+    "listing_id": "491599160073274082",
+    "name": "M4A1-S | VariCamo (Field-Tested)",
+    "asset_id": "50718542594",
+    "itemname_id": 2383884,
+    "instanceid": "6276483604",
+    "classid": "241584030",
+    "listining_id_show_market": 1782008939.507546,
+    "orderbook_skin_show": 1782008893.5262847
+  },
+  {
+    "listing_id": "553526825579868452",
+    "name": "M4A1-S | VariCamo (Field-Tested)",
+    "asset_id": "52274730390",
+    "itemname_id": 2383884,
+    "instanceid": "8554273360",
+    "classid": "241584030",
+    "listining_id_show_market": 1782008939.508164,
+    "orderbook_skin_show": 1782008893.5262847
+  },
+  {
+    "listing_id": "729150726254307544",
+    "name": "M4A1-S | VariCamo (Field-Tested)",
+    "asset_id": "48023368903",
+    "itemname_id": 2383884,
+    "instanceid": "6277447537",
+    "classid": "310780353",
+    "listining_id_show_market": 1782008939.5087128,
+    "orderbook_skin_show": 1782008893.5262847
+  },
+  {
+    "listing_id": "544518991918124328",
+    "name": "M4A1-S | VariCamo (Field-Tested)",
+    "asset_id": "52167235901",
+    "itemname_id": 2383884,
+    "instanceid": "8538857744",
+    "classid": "241584030",
+    "listining_id_show_market": 1782008939.5093222,
+    "orderbook_skin_show": 1782008893.5262847
+  },
+  {
+    "listing_id": "508488292425421146",
+    "name": "M4A1-S | VariCamo (Field-Tested)",
+    "asset_id": "51742251250",
+    "itemname_id": 2383884,
+    "instanceid": "8501248134",
+    "classid": "241584030",
+    "listining_id_show_market": 1782008939.5099533,
+    "orderbook_skin_show": 1782008893.5262847
+  },
+  {
+    "listing_id": "524253428001300677",
+    "name": "Desert Eagle | Conspiracy (Minimal Wear)",
+    "asset_id": "39756896100",
+    "itemname_id": 14962961,
+    "instanceid": "6276314001",
+    "classid": "7993035659",
+    "listining_id_show_market": 1782008939.5111387,
+    "orderbook_skin_show": 1782008894.0903623
+  },
+  {
+    "listing_id": "553526825579868200",
+    "name": "M4A1-S | VariCamo (Field-Tested)",
+    "asset_id": "52276570562",
+    "itemname_id": 2383884,
+    "instanceid": "8554273359",
+    "classid": "241584030",
+    "listining_id_show_market": 1782008939.6333776,
+    "orderbook_skin_show": 1782008893.5262847
+  },
+  {
+    "listing_id": "550149125860138864",
+    "name": "AWP | Worm God (Field-Tested)",
+    "asset_id": "7776394649",
+    "itemname_id": 40092005,
+    "instanceid": "188530139",
+    "classid": "7993036388",
+    "listining_id_show_market": 1782008939.907097,
+    "orderbook_skin_show": 1782008898.0005083
+  },
+  {
+    "listing_id": "550149125860116688",
+    "name": "Desert Eagle | Corinthian (Field-Tested)",
+    "asset_id": "52103903243",
+    "itemname_id": 84444468,
+    "instanceid": "6276324253",
+    "classid": "7993037841",
+    "listining_id_show_market": 1782008940.1653464,
+    "orderbook_skin_show": 1782008913.9816916
+  },
+  {
+    "listing_id": "525379327914057195",
+    "name": "SSG 08 | Abyss (Field-Tested)",
+    "asset_id": "25227005420",
+    "itemname_id": 14962911,
+    "instanceid": "6276313523",
+    "classid": "7993035979",
+    "listining_id_show_market": 1782008941.0835252,
+    "orderbook_skin_show": 1782008895.5904467
+  },
+  {
+    "listing_id": "546771426137124222",
+    "name": "StatTrak™ Glock-18 | Clear Polymer (Minimal Wear)",
+    "asset_id": "41855002676",
+    "itemname_id": 176241025,
+    "instanceid": "8215606567",
+    "classid": "7993039099",
+    "listining_id_show_market": 1782008942.2572706,
+    "orderbook_skin_show": 1782008907.1299841
+  },
+  {
+    "listing_id": "553526825579868668",
+    "name": "FAMAS | Survivor Z (Field-Tested)",
+    "asset_id": "52269369075",
+    "itemname_id": 67060960,
+    "instanceid": "8550099535",
+    "classid": "7993037584",
+    "listining_id_show_market": 1782008945.6838245,
+    "orderbook_skin_show": 1782008888.8563523
   }
 ]
